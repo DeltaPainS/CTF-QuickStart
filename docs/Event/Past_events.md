@@ -77,6 +77,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)"  
+    [![](https://ctftime.org/media/events/NbK6tTQdEPQ.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
+    **比赛名称** : [M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-02 15:00:00 - 2024-11-03 01:00:00 UTC+8  
+    **比赛权重** : 24.23  
+    **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
+    **添加日历** : https://ctftime.org/event/2535.ics  
+    
 ??? Quote "[BUET CTF 2024](http://ctf.buetcsefest2024.com/)"  
     [![](https://ctftime.org/media/events/BUET_CTF_2024.png){ width="200" align=left }](http://ctf.buetcsefest2024.com/)  
     **比赛名称** : [BUET CTF 2024](http://ctf.buetcsefest2024.com/)  
@@ -379,7 +388,7 @@ comments: true
     **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
-    **比赛权重** : 24.67  
+    **比赛权重** : 24.68  
     **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
     **添加日历** : https://ctftime.org/event/2497.ics  
     
@@ -496,7 +505,7 @@ comments: true
     **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
-    **比赛权重** : 23.41  
+    **比赛权重** : 23.39  
     **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
     **添加日历** : https://ctftime.org/event/2491.ics  
     
@@ -967,13 +976,4 @@ comments: true
     **比赛权重** : 49.81  
     **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
     **添加日历** : https://ctftime.org/event/2396.ics  
-    
-??? Quote "[CatTheQuest](https://catthequest.com/)"  
-    [![](https://ctftime.org/media/events/DALL_E-2024-03-21-18.10-removebg-preview.png){ width="200" align=left }](https://catthequest.com/)  
-    **比赛名称** : [CatTheQuest](https://catthequest.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-15 08:00:00 - 2024-07-21 08:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CatTheFlag (https://ctftime.org/team/306432)  
-    **添加日历** : https://ctftime.org/event/2414.ics  
     
