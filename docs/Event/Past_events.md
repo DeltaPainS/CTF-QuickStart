@@ -77,6 +77,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Pacific Hackers Conference 2024](https://www.phack.org/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://www.phack.org/)  
+    **比赛名称** : [Pacific Hackers Conference 2024](https://www.phack.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-03 01:00:00 - 2024-11-03 09:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Pacific Hackers Association (https://ctftime.org/team/304096)  
+    **添加日历** : https://ctftime.org/event/2453.ics  
+    
+??? Quote "[Equinor CTF 2024](https://ctf.equinor.com/)"  
+    [![](https://ctftime.org/media/events/ept_1.png){ width="200" align=left }](https://ctf.equinor.com/)  
+    **比赛名称** : [Equinor CTF 2024](https://ctf.equinor.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-02 17:00:00 - 2024-11-03 03:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : EPT (https://ctftime.org/team/119480)  
+    **添加日历** : https://ctftime.org/event/2292.ics  
+    
 ??? Quote "[M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)"  
     [![](https://ctftime.org/media/events/NbK6tTQdEPQ.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
     **比赛名称** : [M*CTF 2024 Junior Quals](https://mctf.mtuci.ru/)  
@@ -958,22 +976,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : Metro Olografix (https://ctftime.org/team/268425)  
     **添加日历** : https://ctftime.org/event/2293.ics  
-    
-??? Quote "[DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)"  
-    [![](https://ctftime.org/media/events/Dingtalk_20240709141420.jpg){ width="200" align=left }](https://buuoj.cn/match/matches/207)  
-    **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-20 10:00:00 - 2024-07-20 18:00:00 UTC+8  
-    **比赛权重** : 20.00  
-    **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
-    **添加日历** : https://ctftime.org/event/2429.ics  
-    
-??? Quote "[ImaginaryCTF 2024](https://2024.imaginaryctf.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://2024.imaginaryctf.org/)  
-    **比赛名称** : [ImaginaryCTF 2024](https://2024.imaginaryctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-20 03:00:00 - 2024-07-22 03:00:00 UTC+8  
-    **比赛权重** : 49.81  
-    **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
-    **添加日历** : https://ctftime.org/event/2396.ics  
     
