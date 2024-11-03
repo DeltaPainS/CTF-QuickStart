@@ -75,6 +75,20 @@ comments: true
     **比赛时间** : 2024年10月02日 10:00 - 2024年10月31日 10:00  
     **其他说明** : QQ 一群：536115792  二群：721693440  
     
+??? Quote "0xGame 2024"  
+    **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年09月17日 10:30 - 2024年11月03日 21:00  
+    **比赛时间** : 2024年10月06日 09:00 - 2024年11月03日 21:00  
+    **其他说明** : QQ群: 746958713  
+    
+??? Quote "NewStar CTF 2024"  
+    **比赛名称** : [NewStar CTF 2024](https://ns.openctf.net)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年09月13日 00:00 - 2024年11月03日 21:00  
+    **比赛时间** : 2024年09月30日 09:00 - 2024年11月03日 21:00  
+    **其他说明** : 赛事QQ群：1169651901  
+    
 
 ## 国际赛事
 ??? Quote "[AlpacaHack Round 6 (Pwn)](https://alpacahack.com/ctfs/round-6)"  
@@ -94,6 +108,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Pacific Hackers Association (https://ctftime.org/team/304096)  
     **添加日历** : https://ctftime.org/event/2453.ics  
+    
+??? Quote "[Hackers N' Hops](https://hackersnhops.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/HACKERSNHOPS.png){ width="200" align=left }](https://hackersnhops.ctfd.io/)  
+    **比赛名称** : [Hackers N' Hops](https://hackersnhops.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-02 18:00:00 - 2024-11-04 02:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Hackers N' Hops (https://ctftime.org/team/119910)  
+    **添加日历** : https://ctftime.org/event/2550.ics  
     
 ??? Quote "[Equinor CTF 2024](https://ctf.equinor.com/)"  
     [![](https://ctftime.org/media/events/ept_1.png){ width="200" align=left }](https://ctf.equinor.com/)  
@@ -967,13 +990,4 @@ comments: true
     **比赛权重** : 16.00  
     **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
     **添加日历** : https://ctftime.org/event/2421.ics  
-    
-??? Quote "[ENOWARS 8](https://8.enowars.com/)"  
-    [![](https://ctftime.org/media/events/enowars8.png){ width="200" align=left }](https://8.enowars.com/)  
-    **比赛名称** : [ENOWARS 8](https://8.enowars.com/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2024-07-20 20:00:00 - 2024-07-21 05:00:00 UTC+8  
-    **比赛权重** : 98.89  
-    **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-    **添加日历** : https://ctftime.org/event/2412.ics  
     
