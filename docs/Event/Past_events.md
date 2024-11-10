@@ -120,6 +120,15 @@ comments: true
     **赛事主办** : HITCON (https://ctftime.org/team/8299)  
     **添加日历** : https://ctftime.org/event/2523.ics  
     
+??? Quote "[4T$ CTF](https://ctf.4ts.fr/)"  
+    [![](https://ctftime.org/media/events/53b0900ddae2f59936bcc4eafc1458cf.jpg){ width="200" align=left }](https://ctf.4ts.fr/)  
+    **比赛名称** : [4T$ CTF](https://ctf.4ts.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-09 02:00:00 - 2024-11-11 02:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : 4T$ (https://ctftime.org/team/302295)  
+    **添加日历** : https://ctftime.org/event/2545.ics  
+    
 ??? Quote "[BlueHens CTF 2024](https://bluehens.ctfd.io/)"  
     [![](https://ctftime.org/media/events/UDCTF-logo_2.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
     **比赛名称** : [BlueHens CTF 2024](https://bluehens.ctfd.io/)  
@@ -128,6 +137,15 @@ comments: true
     **比赛权重** : 34.05  
     **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
     **添加日历** : https://ctftime.org/event/2512.ics  
+    
+??? Quote "[cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
+    [![](https://ctftime.org/media/events/b93b251d190e41c5976063cdc151ac47.jpg){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
+    **比赛名称** : [cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-08 20:30:00 - 2024-11-10 20:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
+    **添加日历** : https://ctftime.org/event/2559.ics  
     
 ??? Quote "[Metared Argentina CERTUNLP](https://ctf.cert.unlp.edu.ar/)"  
     [![](https://ctftime.org/media/events/unlp.png){ width="200" align=left }](https://ctf.cert.unlp.edu.ar/)  
@@ -188,7 +206,7 @@ comments: true
     **比赛名称** : [Hackers N' Hops](https://hackersnhops.ctfd.io/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-02 18:00:00 - 2024-11-04 02:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.67  
     **赛事主办** : Hackers N' Hops (https://ctftime.org/team/119910)  
     **添加日历** : https://ctftime.org/event/2550.ics  
     
@@ -965,22 +983,4 @@ comments: true
     **比赛权重** : 52.04  
     **赛事主办** : idek (https://ctftime.org/team/157039)  
     **添加日历** : https://ctftime.org/event/2304.ics  
-    
-??? Quote "[Lexington Informatics Tournament CTF 2024](https://lit.lhsmathcs.org/)"  
-    [![](https://ctftime.org/media/events/square_CTFtime_LIT_1.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
-    **比赛名称** : [Lexington Informatics Tournament CTF 2024](https://lit.lhsmathcs.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-08-10 23:00:00 - 2024-08-13 11:59:59 UTC+8  
-    **比赛权重** : 46.25  
-    **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
-    **添加日历** : https://ctftime.org/event/2444.ics  
-    
-??? Quote "[CTFZone 2024 Quals](https://ctf.bi.zone/)"  
-    [![](https://ctftime.org/media/events/b98226ad9a255846e456617d99bde1de.png){ width="200" align=left }](https://ctf.bi.zone/)  
-    **比赛名称** : [CTFZone 2024 Quals](https://ctf.bi.zone/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-08-10 17:00:00 - 2024-08-11 17:00:00 UTC+8  
-    **比赛权重** : 73.82  
-    **赛事主办** : BIZone (https://ctftime.org/team/32190)  
-    **添加日历** : https://ctftime.org/event/2408.ics  
     
