@@ -98,6 +98,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[BRICS+ CTF Finals 2024](https://brics-ctf.com/)"  
+    [![](https://ctftime.org/media/events/brics-logo-2024-square.png){ width="200" align=left }](https://brics-ctf.com/)  
+    **比赛名称** : [BRICS+ CTF Finals 2024](https://brics-ctf.com/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-11-16 18:00:00 - 2024-11-17 02:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
+    **添加日历** : https://ctftime.org/event/2521.ics  
+    
+??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
+    [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
+    **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
+    **添加日历** : https://ctftime.org/event/2454.ics  
+    
 ??? Quote "[Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)"  
     [![](https://ctftime.org/media/events/Bild_1.png){ width="200" align=left }](http://ctf.gematik.de/)  
     **比赛名称** : [Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)  
@@ -139,7 +157,7 @@ comments: true
     **比赛名称** : [Bambi CTF #11](https://bambi11.enoflag.de/)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2024-11-09 19:00:00 - 2024-11-10 01:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 83.80  
     **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
     **添加日历** : https://ctftime.org/event/2551.ics  
     
@@ -979,22 +997,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
     **添加日历** : https://ctftime.org/event/2430.ics  
-    
-??? Quote "[AlpacaHack Round 2 (Web)](https://alpacahack.com/ctfs/round-2)"  
-    [![](https://ctftime.org/media/events/dark_512.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-2)  
-    **比赛名称** : [AlpacaHack Round 2 (Web)](https://alpacahack.com/ctfs/round-2)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-01 11:00:00 - 2024-09-01 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-    **添加日历** : https://ctftime.org/event/2465.ics  
-    
-??? Quote "[CISA ICS CTF 2024](https://ctf.cisaicsctf.com/)"  
-    [![](https://ctftime.org/media/events/CTF_Drifveil_Logo-1.png){ width="200" align=left }](https://ctf.cisaicsctf.com/)  
-    **比赛名称** : [CISA ICS CTF 2024](https://ctf.cisaicsctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-01 01:00:00 - 2024-09-05 00:00:00 UTC+8  
-    **比赛权重** : 24.89  
-    **赛事主办** : CISA ICSJWG (https://ctftime.org/team/182074)  
-    **添加日历** : https://ctftime.org/event/2404.ics  
     
