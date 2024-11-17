@@ -98,6 +98,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Crate-CTF 2024](https://foi.se/cratectf)"  
+    [![](https://ctftime.org/media/events/crate-ctf-2024.png){ width="200" align=left }](https://foi.se/cratectf)  
+    **比赛名称** : [Crate-CTF 2024](https://foi.se/cratectf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-16 21:00:00 - 2024-11-17 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
+    **添加日历** : https://ctftime.org/event/2489.ics  
+    
 ??? Quote "[BRICS+ CTF Finals 2024](https://brics-ctf.com/)"  
     [![](https://ctftime.org/media/events/brics-logo-2024-square.png){ width="200" align=left }](https://brics-ctf.com/)  
     **比赛名称** : [BRICS+ CTF Finals 2024](https://brics-ctf.com/)  
@@ -115,6 +124,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
     **添加日历** : https://ctftime.org/event/2454.ics  
+    
+??? Quote "[1337UP LIVE CTF](https://ctf.intigriti.io/)"  
+    [![](https://ctftime.org/media/events/intigriti_icon_cmyk_navy.png){ width="200" align=left }](https://ctf.intigriti.io/)  
+    **比赛名称** : [1337UP LIVE CTF](https://ctf.intigriti.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-15 19:59:59 - 2024-11-17 07:59:59 UTC+8  
+    **比赛权重** : 24.23  
+    **赛事主办** : CryptoCat (https://ctftime.org/team/124896)  
+    **添加日历** : https://ctftime.org/event/2446.ics  
     
 ??? Quote "[Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)"  
     [![](https://ctftime.org/media/events/Bild_1.png){ width="200" align=left }](http://ctf.gematik.de/)  
@@ -979,22 +997,4 @@ comments: true
     **比赛权重** : 53.88  
     **赛事主办** : W&M (https://ctftime.org/team/54666)  
     **添加日历** : https://ctftime.org/event/2457.ics  
-    
-??? Quote "[CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)"  
-    [![](https://ctftime.org/media/events/CSAW.png){ width="200" align=left }](https://ctf.csaw.io/)  
-    **比赛名称** : [CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-07 00:00:00 - 2024-09-09 00:00:00 UTC+8  
-    **比赛权重** : 21.80  
-    **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-    **添加日历** : https://ctftime.org/event/2398.ics  
-    
-??? Quote "[BlackHat MEA CTF Qualification 2024](https://blackhatmea.com/capture-the-flag)"  
-    [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
-    **比赛名称** : [BlackHat MEA CTF Qualification 2024](https://blackhatmea.com/capture-the-flag)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-01 18:00:00 - 2024-09-02 17:59:59 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-    **添加日历** : https://ctftime.org/event/2430.ics  
     
