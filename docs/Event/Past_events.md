@@ -114,6 +114,15 @@ comments: true
     **赛事主办** : C0ncl4v3 (https://ctftime.org/team/303692)  
     **添加日历** : https://ctftime.org/event/2575.ics  
     
+??? Quote "[WP CTF 2024](https://wpctf.it/)"  
+    [![](https://ctftime.org/media/events/WP_CTF_logo.png){ width="200" align=left }](https://wpctf.it/)  
+    **比赛名称** : [WP CTF 2024](https://wpctf.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
+    **添加日历** : https://ctftime.org/event/2395.ics  
+    
 ??? Quote "[Hackvens 2024](https://hackvens.fr/)"  
     [![](https://ctftime.org/media/events/Logo_Hackvens.png){ width="200" align=left }](https://hackvens.fr/)  
     **比赛名称** : [Hackvens 2024](https://hackvens.fr/)  
@@ -122,6 +131,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Hackvens (https://ctftime.org/team/194092)  
     **添加日历** : https://ctftime.org/event/2401.ics  
+    
+??? Quote "[GlacierCTF 2024](https://glacierctf.com/)"  
+    [![](https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa_1.png){ width="200" align=left }](https://glacierctf.com/)  
+    **比赛名称** : [GlacierCTF 2024](https://glacierctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-23 02:00:00 - 2024-11-24 02:00:00 UTC+8  
+    **比赛权重** : 35.69  
+    **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
+    **添加日历** : https://ctftime.org/event/2402.ics  
     
 ??? Quote "[iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
@@ -173,7 +191,7 @@ comments: true
     **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.13  
     **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
     **添加日历** : https://ctftime.org/event/2454.ics  
     
@@ -986,22 +1004,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Metro Olografix (https://ctftime.org/team/268425)  
     **添加日历** : https://ctftime.org/event/2294.ics  
-    
-??? Quote "[Haruulzangi CTF 2024 Qualifier](https://dashboard.haruulzangi.mn/)"  
-    [![](https://ctftime.org/media/events/zangi_2.png){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
-    **比赛名称** : [Haruulzangi CTF 2024 Qualifier](https://dashboard.haruulzangi.mn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-13 12:00:00 - 2024-09-13 12:00:00 UTC+8  
-    **比赛权重** : 23.33  
-    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-    **添加日历** : https://ctftime.org/event/2476.ics  
-    
-??? Quote "[COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)"  
-    [![](https://ctftime.org/media/events/Group_49363.png){ width="200" align=left }](https://ctf-mirror.compfest.id/)  
-    **比赛名称** : [COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-08 08:00:00 - 2024-09-09 08:00:00 UTC+8  
-    **比赛权重** : 43.00  
-    **赛事主办** : CSUI (https://ctftime.org/team/70551)  
-    **添加日历** : https://ctftime.org/event/2463.ics  
     

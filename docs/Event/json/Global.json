@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "CyberSci Regional Qualifiers 2024-25",
-        "比赛时间": "2024-11-24 00:00:00 - 2024-11-24 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2511.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cybersecuritychallenge.ca/",
-        "比赛标志": "https://ctftime.org/media/events/9ad26ba791d2c5418b515bd4699ea7e2.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
-        "比赛ID": "643",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "CTFZone 2024 Final",
         "比赛时间": "2024-11-24 17:00:00 - 2024-11-25 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2506.ics",
@@ -480,18 +468,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "GlacierCTF 2024",
-        "比赛时间": "2024-11-23 02:00:00 - 2024-11-24 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2402.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://glacierctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa_1.png",
-        "比赛权重": "35.69",
-        "赛事主办": "LosFuzzys (https://ctftime.org/team/8323)",
-        "比赛ID": "863",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "SECCON CTF 13 Quals",
         "比赛时间": "2024-11-23 13:00:00 - 2024-11-24 13:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2478.ics",
@@ -504,15 +480,15 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "WP CTF 2024",
-        "比赛时间": "2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2395.ics",
+        "比赛名称": "CyberSci Regional Qualifiers 2024-25",
+        "比赛时间": "2024-11-24 00:00:00 - 2024-11-24 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2511.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://wpctf.it/",
-        "比赛标志": "https://ctftime.org/media/events/WP_CTF_logo.png",
+        "比赛链接": "https://cybersecuritychallenge.ca/",
+        "比赛标志": "https://ctftime.org/media/events/9ad26ba791d2c5418b515bd4699ea7e2.png",
         "比赛权重": "0",
-        "赛事主办": "WP CTF (https://ctftime.org/team/303099)",
-        "比赛ID": "1128",
+        "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
+        "比赛ID": "643",
         "比赛状态": "nowrunning"
     },
     {
@@ -528,6 +504,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "WP CTF 2024",
+        "比赛时间": "2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2395.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://wpctf.it/",
+        "比赛标志": "https://ctftime.org/media/events/WP_CTF_logo.png",
+        "比赛权重": "0",
+        "赛事主办": "WP CTF (https://ctftime.org/team/303099)",
+        "比赛ID": "1128",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "Hackvens 2024",
         "比赛时间": "2024-11-23 04:00:00 - 2024-11-23 14:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2401.ics",
@@ -537,6 +525,18 @@
         "比赛权重": "0.00",
         "赛事主办": "Hackvens (https://ctftime.org/team/194092)",
         "比赛ID": "814",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "GlacierCTF 2024",
+        "比赛时间": "2024-11-23 02:00:00 - 2024-11-24 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2402.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://glacierctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/3ae6516246966c8d08c81d3bd5451cfa_1.png",
+        "比赛权重": "35.69",
+        "赛事主办": "LosFuzzys (https://ctftime.org/team/8323)",
+        "比赛ID": "863",
         "比赛状态": "past"
     },
     {
@@ -606,7 +606,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.pwnsec.xyz/",
         "比赛标志": "https://ctftime.org/media/events/Logo_12.png",
-        "比赛权重": "0",
+        "比赛权重": "24.13",
         "赛事主办": "PwnSec (https://ctftime.org/team/28797)",
         "比赛ID": "1150",
         "比赛状态": "past"
@@ -1689,30 +1689,6 @@
         "比赛权重": "0.00",
         "赛事主办": "Metro Olografix (https://ctftime.org/team/268425)",
         "比赛ID": "1075",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Haruulzangi CTF 2024 Qualifier",
-        "比赛时间": "2024-09-13 12:00:00 - 2024-09-13 12:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2476.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dashboard.haruulzangi.mn/",
-        "比赛标志": "https://ctftime.org/media/events/zangi_2.png",
-        "比赛权重": "23.33",
-        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
-        "比赛ID": "985",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "COMPFEST CTF 2024",
-        "比赛时间": "2024-09-08 08:00:00 - 2024-09-09 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2463.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf-mirror.compfest.id/",
-        "比赛标志": "https://ctftime.org/media/events/Group_49363.png",
-        "比赛权重": "43.00",
-        "赛事主办": "CSUI (https://ctftime.org/team/70551)",
-        "比赛ID": "502",
         "比赛状态": "past"
     }
 ]
