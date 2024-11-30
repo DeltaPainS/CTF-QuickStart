@@ -84,6 +84,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[AlpacaHack Round 7 (Web)](https://alpacahack.com/ctfs/round-7)"  
+    [![](https://ctftime.org/media/events/ctftime_8.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-7)  
+    **比赛名称** : [AlpacaHack Round 7 (Web)](https://alpacahack.com/ctfs/round-7)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-30 11:00:00 - 2024-11-30 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+    **添加日历** : https://ctftime.org/event/2544.ics  
+    
 ??? Quote "[BlackHat MEA CTF Final 2024](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_3.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
     **比赛名称** : [BlackHat MEA CTF Final 2024](https://blackhatmea.com/capture-the-flag)  
@@ -116,7 +125,7 @@ comments: true
     **比赛名称** : [The Hacker Conclave v2](https://ctf.thehackerconclave.es/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-23 17:00:00 - 2024-11-23 20:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : C0ncl4v3 (https://ctftime.org/team/303692)  
     **添加日历** : https://ctftime.org/event/2575.ics  
     
@@ -974,13 +983,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
     **添加日历** : https://ctftime.org/event/2466.ics  
-    
-??? Quote "[KubanCTF Qualifier 2024](https://kubanctf.ru/signUp)"  
-    [![](https://ctftime.org/media/events/0f5e680946259ad6bbdf28ccb33b74e9.png){ width="200" align=left }](https://kubanctf.ru/signUp)  
-    **比赛名称** : [KubanCTF Qualifier 2024](https://kubanctf.ru/signUp)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-14 15:00:00 - 2024-09-14 23:00:00 UTC+8  
-    **比赛权重** : 16.77  
-    **赛事主办** : Codeby Games (https://ctftime.org/team/299486)  
-    **添加日历** : https://ctftime.org/event/2464.ics  
     
