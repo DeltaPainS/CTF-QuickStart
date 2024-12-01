@@ -588,15 +588,6 @@ hide:
                 **赛事主办** : My4nM4r (https://ctftime.org/team/145625)  
                 **添加日历** : https://ctftime.org/event/2560.ics  
                 
-            ??? Quote "[M*CTF 2024 Junior Finals](https://mctf.ru/)"  
-                [![](https://ctftime.org/media/events/IMG_2613.PNG){ width="200" align=left }](https://mctf.ru/)  
-                **比赛名称** : [M*CTF 2024 Junior Finals](https://mctf.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-12-01 15:00:00 - 2024-12-01 21:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
-                **添加日历** : https://ctftime.org/event/2586.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第一届吾杯网络安全技能大赛](https://www.wucup.net/games/1)"  
@@ -684,6 +675,15 @@ hide:
                 **其他说明** : CTFshow单身杯(DSBCTF)比赛由CTFshow主办，是一场个人赛形式的CTF夺旗赛，比赛时间为2024年11月11日11时11分至2024年11月13日11时11分，共48小时。比赛报名需提前注册账号，比赛开始后放出题目。  
                 
         === "国外赛事"
+            ??? Quote "[M*CTF 2024 Junior Finals](https://mctf.ru/)"  
+                [![](https://ctftime.org/media/events/IMG_2613.PNG){ width="200" align=left }](https://mctf.ru/)  
+                **比赛名称** : [M*CTF 2024 Junior Finals](https://mctf.ru/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2024-12-01 15:00:00 - 2024-12-01 21:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
+                **添加日历** : https://ctftime.org/event/2586.ics  
+                
             ??? Quote "[saarCTF 2024](https://ctf.saarland/)"  
                 [![](https://ctftime.org/media/events/e21b4ef017572441617115eaa6bd9823.jpg){ width="200" align=left }](https://ctf.saarland/)  
                 **比赛名称** : [saarCTF 2024](https://ctf.saarland/)  
@@ -743,7 +743,7 @@ hide:
                 **比赛名称** : [CTFZone 2024 Final](http://ctf.bi.zone/)  
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2024-11-24 17:00:00 - 2024-11-25 01:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 96.90  
                 **赛事主办** : BIZone (https://ctftime.org/team/32190)  
                 **添加日历** : https://ctftime.org/event/2506.ics  
                 
@@ -851,7 +851,7 @@ hide:
                 **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
-                **比赛权重** : 24.19  
+                **比赛权重** : 24.24  
                 **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
                 **添加日历** : https://ctftime.org/event/2454.ics  
                 
@@ -905,7 +905,7 @@ hide:
                 **比赛名称** : [Bambi CTF #11](https://bambi11.enoflag.de/)  
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2024-11-09 19:00:00 - 2024-11-10 01:00:00 UTC+8  
-                **比赛权重** : 83.80  
+                **比赛权重** : 84.81  
                 **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
                 **添加日历** : https://ctftime.org/event/2551.ics  
                 
@@ -932,7 +932,7 @@ hide:
                 **比赛名称** : [4T$ CTF](https://ctf.4ts.fr/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-11-09 02:00:00 - 2024-11-11 02:00:00 UTC+8  
-                **比赛权重** : 24.20  
+                **比赛权重** : 24.25  
                 **赛事主办** : 4T$ (https://ctftime.org/team/302295)  
                 **添加日历** : https://ctftime.org/event/2545.ics  
                 
@@ -1574,15 +1574,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : ierae (https://ctftime.org/team/224122)  
                 **添加日历** : https://ctftime.org/event/2441.ics  
-                
-            ??? Quote "[Cyber Jawara International](https://cyberjawara.id/2024)"  
-                [![](https://ctftime.org/media/events/067297e97f084c5492331b121d1b0507.png){ width="200" align=left }](https://cyberjawara.id/2024)  
-                **比赛名称** : [Cyber Jawara International](https://cyberjawara.id/2024)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-21 09:59:00 - 2024-09-22 09:59:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : idnsa (https://ctftime.org/team/239714)  
-                **添加日历** : https://ctftime.org/event/2411.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
