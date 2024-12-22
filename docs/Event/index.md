@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[BackdoorCTF 2024](https://backdoor.infoseciitr.in/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://backdoor.infoseciitr.in/)  
-                **比赛名称** : [BackdoorCTF 2024](https://backdoor.infoseciitr.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-22 20:00:00 - 2024-12-23 20:00:00 UTC+8  
-                **比赛权重** : 49.48  
-                **赛事主办** : InfoSecIITR (https://ctftime.org/team/16691)  
-                **添加日历** : https://ctftime.org/event/2540.ics  
-                
             ??? Quote "[0xL4ugh CTF](https://ctf.0xl4ugh.com/)"  
                 [![](https://ctftime.org/media/events/logo_101.png){ width="200" align=left }](https://ctf.0xl4ugh.com/)  
                 **比赛名称** : [0xL4ugh CTF](https://ctf.0xl4ugh.com/)  
@@ -528,6 +519,15 @@ hide:
                 **赛事主办** : 0ops (https://ctftime.org/team/4419)  
                 **添加日历** : https://ctftime.org/event/2448.ics  
                 
+            ??? Quote "[BackdoorCTF 2024](https://backdoor.infoseciitr.in/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://backdoor.infoseciitr.in/)  
+                **比赛名称** : [BackdoorCTF 2024](https://backdoor.infoseciitr.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-22 20:00:00 - 2024-12-23 20:00:00 UTC+8  
+                **比赛权重** : 49.48  
+                **赛事主办** : InfoSecIITR (https://ctftime.org/team/16691)  
+                **添加日历** : https://ctftime.org/event/2540.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[国城杯初赛](https://ctf2024.goalcent.com/)"  
@@ -557,13 +557,6 @@ hide:
                 **报名时间** : 2024年11月09日 10:00 - 2024年11月15日 16:59  
                 **比赛时间** : 2024年11月09日 10:00 - 2024年11月15日 17:00  
                 **其他说明** : 第四届ISCTF高校联合安全技能挑战赛由福州蓝鲨信息技术有限公司和DK云赞助，由大理大学、信阳师范大学、福建师范大学主办，联合院校名单包括安徽工业经济职业技术学院、成都东软学院等32所高校的网络与信息安全协会联合主办。比赛时间为11月9日10:00至11月15日17:00，比赛平台为isctf2024.bluesharkinfo.com，目前已开放注册。  
-                
-            ??? Quote "[2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)"  
-                **比赛名称** : [2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)  
-                **比赛类型** : 个人线上赛  
-                **报名时间** : 2024年09月01日 09:00 - 2024年10月23日 15:00  
-                **比赛时间** : 2024年10月10日 09:00 - 2024年10月23日 15:00  
-                **其他说明** : QQ群:437096728 更多信息请前往赛事官网 https://ctf.yuanloo.com/  
                 
             ??? Quote "[第八届御网杯信息安全大赛](https://www.hncsisc.com/hncsisc/index.html)"  
                 **比赛名称** : [第八届御网杯信息安全大赛](https://www.hncsisc.com/hncsisc/index.html)  
