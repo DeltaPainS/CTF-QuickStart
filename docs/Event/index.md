@@ -463,13 +463,7 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-            ??? Quote "[NSSCTF Round26](https://www.nssctf.cn/contest)"  
-                **比赛名称** : [NSSCTF Round26](https://www.nssctf.cn/contest)  
-                **比赛类型** : 线上Jeopardy解题赛  
-                **报名时间** : 2024年12月28日 14:00 - 2024年12月28日 13:59  
-                **比赛时间** : 2024年12月28日 14:00 - 2024年12月28日 17:00  
-                **其他说明** : NSSCTF Round26 由NSSCTF主办，比赛时间为2024年12月28日 14:00至17:00，报名已结束，比赛QQ群为864395049。  
-                
+    
         === "国外赛事"
             ??? Quote "[Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)"  
                 [![](https://ctftime.org/media/events/poctflogo1transp.png){ width="200" align=left }](http://pointeroverflowctf.com/)  
@@ -488,15 +482,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
                 **添加日历** : https://ctftime.org/event/2600.ics  
-                
-            ??? Quote "[0xL4ugh CTF](https://0xl4ugh.ctf.ae/)"  
-                [![](https://ctftime.org/media/events/logo_101.png){ width="200" align=left }](https://0xl4ugh.ctf.ae/)  
-                **比赛名称** : [0xL4ugh CTF](https://0xl4ugh.ctf.ae/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-27 20:00:00 - 2024-12-28 20:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
-                **添加日历** : https://ctftime.org/event/2587.ics  
                 
             ??? Quote "[Wargames.MY CTF 2024](https://ctf2024.wargames.my/)"  
                 [![](https://ctftime.org/media/events/WGMY24-PFP1.png){ width="200" align=left }](https://ctf2024.wargames.my/)  
@@ -518,6 +503,13 @@ hide:
                 
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[NSSCTF Round26](https://www.nssctf.cn/contest)"  
+                **比赛名称** : [NSSCTF Round26](https://www.nssctf.cn/contest)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2024年12月28日 14:00 - 2024年12月28日 13:59  
+                **比赛时间** : 2024年12月28日 14:00 - 2024年12月28日 17:00  
+                **其他说明** : NSSCTF Round26 由NSSCTF主办，比赛时间为2024年12月28日 14:00至17:00，报名已结束，比赛QQ群为864395049。  
+                
             ??? Quote "[国城杯初赛](https://ctf2024.goalcent.com/)"  
                 **比赛名称** : [国城杯初赛](https://ctf2024.goalcent.com/)  
                 **比赛类型** : 线上Jeopardy解题赛  
@@ -575,6 +567,15 @@ hide:
                 **其他说明** : CTFshow单身杯(DSBCTF)比赛由CTFshow主办，是一场个人赛形式的CTF夺旗赛，比赛时间为2024年11月11日11时11分至2024年11月13日11时11分，共48小时。比赛报名需提前注册账号，比赛开始后放出题目。  
                 
         === "国外赛事"
+            ??? Quote "[0xL4ugh CTF](https://0xl4ugh.ctf.ae/)"  
+                [![](https://ctftime.org/media/events/logo_101.png){ width="200" align=left }](https://0xl4ugh.ctf.ae/)  
+                **比赛名称** : [0xL4ugh CTF](https://0xl4ugh.ctf.ae/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-27 20:00:00 - 2024-12-28 20:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
+                **添加日历** : https://ctftime.org/event/2587.ics  
+                
             ??? Quote "[BackdoorCTF 2024](https://backdoor.infoseciitr.in/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://backdoor.infoseciitr.in/)  
                 **比赛名称** : [BackdoorCTF 2024](https://backdoor.infoseciitr.in/)  
@@ -1465,15 +1466,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : TU Delft CTF Team (https://ctftime.org/team/134822)  
                 **添加日历** : https://ctftime.org/event/2487.ics  
-                
-            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
-                [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
-                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
-                **添加日历** : https://ctftime.org/event/2389.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
