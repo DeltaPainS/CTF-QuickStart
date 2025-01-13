@@ -48,6 +48,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "KnightCTF 2025",
+        "比赛时间": "2025-01-20 23:00:00 - 2025-01-21 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2610.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://2025.knightctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/knight_ctf_logo_dark_bg_small.png",
+        "比赛权重": "18.78",
+        "赛事主办": "Knight Squad (https://ctftime.org/team/141739)",
+        "比赛ID": "721",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Remedy CTF 2025",
         "比赛时间": "2025-01-24 20:00:00 - 2025-01-26 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2618.ics",
@@ -105,6 +117,18 @@
         "比赛权重": "21.81",
         "赛事主办": "BITSkrieg (https://ctftime.org/team/22310)",
         "比赛ID": "182",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "LA CTF 2025",
+        "比赛时间": "2025-02-08 12:00:00 - 2025-02-10 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2592.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://lac.tf/",
+        "比赛标志": "https://ctftime.org/media/events/lactf-square-logo_1_1.png",
+        "比赛权重": "36.70",
+        "赛事主办": "PBR | UCLA (https://ctftime.org/team/186494)",
+        "比赛ID": "820",
         "比赛状态": "oncoming"
     },
     {
@@ -180,6 +204,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "DamCTF 2025",
+        "比赛时间": "2025-04-05 08:00:00 - 2025-04-07 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2585.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://damctf.xyz/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "60.67",
+        "赛事主办": "OSUSEC (https://ctftime.org/team/12858)",
+        "比赛ID": "423",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "UMDCTF 2025",
         "比赛时间": "2025-04-26 06:00:00 - 2025-04-28 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2563.ics",
@@ -240,30 +276,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "UofTCTF 2025",
-        "比赛时间": "2025-01-11 08:00:00 - 2025-01-13 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2570.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.uoftctf.org/",
-        "比赛标志": "https://ctftime.org/media/events/uoftctf_logo_3000_black.png",
-        "比赛权重": "23.90",
-        "赛事主办": "UofTCTF (https://ctftime.org/team/139261)",
-        "比赛ID": "1052",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "SUCTF 2025",
-        "比赛时间": "2025-01-11 09:00:00 - 2025-01-13 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2620.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://suctf2025.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "SU (https://ctftime.org/team/29641)",
-        "比赛ID": "1226",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "New Year CTF 2025",
         "比赛时间": "2025-01-13 01:00:00 - 2025-01-15 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2582.ics",
@@ -285,6 +297,30 @@
         "比赛权重": "0.00",
         "赛事主办": "DIV0-N0H4TS (https://ctftime.org/team/354275)",
         "比赛ID": "1183",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SUCTF 2025",
+        "比赛时间": "2025-01-11 09:00:00 - 2025-01-13 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2620.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://suctf2025.xctf.org.cn/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "SU (https://ctftime.org/team/29641)",
+        "比赛ID": "1226",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "UofTCTF 2025",
+        "比赛时间": "2025-01-11 08:00:00 - 2025-01-13 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2570.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.uoftctf.org/",
+        "比赛标志": "https://ctftime.org/media/events/uoftctf_logo_3000_black.png",
+        "比赛权重": "23.90",
+        "赛事主办": "UofTCTF (https://ctftime.org/team/139261)",
+        "比赛ID": "1052",
         "比赛状态": "past"
     },
     {
@@ -1449,30 +1485,6 @@
         "比赛权重": "0.00",
         "赛事主办": "UV-CSIRT (https://ctftime.org/team/166955)",
         "比赛ID": "653",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Breach Bytes 2.0",
-        "比赛时间": "2024-10-15 10:30:00 - 2024-10-15 21:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2526.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442",
-        "比赛标志": "https://ctftime.org/media/events/BREACH_BYTES_2.0_Logo_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "The dangers of my heart (https://ctftime.org/team/300150)",
-        "比赛ID": "1180",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "GITEX GLOBAL CTF",
-        "比赛时间": "2024-10-14 15:00:00 - 2024-10-15 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2522.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://gitex.ctf.ae/",
-        "比赛标志": "https://ctftime.org/media/events/New_Project_17.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CTF.ae (https://ctftime.org/team/151875)",
-        "比赛ID": "929",
         "比赛状态": "past"
     }
 ]
