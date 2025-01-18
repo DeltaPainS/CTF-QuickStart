@@ -288,7 +288,13 @@ hide:
     
     === "*即将开始*"
         === "国内赛事"
-    
+            ??? Quote "[VNCTF 2025](https://ctf.vnteam.cn)"  
+                **比赛名称** : [VNCTF 2025](https://ctf.vnteam.cn)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2025年01月01日 00:00 - 2025年02月08日 09:59  
+                **比赛时间** : 2025年02月08日 10:00 - 2025年02月09日 10:00  
+                **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途不可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
+                
         === "国外赛事"
             ??? Quote "[Srdnlen CTF 2025](https://ctf.srdnlen.it/)"  
                 [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
@@ -552,15 +558,6 @@ hide:
                 **赛事主办** : SU (https://ctftime.org/team/29641)  
                 **添加日历** : https://ctftime.org/event/2620.ics  
                 
-            ??? Quote "[UofTCTF 2025](https://ctf.uoftctf.org/)"  
-                [![](https://ctftime.org/media/events/uoftctf_logo_3000_black.png){ width="200" align=left }](https://ctf.uoftctf.org/)  
-                **比赛名称** : [UofTCTF 2025](https://ctf.uoftctf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-11 08:00:00 - 2025-01-13 08:00:00 UTC+8  
-                **比赛权重** : 23.90  
-                **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
-                **添加日历** : https://ctftime.org/event/2570.ics  
-                
             ??? Quote "[Dreamhack CTF Season 7 Round #1 (Div. 1)](https://dreamhack.io/ctf/655)"  
                 [![](https://ctftime.org/media/events/cover01.jpg){ width="200" align=left }](https://dreamhack.io/ctf/655)  
                 **比赛名称** : [Dreamhack CTF Season 7 Round #1 (Div. 1)](https://dreamhack.io/ctf/655)  
@@ -569,6 +566,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/2621.ics  
+                
+            ??? Quote "[UofTCTF 2025](https://ctf.uoftctf.org/)"  
+                [![](https://ctftime.org/media/events/uoftctf_logo_3000_black.png){ width="200" align=left }](https://ctf.uoftctf.org/)  
+                **比赛名称** : [UofTCTF 2025](https://ctf.uoftctf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-11 08:00:00 - 2025-01-13 08:00:00 UTC+8  
+                **比赛权重** : 23.90  
+                **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
+                **添加日历** : https://ctftime.org/event/2570.ics  
                 
             ??? Quote "[GoIda CTF](https://goidactf.ru/)"  
                 [![](https://ctftime.org/media/events/goida.jpg){ width="200" align=left }](https://goidactf.ru/)  
