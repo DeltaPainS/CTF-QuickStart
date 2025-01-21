@@ -10,7 +10,7 @@ comments: true
     **比赛类型** : 线上Jeopardy解题赛  
     **报名时间** : 2025年1月20日 20:00 - 2025年2月17日 19:59  
     **比赛时间** : 2025年2月3日 20:00 - 2025年2月17日 20:00  
-    **其他说明** : HGAME 2025由杭州电子科技大学信息安全协会 Vidar-Team 主办，为个人解题赛。比赛时间为2025年2月3日至2025年2月17日，赛题复现开放至2月24日。报名从2025年1月20日开始，比赛进行期间可随时注册参赛。请加入官方赛事群QQ群：1014353220获取最新资讯。  
+    **其他说明** : HGAME 2025由杭州电子科技大学信息安全协会 Vidar-Team 主办，为个人解题赛。比赛时间为2025年2月3日至2025年2月17日，赛题复现开放至2月24日。报名从2025年1月20日开始，比赛进行期间可随时注册参赛。校外群：576834793  
     
 ??? Quote "VNCTF 2025"  
     **比赛名称** : [VNCTF 2025](https://ctf.vnteam.cn)  
@@ -84,6 +84,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Saiborg (https://ctftime.org/team/271868)  
     **添加日历** : https://ctftime.org/event/2557.ics  
+    
+??? Quote "[KalmarCTF 2025](http://KalmarC.TF/)"  
+    [![](https://ctftime.org/media/events/kalmar-logo.png){ width="200" align=left }](http://KalmarC.TF/)  
+    **比赛名称** : [KalmarCTF 2025](http://KalmarC.TF/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-03-08 01:00:00 - 2025-03-10 01:00:00 UTC+8  
+    **比赛权重** : 33.89  
+    **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
+    **添加日历** : https://ctftime.org/event/2599.ics  
     
 ??? Quote "[@Hack 2025](https://athackctf.com/?s=ju8uvw)"  
     [![](https://ctftime.org/media/events/Hack_Logo_WIDTH_600px.png){ width="200" align=left }](https://athackctf.com/?s=ju8uvw)  
