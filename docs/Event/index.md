@@ -649,33 +649,6 @@ hide:
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
-            ??? Quote "[TUCTF 2024](https://ctfd.tuctf.com/)"  
-                [![](https://ctftime.org/media/events/TU-CTF-2024_2.png){ width="200" align=left }](https://ctfd.tuctf.com/)  
-                **比赛名称** : [TUCTF 2024](https://ctfd.tuctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-25 03:00:00 - 2025-01-27 03:00:00 UTC+8  
-                **比赛权重** : 28.60  
-                **赛事主办** : ascii overflow (https://ctftime.org/team/15360)  
-                **添加日历** : https://ctftime.org/event/2584.ics  
-                
-            ??? Quote "[HackDay 2025 - Qualifications](https://hackday.fr/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
-                **比赛名称** : [HackDay 2025 - Qualifications](https://hackday.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-25 04:00:00 - 2025-01-27 04:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
-                **添加日历** : https://ctftime.org/event/2615.ics  
-                
-            ??? Quote "[Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)"  
-                [![](https://ctftime.org/media/events/favicon_6.png){ width="200" align=left }](https://codefest-ctf.iitbhu.tech/)  
-                **比赛名称** : [Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-25 20:30:00 - 2025-01-27 08:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
-                **添加日历** : https://ctftime.org/event/2648.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NSSCTF Round26](https://www.nssctf.cn/contest)"  
@@ -709,6 +682,15 @@ hide:
                 **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
                 **添加日历** : https://ctftime.org/event/2633.ics  
                 
+            ??? Quote "[Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)"  
+                [![](https://ctftime.org/media/events/favicon_6.png){ width="200" align=left }](https://codefest-ctf.iitbhu.tech/)  
+                **比赛名称** : [Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-25 20:30:00 - 2025-01-27 08:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
+                **添加日历** : https://ctftime.org/event/2648.ics  
+                
             ??? Quote "[Dreamhack CTF Season 7 Round #2 (Div. 2)](https://dreamhack.io/ctf/656)"  
                 [![](https://ctftime.org/media/events/cover02.jpg){ width="200" align=left }](https://dreamhack.io/ctf/656)  
                 **比赛名称** : [Dreamhack CTF Season 7 Round #2 (Div. 2)](https://dreamhack.io/ctf/656)  
@@ -717,6 +699,24 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/2622.ics  
+                
+            ??? Quote "[HackDay 2025 - Qualifications](https://hackday.fr/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
+                **比赛名称** : [HackDay 2025 - Qualifications](https://hackday.fr/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-25 04:00:00 - 2025-01-27 04:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
+                **添加日历** : https://ctftime.org/event/2615.ics  
+                
+            ??? Quote "[TUCTF 2024](https://ctfd.tuctf.com/)"  
+                [![](https://ctftime.org/media/events/TU-CTF-2024_2.png){ width="200" align=left }](https://ctfd.tuctf.com/)  
+                **比赛名称** : [TUCTF 2024](https://ctfd.tuctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-25 03:00:00 - 2025-01-27 03:00:00 UTC+8  
+                **比赛权重** : 28.60  
+                **赛事主办** : ascii overflow (https://ctftime.org/team/15360)  
+                **添加日历** : https://ctftime.org/event/2584.ics  
                 
             ??? Quote "[x3CTF 2025 (feat. mvm)](https://x3c.tf/)"  
                 [![](https://ctftime.org/media/events/pink_logo_square_768.png){ width="200" align=left }](https://x3c.tf/)  
@@ -1572,33 +1572,6 @@ hide:
                 **比赛权重** : 24.77  
                 **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
                 **添加日历** : https://ctftime.org/event/2529.ics  
-                
-            ??? Quote "[Hardwear.io NL 2024 Hardware CTF](https://hwctf.quarkslab.com/)"  
-                [![](https://ctftime.org/media/events/logohwcolor_14.png){ width="200" align=left }](https://hwctf.quarkslab.com/)  
-                **比赛名称** : [Hardwear.io NL 2024 Hardware CTF](https://hwctf.quarkslab.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-24 16:00:00 - 2024-10-25 19:50:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hardware CTF by Quarkslab (https://ctftime.org/team/274600)  
-                **添加日历** : https://ctftime.org/event/2561.ics  
-                
-            ??? Quote "[Questcon CTF](https://questcon.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/Picsart_24-10-01_16-40-39-530_1_1.png){ width="200" align=left }](https://questcon.ctfd.io/)  
-                **比赛名称** : [Questcon CTF](https://questcon.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-22 14:30:00 - 2024-10-23 14:30:00 UTC+8  
-                **比赛权重** : 22.45  
-                **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
-                **添加日历** : https://ctftime.org/event/2505.ics  
-                
-            ??? Quote "[SAS CTF 2024 Finals](https://ctf.thesascon.com/)"  
-                [![](https://ctftime.org/media/events/SAS24_2_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
-                **比赛名称** : [SAS CTF 2024 Finals](https://ctf.thesascon.com/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-10-22 10:00:00 - 2024-10-22 21:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
-                **添加日历** : https://ctftime.org/event/2435.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
