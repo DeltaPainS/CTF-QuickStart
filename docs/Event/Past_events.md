@@ -14,6 +14,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Dreamhack Invitational Quals 2025](https://dreamhack.io/)"  
+    [![](https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae_1.jpg){ width="200" align=left }](https://dreamhack.io/)  
+    **比赛名称** : [Dreamhack Invitational Quals 2025](https://dreamhack.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-08 08:00:00 - 2025-02-09 08:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
+    **添加日历** : https://ctftime.org/event/2627.ics  
+    
+??? Quote "[Pragyan CTF 2025](https://ctf.prgy.in/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.prgy.in/)  
+    **比赛名称** : [Pragyan CTF 2025](https://ctf.prgy.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-07 20:30:00 - 2025-02-09 02:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
+    **添加日历** : https://ctftime.org/event/2608.ics  
+    
 ??? Quote "[BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)"  
     [![](https://ctftime.org/media/events/bearcat25_logo_short.png){ width="200" align=left }](https://play.bearcatctf.io/)  
     **比赛名称** : [BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)  
@@ -895,22 +913,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : UrchinSec (https://ctftime.org/team/175663)  
     **添加日历** : https://ctftime.org/event/2527.ics  
-    
-??? Quote "[ISITDTU CTF 2024 Quals](https://ctf.isitdtu.com/)"  
-    [![](https://ctftime.org/media/events/index_2.gif){ width="200" align=left }](https://ctf.isitdtu.com/)  
-    **比赛名称** : [ISITDTU CTF 2024 Quals](https://ctf.isitdtu.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-26 10:00:00 - 2024-10-27 18:00:00 UTC+8  
-    **比赛权重** : 51.00  
-    **赛事主办** : ISITDTU (https://ctftime.org/team/8241)  
-    **添加日历** : https://ctftime.org/event/2456.ics  
-    
-??? Quote "[SpookyCTF 2024](https://spookyctf.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/Spooky.png){ width="200" align=left }](https://spookyctf.ctfd.io/)  
-    **比赛名称** : [SpookyCTF 2024](https://spookyctf.ctfd.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-26 07:00:00 - 2024-10-28 07:30:00 UTC+8  
-    **比赛权重** : 22.40  
-    **赛事主办** : NICC (https://ctftime.org/team/214936)  
-    **添加日历** : https://ctftime.org/event/2516.ics  
     
