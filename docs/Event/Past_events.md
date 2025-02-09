@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "VNCTF 2025"  
+    **比赛名称** : [VNCTF 2025](https://ctf.vnteam.cn)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年01月01日 00:00 - 2025年02月08日 09:59  
+    **比赛时间** : 2025年02月08日 10:00 - 2025年02月09日 10:00  
+    **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
+    
 ??? Quote "NSSCTF Round26"  
     **比赛名称** : [NSSCTF Round26](https://www.nssctf.cn/contest)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -14,6 +21,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[TheDeccanCTF](https://0x1337iiit.github.io/ctf)"  
+    [![](https://ctftime.org/media/events/logo_104.png){ width="200" align=left }](https://0x1337iiit.github.io/ctf)  
+    **比赛名称** : [TheDeccanCTF](https://0x1337iiit.github.io/ctf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-08 17:30:00 - 2025-02-09 13:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : 0x1337iiit (https://ctftime.org/team/367132)  
+    **添加日历** : https://ctftime.org/event/2656.ics  
+    
 ??? Quote "[Dreamhack Invitational Quals 2025](https://dreamhack.io/)"  
     [![](https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae_1.jpg){ width="200" align=left }](https://dreamhack.io/)  
     **比赛名称** : [Dreamhack Invitational Quals 2025](https://dreamhack.io/)  
@@ -904,13 +920,4 @@ comments: true
     **比赛权重** : 1.00  
     **赛事主办** : Singapore AI CTF (https://ctftime.org/team/357504)  
     **添加日历** : https://ctftime.org/event/2546.ics  
-    
-??? Quote "[UrchinSec Aware CTF](https://ctf.urchinsec.com/)"  
-    [![](https://ctftime.org/media/events/URCHINSEC_free-file_1.png){ width="200" align=left }](https://ctf.urchinsec.com/)  
-    **比赛名称** : [UrchinSec Aware CTF](https://ctf.urchinsec.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-26 15:00:00 - 2024-10-28 03:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : UrchinSec (https://ctftime.org/team/175663)  
-    **添加日历** : https://ctftime.org/event/2527.ics  
     
