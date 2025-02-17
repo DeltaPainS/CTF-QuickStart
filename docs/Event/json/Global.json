@@ -36,18 +36,6 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "TPCTF 2025",
-        "比赛时间": "2025-02-22 09:00:00 - 2025-02-24 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2645.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://tpctf2025.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org/media/events/TPCTF_ba-stylenulla.top_1.png",
-        "比赛权重": "25.00",
-        "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
-        "比赛ID": "1016",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Kashi CTF 2025",
         "比赛时间": "2025-02-22 20:00:00 - 2025-02-23 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2668.ics",
@@ -669,7 +657,7 @@
         "比赛权重": "22.51",
         "赛事主办": "BroncoSec (https://ctftime.org/team/112673)",
         "比赛ID": "1017",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "EHAX CTF 2025",
@@ -870,7 +858,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://x3c.tf/",
         "比赛标志": "https://ctftime.org/media/events/pink_logo_square_768.png",
-        "比赛权重": "23.75",
+        "比赛权重": "23.43",
         "赛事主办": "x3CTF (https://ctftime.org/team/309820)",
         "比赛ID": "1153",
         "比赛状态": "past"
@@ -1857,18 +1845,6 @@
         "比赛权重": "0.00",
         "赛事主办": "BUETSec (https://ctftime.org/team/357430)",
         "比赛ID": "1184",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "TuxCTF V2",
-        "比赛时间": "2024-10-29 17:00:00 - 2024-10-29 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2553.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.instagram.com/tuxpwners/",
-        "比赛标志": "https://ctftime.org/media/events/tuxpwners-logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "TuxPwners (https://ctftime.org/team/274660)",
-        "比赛ID": "1092",
         "比赛状态": "past"
     }
 ]

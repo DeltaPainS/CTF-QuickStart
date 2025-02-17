@@ -317,15 +317,6 @@ hide:
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/2624.ics  
                 
-            ??? Quote "[TPCTF 2025](https://tpctf2025.xctf.org.cn/)"  
-                [![](https://ctftime.org/media/events/TPCTF_ba-stylenulla.top_1.png){ width="200" align=left }](https://tpctf2025.xctf.org.cn/)  
-                **比赛名称** : [TPCTF 2025](https://tpctf2025.xctf.org.cn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-22 09:00:00 - 2025-02-24 09:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : TP-Link (https://ctftime.org/team/273760)  
-                **添加日历** : https://ctftime.org/event/2645.ics  
-                
             ??? Quote "[Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)"  
                 [![](https://ctftime.org/media/events/logo_105.png){ width="200" align=left }](https://kashictf.iitbhucybersec.in/)  
                 **比赛名称** : [Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)  
@@ -795,15 +786,6 @@ hide:
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
-            ??? Quote "[BroncoCTF 2025](https://ctfd.broncoctf.xyz/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctfd.broncoctf.xyz/)  
-                **比赛名称** : [BroncoCTF 2025](https://ctfd.broncoctf.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-16 03:00:00 - 2025-02-17 03:00:00 UTC+8  
-                **比赛权重** : 22.51  
-                **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
-                **添加日历** : https://ctftime.org/event/2657.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[VNCTF 2025](https://ctf.vnteam.cn)"  
@@ -821,6 +803,15 @@ hide:
                 **其他说明** : NSSCTF Round26 由NSSCTF主办，比赛时间为2024年12月28日 14:00至17:00，报名已结束，比赛QQ群为864395049。  
                 
         === "国外赛事"
+            ??? Quote "[BroncoCTF 2025](https://ctfd.broncoctf.xyz/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctfd.broncoctf.xyz/)  
+                **比赛名称** : [BroncoCTF 2025](https://ctfd.broncoctf.xyz/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-02-16 03:00:00 - 2025-02-17 03:00:00 UTC+8  
+                **比赛权重** : 22.51  
+                **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
+                **添加日历** : https://ctftime.org/event/2657.ics  
+                
             ??? Quote "[EHAX CTF 2025](https://ctf.ehax.tech/)"  
                 [![](https://ctftime.org/media/events/ctf-vector.png){ width="200" align=left }](https://ctf.ehax.tech/)  
                 **比赛名称** : [EHAX CTF 2025](https://ctf.ehax.tech/)  
@@ -970,7 +961,7 @@ hide:
                 **比赛名称** : [x3CTF 2025 (feat. mvm)](https://x3c.tf/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-01-25 02:00:00 - 2025-01-27 02:00:00 UTC+8  
-                **比赛权重** : 23.75  
+                **比赛权重** : 23.43  
                 **赛事主办** : x3CTF (https://ctftime.org/team/309820)  
                 **添加日历** : https://ctftime.org/event/2467.ics  
                 
@@ -1711,15 +1702,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : BUETSec (https://ctftime.org/team/357430)  
                 **添加日历** : https://ctftime.org/event/2525.ics  
-                
-            ??? Quote "[TuxCTF V2](https://www.instagram.com/tuxpwners/)"  
-                [![](https://ctftime.org/media/events/tuxpwners-logo.png){ width="200" align=left }](https://www.instagram.com/tuxpwners/)  
-                **比赛名称** : [TuxCTF V2](https://www.instagram.com/tuxpwners/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-29 17:00:00 - 2024-10-29 22:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : TuxPwners (https://ctftime.org/team/274660)  
-                **添加日历** : https://ctftime.org/event/2553.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
