@@ -636,16 +636,16 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "TPCTF 2025",
-        "比赛时间": "2025-03-08 09:00:00 - 2025-03-10 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2645.ics",
+        "比赛名称": "DFIR Labs CTF by The DFIR Report",
+        "比赛时间": "2025-03-09 00:00:00 - 2025-03-09 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2643.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://tpctf2025.xctf.org.cn/",
-        "比赛标志": "https://ctftime.org/media/events/TPCTF_ba-stylenulla.top_1.png",
-        "比赛权重": "25.00",
-        "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
-        "比赛ID": "1016",
-        "比赛状态": "nowrunning"
+        "比赛链接": "https://thedfirreport.com/services/dfir-labs/ctf/",
+        "比赛标志": "https://ctftime.org/media/events/DFIR_Labs_Icon.png",
+        "比赛权重": "0",
+        "赛事主办": "The DFIR Report (https://ctftime.org/team/309500)",
+        "比赛ID": "1149",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Ugra CTF Quals 2025",
@@ -657,18 +657,18 @@
         "比赛权重": "32.59",
         "赛事主办": "[team Team] (https://ctftime.org/team/49808)",
         "比赛ID": "457",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
-        "比赛名称": "DFIR Labs CTF by The DFIR Report",
-        "比赛时间": "2025-03-09 00:00:00 - 2025-03-09 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2643.ics",
+        "比赛名称": "TPCTF 2025",
+        "比赛时间": "2025-03-08 09:00:00 - 2025-03-10 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2645.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://thedfirreport.com/services/dfir-labs/ctf/",
-        "比赛标志": "https://ctftime.org/media/events/DFIR_Labs_Icon.png",
-        "比赛权重": "0",
-        "赛事主办": "The DFIR Report (https://ctftime.org/team/309500)",
-        "比赛ID": "1149",
+        "比赛链接": "https://tpctf2025.xctf.org.cn/",
+        "比赛标志": "https://ctftime.org/media/events/TPCTF_ba-stylenulla.top_1.png",
+        "比赛权重": "25.00",
+        "赛事主办": "TP-Link (https://ctftime.org/team/273760)",
+        "比赛ID": "1016",
         "比赛状态": "past"
     },
     {
@@ -732,24 +732,24 @@
         "比赛状态": "past"
     },
     {
-        "比赛名称": "SECCON CTF 13 International Finals",
-        "比赛时间": "2025-03-01 09:00:00 - 2025-03-02 19:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2649.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.seccon.jp/",
-        "比赛标志": "https://ctftime.org/media/events/seccon_s_8.png",
-        "比赛权重": "25.00",
-        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
-        "比赛ID": "92",
-        "比赛状态": "past"
-    },
-    {
         "比赛名称": "SECCON CTF 13 Domestic Finals",
         "比赛时间": "2025-03-01 09:00:00 - 2025-03-02 19:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2650.ics",
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.seccon.jp/",
         "比赛标志": "https://ctftime.org/media/events/seccon_s_9.png",
+        "比赛权重": "25.00",
+        "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
+        "比赛ID": "92",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SECCON CTF 13 International Finals",
+        "比赛时间": "2025-03-01 09:00:00 - 2025-03-02 19:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2649.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.seccon.jp/",
+        "比赛标志": "https://ctftime.org/media/events/seccon_s_8.png",
         "比赛权重": "25.00",
         "赛事主办": "SECCON CTF (https://ctftime.org/team/11918)",
         "比赛ID": "92",
@@ -810,7 +810,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://kashictf.iitbhucybersec.in/",
         "比赛标志": "https://ctftime.org/media/events/logo_105.png",
-        "比赛权重": "22.27",
+        "比赛权重": "21.94",
         "赛事主办": "IIT(BHU)CyberSec (https://ctftime.org/team/22546)",
         "比赛ID": "1251",
         "比赛状态": "past"
@@ -1062,7 +1062,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://x3c.tf/",
         "比赛标志": "https://ctftime.org/media/events/pink_logo_square_768.png",
-        "比赛权重": "23.47",
+        "比赛权重": "23.51",
         "赛事主办": "x3CTF (https://ctftime.org/team/309820)",
         "比赛ID": "1153",
         "比赛状态": "past"
@@ -1833,30 +1833,6 @@
         "比赛权重": "33.59",
         "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
         "比赛ID": "165",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "HITCON CTF 2024 Final",
-        "比赛时间": "2024-11-09 08:00:00 - 2024-11-10 16:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2523.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "http://ctf.hitcon.org/",
-        "比赛标志": "https://ctftime.org/media/events/eb3c04d49c017eda197bab74939403eb.jpg",
-        "比赛权重": "1.00",
-        "赛事主办": "HITCON (https://ctftime.org/team/8299)",
-        "比赛ID": "79",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "4T$ CTF",
-        "比赛时间": "2024-11-09 02:00:00 - 2024-11-11 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2545.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.4ts.fr/",
-        "比赛标志": "https://ctftime.org/media/events/53b0900ddae2f59936bcc4eafc1458cf.jpg",
-        "比赛权重": "24.40",
-        "赛事主办": "4T$ (https://ctftime.org/team/302295)",
-        "比赛ID": "1188",
         "比赛状态": "past"
     }
 ]
