@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "DC509 CTF 2025",
-        "比赛时间": "2025-03-21 08:00:00 - 2025-03-21 10:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2730.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dc509.com/",
-        "比赛标志": "https://ctftime.org/media/events/dc509.png",
-        "比赛权重": "0.00",
-        "赛事主办": "dc509 (https://ctftime.org/team/372660)",
-        "比赛ID": "1266",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Cyber Apocalypse CTF 2025: Tales from Eldoria",
         "比赛时间": "2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2674.ics",
@@ -756,6 +744,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "DC509 CTF 2025",
+        "比赛时间": "2025-03-21 08:00:00 - 2025-03-21 10:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2730.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://dc509.com/",
+        "比赛标志": "https://ctftime.org/media/events/dc509.png",
+        "比赛权重": "0.00",
+        "赛事主办": "dc509 (https://ctftime.org/team/372660)",
+        "比赛ID": "1266",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "PascalCTF Beginners 2025",
         "比赛时间": "2025-03-19 23:00:00 - 2025-03-20 04:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2664.ics",
@@ -1398,7 +1398,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://suctf2025.xctf.org.cn/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.71",
+        "比赛权重": "24.75",
         "赛事主办": "SU (https://ctftime.org/team/29641)",
         "比赛ID": "1226",
         "比赛状态": "past"
