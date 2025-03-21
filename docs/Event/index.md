@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
-                **比赛名称** : [Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8  
-                **比赛权重** : 24.00  
-                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-                **添加日历** : https://ctftime.org/event/2674.ics  
-                
             ??? Quote "[pingCTF 2025](https://knping.pl/ctf)"  
                 [![](https://ctftime.org/media/events/CTF_blank_1.png){ width="200" align=left }](https://knping.pl/ctf)  
                 **比赛名称** : [pingCTF 2025](https://knping.pl/ctf)  
@@ -695,6 +686,15 @@ hide:
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2577.ics  
                 
+            ??? Quote "[GPN CTF 2025](https://2025.ctf.kitctf.de/)"  
+                [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png){ width="200" align=left }](https://2025.ctf.kitctf.de/)  
+                **比赛名称** : [GPN CTF 2025](https://2025.ctf.kitctf.de/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-06-20 18:00:00 - 2025-06-22 06:00:00 UTC+8  
+                **比赛权重** : 46.00  
+                **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
+                **添加日历** : https://ctftime.org/event/2694.ics  
+                
             ??? Quote "[Google Capture The Flag 2025](https://g.co/ctf)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://g.co/ctf)  
                 **比赛名称** : [Google Capture The Flag 2025](https://g.co/ctf)  
@@ -843,14 +843,14 @@ hide:
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2588.ics  
                 
-            ??? Quote "[m0leCon CTF 2025](https://finals.m0lecon.it/)"  
-                [![](https://ctftime.org/media/events/ctftime_4_1.png){ width="200" align=left }](https://finals.m0lecon.it/)  
-                **比赛名称** : [m0leCon CTF 2025](https://finals.m0lecon.it/)  
+            ??? Quote "[Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
+                **比赛名称** : [Cyber Apocalypse CTF 2025: Tales from Eldoria](https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-21 00:00:00 - 2025-03-22 00:00:00 UTC+8  
-                **比赛权重** : 75.00  
-                **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
-                **添加日历** : https://ctftime.org/event/2725.ics  
+                **比赛时间** : 2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8  
+                **比赛权重** : 24.00  
+                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
+                **添加日历** : https://ctftime.org/event/2674.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -877,6 +877,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : dc509 (https://ctftime.org/team/372660)  
                 **添加日历** : https://ctftime.org/event/2730.ics  
+                
+            ??? Quote "[m0leCon CTF 2025](https://finals.m0lecon.it/)"  
+                [![](https://ctftime.org/media/events/ctftime_4_1.png){ width="200" align=left }](https://finals.m0lecon.it/)  
+                **比赛名称** : [m0leCon CTF 2025](https://finals.m0lecon.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-21 00:00:00 - 2025-03-22 00:00:00 UTC+8  
+                **比赛权重** : 75.00  
+                **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
+                **添加日历** : https://ctftime.org/event/2725.ics  
                 
             ??? Quote "[PascalCTF Beginners 2025](https://ctf.pascalctf.it/)"  
                 [![](https://ctftime.org/media/events/Untitled_2_1.png){ width="200" align=left }](https://ctf.pascalctf.it/)  
@@ -1072,7 +1081,7 @@ hide:
                 **比赛名称** : [ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-28 23:30:00 - 2025-03-02 23:30:00 UTC+8  
-                **比赛权重** : 24.07  
+                **比赛权重** : 24.03  
                 **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
                 **添加日历** : https://ctftime.org/event/2638.ics  
                 
@@ -1081,7 +1090,7 @@ hide:
                 **比赛名称** : [ACECTF 1.0](https://acectf.tech/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-27 14:30:00 - 2025-02-28 14:30:00 UTC+8  
-                **比赛权重** : 22.63  
+                **比赛权重** : 22.56  
                 **赛事主办** : ACECTF (https://ctftime.org/team/364715)  
                 **添加日历** : https://ctftime.org/event/2619.ics  
                 
@@ -1144,7 +1153,7 @@ hide:
                 **比赛名称** : [EHAX CTF 2025](https://ctf.ehax.tech/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-16 00:00:00 - 2025-02-17 00:00:00 UTC+8  
-                **比赛权重** : 22.69  
+                **比赛权重** : 22.60  
                 **赛事主办** : EHAX (https://ctftime.org/team/270643)  
                 **添加日历** : https://ctftime.org/event/2677.ics  
                 
@@ -1759,15 +1768,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Shellphish (https://ctftime.org/team/285)  
                 **添加日历** : https://ctftime.org/event/2566.ics  
-                
-            ??? Quote "[Crate-CTF 2024](https://foi.se/cratectf)"  
-                [![](https://ctftime.org/media/events/crate-ctf-2024.png){ width="200" align=left }](https://foi.se/cratectf)  
-                **比赛名称** : [Crate-CTF 2024](https://foi.se/cratectf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-16 21:00:00 - 2024-11-17 05:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
-                **添加日历** : https://ctftime.org/event/2489.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>

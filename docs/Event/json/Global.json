@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Cyber Apocalypse CTF 2025: Tales from Eldoria",
-        "比赛时间": "2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2674.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.00",
-        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
-        "比赛ID": "554",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "pingCTF 2025",
         "比赛时间": "2025-03-22 03:00:00 - 2025-03-24 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2670.ics",
@@ -540,6 +528,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "GPN CTF 2025",
+        "比赛时间": "2025-06-20 18:00:00 - 2025-06-22 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2694.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://2025.ctf.kitctf.de/",
+        "比赛标志": "https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png",
+        "比赛权重": "46.00",
+        "赛事主办": "KITCTF (https://ctftime.org/team/7221)",
+        "比赛ID": "854",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "Google Capture The Flag 2025",
         "比赛时间": "2025-06-21 02:00:00 - 2025-06-23 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2718.ics",
@@ -732,15 +732,15 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "m0leCon CTF 2025",
-        "比赛时间": "2025-03-21 00:00:00 - 2025-03-22 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2725.ics",
+        "比赛名称": "Cyber Apocalypse CTF 2025: Tales from Eldoria",
+        "比赛时间": "2025-03-21 21:00:00 - 2025-03-26 20:59:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2674.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://finals.m0lecon.it/",
-        "比赛标志": "https://ctftime.org/media/events/ctftime_4_1.png",
-        "比赛权重": "75.00",
-        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
-        "比赛ID": "372",
+        "比赛链接": "https://ctf.hackthebox.com/event/details/cyber-apocalypse-ctf-2025-tales-from-eldoria-2107",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "24.00",
+        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
+        "比赛ID": "554",
         "比赛状态": "nowrunning"
     },
     {
@@ -753,6 +753,18 @@
         "比赛权重": "0.00",
         "赛事主办": "dc509 (https://ctftime.org/team/372660)",
         "比赛ID": "1266",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "m0leCon CTF 2025",
+        "比赛时间": "2025-03-21 00:00:00 - 2025-03-22 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2725.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://finals.m0lecon.it/",
+        "比赛标志": "https://ctftime.org/media/events/ctftime_4_1.png",
+        "比赛权重": "75.00",
+        "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
+        "比赛ID": "372",
         "比赛状态": "past"
     },
     {
@@ -1014,7 +1026,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.iiitkottayam.ac.in/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.07",
+        "比赛权重": "24.03",
         "赛事主办": "r3d_kn1ght5 (https://ctftime.org/team/212248)",
         "比赛ID": "1083",
         "比赛状态": "past"
@@ -1026,7 +1038,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://acectf.tech/",
         "比赛标志": "https://ctftime.org/media/events/WhatsApp_Image_2024-12-26_at_12.03.44_7efe1dad.jpg",
-        "比赛权重": "22.63",
+        "比赛权重": "22.56",
         "赛事主办": "ACECTF (https://ctftime.org/team/364715)",
         "比赛ID": "1231",
         "比赛状态": "past"
@@ -1110,7 +1122,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.ehax.tech/",
         "比赛标志": "https://ctftime.org/media/events/ctf-vector.png",
-        "比赛权重": "22.69",
+        "比赛权重": "22.60",
         "赛事主办": "EHAX (https://ctftime.org/team/270643)",
         "比赛ID": "1244",
         "比赛状态": "past"
@@ -1929,18 +1941,6 @@
         "比赛权重": "0",
         "赛事主办": "Shellphish (https://ctftime.org/team/285)",
         "比赛ID": "5",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Crate-CTF 2024",
-        "比赛时间": "2024-11-16 21:00:00 - 2024-11-17 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2489.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://foi.se/cratectf",
-        "比赛标志": "https://ctftime.org/media/events/crate-ctf-2024.png",
-        "比赛权重": "25.00",
-        "赛事主办": "Crate-CTF (https://ctftime.org/team/352250)",
-        "比赛ID": "1172",
         "比赛状态": "past"
     }
 ]
