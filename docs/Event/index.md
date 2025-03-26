@@ -296,15 +296,6 @@ hide:
                 **其他说明** : 2025年能源网络安全大赛由中国能源研究会主办，面向电网企业、发电及电力建设企业、石油石化企业、煤炭企业等单位网络安全技术、运维和管理人员，以及国内网络安全领域知名高校、科研机构、产业单位等代表。报名截止日期为2025年3月31日，可通过扫描二维码下载报名表并发送至icc@cers.org.cn邮箱。联系人包括屈庆红、李理和陈炜，可通过电话或邮箱进行咨询。  
                 
         === "国外赛事"
-            ??? Quote "[SwampCTF 2025](https://swampctf.com/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://swampctf.com/)  
-                **比赛名称** : [SwampCTF 2025](https://swampctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-28 08:21:00 - 2025-03-30 08:21:00 UTC+8  
-                **比赛权重** : 40.40  
-                **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
-                **添加日历** : https://ctftime.org/event/2573.ics  
-                
             ??? Quote "[SibirCTF 2025](https://vk.com/sibirctf)"  
                 [![](https://ctftime.org/media/events/cybersibir2025logo_1.png){ width="200" align=left }](https://vk.com/sibirctf)  
                 **比赛名称** : [SibirCTF 2025](https://vk.com/sibirctf)  
@@ -341,14 +332,14 @@ hide:
                 **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
                 **添加日历** : https://ctftime.org/event/2616.ics  
                 
-            ??? Quote "[SpartanCTF 2025](https://spartan.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/spctf.png){ width="200" align=left }](https://spartan.ctfd.io/)  
-                **比赛名称** : [SpartanCTF 2025](https://spartan.ctfd.io/)  
+            ??? Quote "[SwampCTF 2025](https://swampctf.com/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://swampctf.com/)  
+                **比赛名称** : [SwampCTF 2025](https://swampctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-03-29 05:00:00 - 2025-03-31 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Zero Day Club (https://ctftime.org/team/286318)  
-                **添加日历** : https://ctftime.org/event/2447.ics  
+                **比赛权重** : 40.40  
+                **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
+                **添加日历** : https://ctftime.org/event/2573.ics  
                 
             ??? Quote "[DiceCTF 2025 Quals](https://ctf.dicega.ng/)"  
                 [![](https://ctftime.org/media/events/dicectf_2_1_1_1.png){ width="200" align=left }](https://ctf.dicega.ng/)  
@@ -656,6 +647,15 @@ hide:
                 **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
                 **添加日历** : https://ctftime.org/event/2719.ics  
                 
+            ??? Quote "[AlpacaHack Round 11 (Web)](https://alpacahack.com/ctfs/round-11)"  
+                [![](https://ctftime.org/media/events/ctftime_10.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-11)  
+                **比赛名称** : [AlpacaHack Round 11 (Web)](https://alpacahack.com/ctfs/round-11)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-27 11:00:00 - 2025-04-27 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+                **添加日历** : https://ctftime.org/event/2710.ics  
+                
             ??? Quote "[ICCSDFAI](https://ctf.astanait.edu.kz/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.astanait.edu.kz/)  
                 **比赛名称** : [ICCSDFAI](https://ctf.astanait.edu.kz/)  
@@ -818,6 +818,15 @@ hide:
                 **赛事主办** : ierae (https://ctftime.org/team/224122)  
                 **添加日历** : https://ctftime.org/event/2655.ics  
                 
+            ??? Quote "[R3CTF 2025](https://ctf2025.r3kapig.com/)"  
+                [![](https://ctftime.org/media/events/111_1.png){ width="200" align=left }](https://ctf2025.r3kapig.com/)  
+                **比赛名称** : [R3CTF 2025](https://ctf2025.r3kapig.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-05 10:00:00 - 2025-07-07 10:00:00 UTC+8  
+                **比赛权重** : 24.50  
+                **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
+                **添加日历** : https://ctftime.org/event/2731.ics  
+                
             ??? Quote "[L3akCTF 2025](https://ctf.l3ak.team/)"  
                 [![](https://ctftime.org/media/events/l3ak-color-transparent.png){ width="200" align=left }](https://ctf.l3ak.team/)  
                 **比赛名称** : [L3akCTF 2025](https://ctf.l3ak.team/)  
@@ -835,6 +844,24 @@ hide:
                 **比赛权重** : 91.66  
                 **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
                 **添加日历** : https://ctftime.org/event/2669.ics  
+                
+            ??? Quote "[DeadSec CTF 2025](https://www.deadsec.xyz/)"  
+                [![](https://ctftime.org/media/events/Picture1_2.png){ width="200" align=left }](https://www.deadsec.xyz/)  
+                **比赛名称** : [DeadSec CTF 2025](https://www.deadsec.xyz/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-26 06:00:00 - 2025-07-28 06:00:00 UTC+8  
+                **比赛权重** : 31.29  
+                **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
+                **添加日历** : https://ctftime.org/event/2631.ics  
+                
+            ??? Quote "[GaianSpace CTF 2025](https://gaian.space/ctf)"  
+                [![](https://ctftime.org/media/events/gaianspace-logo-new.png){ width="200" align=left }](https://gaian.space/ctf)  
+                **比赛名称** : [GaianSpace CTF 2025](https://gaian.space/ctf)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-08-08 22:00:00 - 2025-08-12 22:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
+                **添加日历** : https://ctftime.org/event/2732.ics  
                 
             ??? Quote "[WHY2025 CTF](https://ctf.why2025.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.why2025.org/)  
@@ -990,6 +1017,15 @@ hide:
                 **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
                 
         === "国外赛事"
+            ??? Quote "[AlpacaHack Round 10 (Pwn)](https://alpacahack.com/ctfs/round-10)"  
+                [![](https://ctftime.org/media/events/ctftime_9.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-10)  
+                **比赛名称** : [AlpacaHack Round 10 (Pwn)](https://alpacahack.com/ctfs/round-10)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-23 11:00:00 - 2025-03-23 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+                **添加日历** : https://ctftime.org/event/2709.ics  
+                
             ??? Quote "[ZeroDays CTF 2025](http://www.zerodays.ie/)"  
                 [![](https://ctftime.org/media/events/zerodays_logo.png){ width="200" align=left }](http://www.zerodays.ie/)  
                 **比赛名称** : [ZeroDays CTF 2025](http://www.zerodays.ie/)  
@@ -1880,15 +1916,6 @@ hide:
                 **比赛权重** : 96.90  
                 **赛事主办** : BIZone (https://ctftime.org/team/32190)  
                 **添加日历** : https://ctftime.org/event/2506.ics  
-                
-            ??? Quote "[CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)"  
-                [![](https://ctftime.org/media/events/9ad26ba791d2c5418b515bd4699ea7e2.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-                **比赛名称** : [CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-24 00:00:00 - 2024-11-24 07:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-                **添加日历** : https://ctftime.org/event/2511.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
