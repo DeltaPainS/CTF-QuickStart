@@ -296,15 +296,6 @@ hide:
                 **其他说明** : 2025年能源网络安全大赛由中国能源研究会主办，面向电网企业、发电及电力建设企业、石油石化企业、煤炭企业等单位网络安全技术、运维和管理人员，以及国内网络安全领域知名高校、科研机构、产业单位等代表。报名截止日期为2025年3月31日，可通过扫描二维码下载报名表并发送至icc@cers.org.cn邮箱。联系人包括屈庆红、李理和陈炜，可通过电话或邮箱进行咨询。  
                 
         === "国外赛事"
-            ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
-                [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
-                **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
-                **添加日历** : https://ctftime.org/event/2738.ics  
-                
             ??? Quote "[JerseyCTF V](https://ctf.jerseyctf.com/)"  
                 [![](https://ctftime.org/media/events/jctfv_hat_1.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
                 **比赛名称** : [JerseyCTF V](https://ctf.jerseyctf.com/)  
@@ -921,15 +912,6 @@ hide:
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2588.ics  
                 
-            ??? Quote "[HackDay 2025 - Finals](https://hackday.fr/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
-                **比赛名称** : [HackDay 2025 - Finals](https://hackday.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 02:00:00 - 2025-03-30 02:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
-                **添加日历** : https://ctftime.org/event/2616.ics  
-                
             ??? Quote "[SwampCTF 2025](https://swampctf.com/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://swampctf.com/)  
                 **比赛名称** : [SwampCTF 2025](https://swampctf.com/)  
@@ -956,33 +938,6 @@ hide:
                 **比赛权重** : 56.66  
                 **赛事主办** : TAMUctf (https://ctftime.org/team/37721)  
                 **添加日历** : https://ctftime.org/event/2681.ics  
-                
-            ??? Quote "[Dreamhack CTF Season 7 Round #6 (Div. 2)](https://dreamhack.io/ctf/660)"  
-                [![](https://ctftime.org/media/events/cover06.jpg){ width="200" align=left }](https://dreamhack.io/ctf/660)  
-                **比赛名称** : [Dreamhack CTF Season 7 Round #6 (Div. 2)](https://dreamhack.io/ctf/660)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 08:00:00 - 2025-03-29 23:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
-                **添加日历** : https://ctftime.org/event/2626.ics  
-                
-            ??? Quote "[Codegate CTF 2025 Preliminary](http://ctf.codegate.org/)"  
-                [![](https://ctftime.org){ width="200" align=left }](http://ctf.codegate.org/)  
-                **比赛名称** : [Codegate CTF 2025 Preliminary](http://ctf.codegate.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 08:00:00 - 2025-03-29 23:00:00 UTC+8  
-                **比赛权重** : 54.00  
-                **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
-                **添加日历** : https://ctftime.org/event/2706.ics  
-                
-            ??? Quote "[LBC2 2025](http://lbc2.org/)"  
-                [![](https://ctftime.org){ width="200" align=left }](http://lbc2.org/)  
-                **比赛名称** : [LBC2 2025](http://lbc2.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 17:00:00 - 2025-03-29 23:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : LBC2 (https://ctftime.org/team/373963)  
-                **添加日历** : https://ctftime.org/event/2728.ics  
                 
             ??? Quote "[PolyPwnCTF 2025](https://pwn.polycyber.io/)"  
                 [![](https://ctftime.org/media/events/Logo_PolyPwn_CTF.jpg){ width="200" align=left }](https://pwn.polycyber.io/)  
@@ -1044,6 +999,51 @@ hide:
                 **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
                 
         === "国外赛事"
+            ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
+                [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
+                **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
+                **添加日历** : https://ctftime.org/event/2738.ics  
+                
+            ??? Quote "[LBC2 2025](http://lbc2.org/)"  
+                [![](https://ctftime.org){ width="200" align=left }](http://lbc2.org/)  
+                **比赛名称** : [LBC2 2025](http://lbc2.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 17:00:00 - 2025-03-29 23:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : LBC2 (https://ctftime.org/team/373963)  
+                **添加日历** : https://ctftime.org/event/2728.ics  
+                
+            ??? Quote "[Dreamhack CTF Season 7 Round #6 (Div. 2)](https://dreamhack.io/ctf/660)"  
+                [![](https://ctftime.org/media/events/cover06.jpg){ width="200" align=left }](https://dreamhack.io/ctf/660)  
+                **比赛名称** : [Dreamhack CTF Season 7 Round #6 (Div. 2)](https://dreamhack.io/ctf/660)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 08:00:00 - 2025-03-29 23:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
+                **添加日历** : https://ctftime.org/event/2626.ics  
+                
+            ??? Quote "[Codegate CTF 2025 Preliminary](http://ctf.codegate.org/)"  
+                [![](https://ctftime.org){ width="200" align=left }](http://ctf.codegate.org/)  
+                **比赛名称** : [Codegate CTF 2025 Preliminary](http://ctf.codegate.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 08:00:00 - 2025-03-29 23:00:00 UTC+8  
+                **比赛权重** : 54.00  
+                **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
+                **添加日历** : https://ctftime.org/event/2706.ics  
+                
+            ??? Quote "[HackDay 2025 - Finals](https://hackday.fr/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://hackday.fr/)  
+                **比赛名称** : [HackDay 2025 - Finals](https://hackday.fr/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-29 02:00:00 - 2025-03-30 02:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
+                **添加日历** : https://ctftime.org/event/2616.ics  
+                
             ??? Quote "[UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)"  
                 [![](https://ctftime.org/media/events/MfknElGVExHGiftE.png){ width="200" align=left }](https://unr25i-international.cyber-edu.co/)  
                 **比赛名称** : [UNbreakable International 2025 - Individual Phase](https://unr25i-international.cyber-edu.co/)  
@@ -1898,51 +1898,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
                 **添加日历** : https://ctftime.org/event/2419.ics  
-                
-            ??? Quote "[Advent of CTF 2024](https://cyberstudents.net/advent)"  
-                [![](https://ctftime.org/media/events/IMG_4522.png){ width="200" align=left }](https://cyberstudents.net/advent)  
-                **比赛名称** : [Advent of CTF 2024](https://cyberstudents.net/advent)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-02 04:00:00 - 2025-01-01 12:59:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
-                **添加日历** : https://ctftime.org/event/2600.ics  
-                
-            ??? Quote "[M*CTF 2024 Junior Finals](https://mctf.ru/)"  
-                [![](https://ctftime.org/media/events/IMG_2613.PNG){ width="200" align=left }](https://mctf.ru/)  
-                **比赛名称** : [M*CTF 2024 Junior Finals](https://mctf.ru/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-12-01 15:00:00 - 2024-12-01 21:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
-                **添加日历** : https://ctftime.org/event/2586.ics  
-                
-            ??? Quote "[saarCTF 2024](https://ctf.saarland/)"  
-                [![](https://ctftime.org/media/events/e21b4ef017572441617115eaa6bd9823.jpg){ width="200" align=left }](https://ctf.saarland/)  
-                **比赛名称** : [saarCTF 2024](https://ctf.saarland/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2024-11-30 21:00:00 - 2024-12-01 06:00:00 UTC+8  
-                **比赛权重** : 98.50  
-                **赛事主办** : saarsec (https://ctftime.org/team/15337)  
-                **添加日历** : https://ctftime.org/event/2490.ics  
-                
-            ??? Quote "[HackTM CTF 2024 - Postponed](https://ctf.hacktm.ro/)"  
-                [![](https://ctftime.org/media/events/e2b12b3390413f1cf2cdeb7b12e076c6.jpg){ width="200" align=left }](https://ctf.hacktm.ro/)  
-                **比赛名称** : [HackTM CTF 2024 - Postponed](https://ctf.hacktm.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8  
-                **比赛权重** : 24.67  
-                **赛事主办** : WreckTheLine (https://ctftime.org/team/57908)  
-                **添加日历** : https://ctftime.org/event/2452.ics  
-                
-            ??? Quote "[World Wide CTF 2024](https://wwctf.com/)"  
-                [![](https://ctftime.org/media/events/logobg.png){ width="200" align=left }](https://wwctf.com/)  
-                **比赛名称** : [World Wide CTF 2024](https://wwctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8  
-                **比赛权重** : 24.48  
-                **赛事主办** : 🐧‎ (https://ctftime.org/team/283853)  
-                **添加日历** : https://ctftime.org/event/2572.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
