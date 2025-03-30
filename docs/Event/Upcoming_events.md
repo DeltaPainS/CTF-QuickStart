@@ -5,6 +5,20 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "XYCTF 2025"  
+    **比赛名称** : [XYCTF 2025](xyctf.top)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年04月04日 10:00 - 2025年04月07日 19:59  
+    **比赛时间** : 2025年04月04日 10:00 - 2025年04月07日 20:00  
+    **其他说明** : XYCTF 2025 官方邮箱为ctf_xiao@163.com，赛事QQ群为798794707。  
+    
+??? Quote "商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）"  
+    **比赛名称** : [商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）](www.qsnctf.com)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2025年04月01日 00:00 - 2025年04月07日 09:59  
+    **比赛时间** : 2025年04月07日 10:00 - 2025年04月13日 17:00  
+    **其他说明** : 商丘师范学院第四届网络安全及信息对抗大赛（公开赛道）是一个由商丘师范学院主办的线上个人赛。报名开始时间为2025年04月01日 00:00，报名结束时间为2025年04月07日 09:59。比赛时间为2025年04月07日 10:00至2025年04月13日 17:00。更多信息请访问比赛官网www.qsnctf.com，或加入QQ群1021827215进行咨询。比赛设有证书和周边奖励。  
+    
 ??? Quote "2025年能源网络安全大赛"  
     **比赛名称** : [2025年能源网络安全大赛](https://www.cers.org.cn/site/content/883b36f00aff466fa37efcef0c074915.html)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -15,15 +29,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)"  
-    [![](https://ctftime.org/media/events/Untitled_design_2.png){ width="200" align=left }](https://iiitv.capturepoint5353.tech/)  
-    **比赛名称** : [Capture Point 5353 3.0](https://iiitv.capturepoint5353.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : HORIZON_03 (https://ctftime.org/team/375436)  
-    **添加日历** : https://ctftime.org/event/2747.ics  
-    
 ??? Quote "[PlaidCTF 2025](https://plaidctf.com/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://plaidctf.com/)  
     **比赛名称** : [PlaidCTF 2025](https://plaidctf.com/)  
