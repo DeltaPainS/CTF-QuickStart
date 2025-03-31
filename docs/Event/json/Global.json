@@ -792,51 +792,15 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "SwampCTF 2025",
-        "比赛时间": "2025-03-29 05:00:00 - 2025-03-31 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2573.ics",
+        "比赛名称": "Capture Point 5353 3.0",
+        "比赛时间": "2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8",
+        "添加日历": "https://ctftime.org/event/2747.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://swampctf.com/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "40.40",
-        "赛事主办": "Kernel Sanders (https://ctftime.org/team/397)",
-        "比赛ID": "241",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "DiceCTF 2025 Quals",
-        "比赛时间": "2025-03-29 05:00:00 - 2025-03-31 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2617.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.dicega.ng/",
-        "比赛标志": "https://ctftime.org/media/events/dicectf_2_1_1_1.png",
-        "比赛权重": "81.00",
-        "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
-        "比赛ID": "568",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "TAMUctf 2025",
-        "比赛时间": "2025-03-29 06:00:00 - 2025-03-31 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2681.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://tamuctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/TAMUCTF_cmaroon_1_1.png",
-        "比赛权重": "56.66",
-        "赛事主办": "TAMUctf (https://ctftime.org/team/37721)",
-        "比赛ID": "198",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "PolyPwnCTF 2025",
-        "比赛时间": "2025-03-29 18:00:00 - 2025-03-31 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2734.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://pwn.polycyber.io/",
-        "比赛标志": "https://ctftime.org/media/events/Logo_PolyPwn_CTF.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "PolyCyber (https://ctftime.org/team/212241)",
-        "比赛ID": "1285",
+        "比赛链接": "https://iiitv.capturepoint5353.tech/",
+        "比赛标志": "https://ctftime.org/media/events/Untitled_design_2.png",
+        "比赛权重": "0",
+        "赛事主办": "HORIZON_03 (https://ctftime.org/team/375436)",
+        "比赛ID": "1294",
         "比赛状态": "nowrunning"
     },
     {
@@ -849,19 +813,7 @@
         "比赛权重": "24.73",
         "赛事主办": "Highlander Hackers (https://ctftime.org/team/173925)",
         "比赛ID": "724",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "Capture Point 5353 3.0",
-        "比赛时间": "2025-03-31 02:00:00 - 2025-04-01 16:10:29 UTC+8",
-        "添加日历": "https://ctftime.org/event/2747.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://iiitv.capturepoint5353.tech/",
-        "比赛标志": "https://ctftime.org/media/events/Untitled_design_2.png",
-        "比赛权重": "0",
-        "赛事主办": "HORIZON_03 (https://ctftime.org/team/375436)",
-        "比赛ID": "1294",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "CodeVinci Beginner CTF 2025",
@@ -912,6 +864,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "PolyPwnCTF 2025",
+        "比赛时间": "2025-03-29 18:00:00 - 2025-03-31 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2734.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://pwn.polycyber.io/",
+        "比赛标志": "https://ctftime.org/media/events/Logo_PolyPwn_CTF.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "PolyCyber (https://ctftime.org/team/212241)",
+        "比赛ID": "1285",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "LBC2 2025",
         "比赛时间": "2025-03-29 17:00:00 - 2025-03-29 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2728.ics",
@@ -945,6 +909,42 @@
         "比赛权重": "54.00",
         "赛事主办": "CODEGATE (https://ctftime.org/team/39352)",
         "比赛ID": "3",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "TAMUctf 2025",
+        "比赛时间": "2025-03-29 06:00:00 - 2025-03-31 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2681.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://tamuctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/TAMUCTF_cmaroon_1_1.png",
+        "比赛权重": "56.66",
+        "赛事主办": "TAMUctf (https://ctftime.org/team/37721)",
+        "比赛ID": "198",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "DiceCTF 2025 Quals",
+        "比赛时间": "2025-03-29 05:00:00 - 2025-03-31 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2617.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.dicega.ng/",
+        "比赛标志": "https://ctftime.org/media/events/dicectf_2_1_1_1.png",
+        "比赛权重": "81.00",
+        "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
+        "比赛ID": "568",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SwampCTF 2025",
+        "比赛时间": "2025-03-29 05:00:00 - 2025-03-31 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2573.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://swampctf.com/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "40.40",
+        "赛事主办": "Kernel Sanders (https://ctftime.org/team/397)",
+        "比赛ID": "241",
         "比赛状态": "past"
     },
     {
@@ -1074,7 +1074,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.why2025.org/",
         "比赛标志": "https://ctftime.org/media/events/CTF_logo_v0.2.jpg",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "Eindbazen (https://ctftime.org/team/322)",
         "比赛ID": "809",
         "比赛状态": "past"
@@ -1494,7 +1494,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.ehax.tech/",
         "比赛标志": "https://ctftime.org/media/events/ctf-vector.png",
-        "比赛权重": "22.60",
+        "比赛权重": "22.58",
         "赛事主办": "EHAX (https://ctftime.org/team/270643)",
         "比赛ID": "1244",
         "比赛状态": "past"
@@ -2001,66 +2001,6 @@
         "比赛权重": "29.33",
         "赛事主办": "Cryptonite (https://ctftime.org/team/62713)",
         "比赛ID": "663",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "WannaGame Championship 2024",
-        "比赛时间": "2024-12-13 09:00:00 - 2024-12-14 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2515.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cnsc.com.vn/ctf/",
-        "比赛标志": "https://ctftime.org/media/events/WGC2024_2.png",
-        "比赛权重": "19.80",
-        "赛事主办": "Wanna.W1n (https://ctftime.org/team/138431)",
-        "比赛ID": "1000",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "LakeCTF Quals 24-25",
-        "比赛时间": "2024-12-08 02:00:00 - 2024-12-09 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2502.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://lakectf.epfl.ch/",
-        "比赛标志": "https://ctftime.org/media/events/7fb065c04dbec7e33dfbb1f4456196c7.png",
-        "比赛权重": "35.94",
-        "赛事主办": "polygl0ts (https://ctftime.org/team/53791)",
-        "比赛ID": "818",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DFIR Labs CTF by The DFIR Report",
-        "比赛时间": "2024-12-08 00:00:00 - 2024-12-08 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2488.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://thedfirreport.com/services/dfir-labs/ctf/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "The DFIR Report (https://ctftime.org/team/309500)",
-        "比赛ID": "1149",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Platypwn 2024",
-        "比赛时间": "2024-12-07 22:00:00 - 2024-12-08 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2407.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://platypwn.ctf.platypwnies.de/",
-        "比赛标志": "https://ctftime.org/media/events/Platypwnie.png",
-        "比赛权重": "24.75",
-        "赛事主办": "Platypwnies (https://ctftime.org/team/112550)",
-        "比赛ID": "979",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "RedShift.Eclipse 2 Finals",
-        "比赛时间": "2024-12-07 18:00:00 - 2024-12-08 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2538.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "",
-        "比赛标志": "https://ctftime.org/media/events/5202034882946130981.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "o1d_bu7_go1d (https://ctftime.org/team/213673)",
-        "比赛ID": "1179",
         "比赛状态": "past"
     }
 ]
