@@ -47,15 +47,6 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2588.ics  
     
-??? Quote "[1753CTF 2025](https://1753ctf.com/)"  
-    [![](https://ctftime.org/media/events/badge_1.png){ width="200" align=left }](https://1753ctf.com/)  
-    **比赛名称** : [1753CTF 2025](https://1753ctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 01:00:00 - 2025-04-13 01:00:00 UTC+8  
-    **比赛权重** : 34.82  
-    **赛事主办** : 1753c (https://ctftime.org/team/178287)  
-    **添加日历** : https://ctftime.org/event/2639.ics  
-    
 ??? Quote "[Texas Security Awareness Week 2025](https://ctf.texsaw.org/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctf.texsaw.org/)  
     **比赛名称** : [Texas Security Awareness Week 2025](https://ctf.texsaw.org/)  
@@ -100,4 +91,13 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : PHREAKS 2600 (https://ctftime.org/team/200877)  
     **添加日历** : https://ctftime.org/event/2659.ics  
+    
+??? Quote "[SummitCTF 2025](https://summitctf.org/)"  
+    [![](https://ctftime.org/media/events/Summitctf.png){ width="200" align=left }](https://summitctf.org/)  
+    **比赛名称** : [SummitCTF 2025](https://summitctf.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-12 22:00:00 - 2025-04-13 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
+    **添加日历** : https://ctftime.org/event/2662.ics  
     
