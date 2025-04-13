@@ -5,13 +5,6 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "TGCTF 2025"  
-    **比赛名称** : [TGCTF 2025](https://tgctf.woooo.tech/)  
-    **比赛类型** : 线上Jeopardy解题赛  
-    **报名时间** : 2025年04月12日 09:00 - 2025年04月11日 21:00  
-    **比赛时间** : 2025年04月12日 09:00 - 2025年04月13日 21:00  
-    **其他说明** : TGCTF 2025（杭州师范大学第六届网络与信息安全竞赛）由杭州师范大学主办，报名截止时间为2025年4月11日21点，比赛时间为4月12号9点至4月13号21点，共36小时。  
-    
 ??? Quote "2025年能源网络安全大赛"  
     **比赛名称** : [2025年能源网络安全大赛](https://www.cers.org.cn/site/content/883b36f00aff466fa37efcef0c074915.html)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -57,22 +50,4 @@ comments: true
     **比赛权重** : 69.44  
     **赛事主办** : Nautilus Institute (https://ctftime.org/team/181536)  
     **添加日历** : https://ctftime.org/event/2604.ics  
-    
-??? Quote "[Midnight Flag CTF - INSURRECTION](https://midnightflag.fr/)"  
-    [![](https://ctftime.org/media/events/logo-midnightflag_500.png){ width="200" align=left }](https://midnightflag.fr/)  
-    **比赛名称** : [Midnight Flag CTF - INSURRECTION](https://midnightflag.fr/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 16:00:00 - 2025-04-14 00:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
-    **添加日历** : https://ctftime.org/event/2687.ics  
-    
-??? Quote "[SummitCTF 2025](https://summitctf.org/)"  
-    [![](https://ctftime.org/media/events/Summitctf.png){ width="200" align=left }](https://summitctf.org/)  
-    **比赛名称** : [SummitCTF 2025](https://summitctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 22:00:00 - 2025-04-13 22:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
-    **添加日历** : https://ctftime.org/event/2662.ics  
     
