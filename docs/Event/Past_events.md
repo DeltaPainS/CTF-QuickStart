@@ -85,6 +85,24 @@ comments: true
     **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
     **添加日历** : https://ctftime.org/event/2687.ics  
     
+??? Quote "[DEF CON CTF Qualifier 2025](https://nautilus.institute/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://nautilus.institute/)  
+    **比赛名称** : [DEF CON CTF Qualifier 2025](https://nautilus.institute/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-12 08:00:00 - 2025-04-14 08:00:00 UTC+8  
+    **比赛权重** : 69.44  
+    **赛事主办** : Nautilus Institute (https://ctftime.org/team/181536)  
+    **添加日历** : https://ctftime.org/event/2604.ics  
+    
+??? Quote "[Texas Security Awareness Week 2025](https://ctf.texsaw.org/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.texsaw.org/)  
+    **比赛名称** : [Texas Security Awareness Week 2025](https://ctf.texsaw.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-04-12 03:00:00 - 2025-04-14 03:00:00 UTC+8  
+    **比赛权重** : 31.00  
+    **赛事主办** : CSG (https://ctftime.org/team/333)  
+    **添加日历** : https://ctftime.org/event/2736.ics  
+    
 ??? Quote "[1753CTF 2025](https://1753ctf.com/)"  
     [![](https://ctftime.org/media/events/badge_1.png){ width="200" align=left }](https://1753ctf.com/)  
     **比赛名称** : [1753CTF 2025](https://1753ctf.com/)  
@@ -930,22 +948,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : GoIda CTF ORG (https://ctftime.org/team/361741)  
     **添加日历** : https://ctftime.org/event/2611.ics  
-    
-??? Quote "[IrisCTF 2025](https://2025.irisc.tf/)"  
-    [![](https://ctftime.org/media/events/IrisSec.png){ width="200" align=left }](https://2025.irisc.tf/)  
-    **比赛名称** : [IrisCTF 2025](https://2025.irisc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-01-04 08:00:00 - 2025-01-06 08:00:00 UTC+8  
-    **比赛权重** : 34.30  
-    **赛事主办** : IrisSec (https://ctftime.org/team/127034)  
-    **添加日历** : https://ctftime.org/event/2503.ics  
-    
-??? Quote "[AlpacaHack Round 8 (Rev)](https://alpacahack.com/)"  
-    [![](https://ctftime.org/media/events/dark_512_2.png){ width="200" align=left }](https://alpacahack.com/)  
-    **比赛名称** : [AlpacaHack Round 8 (Rev)](https://alpacahack.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-30 11:00:00 - 2024-12-30 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-    **添加日历** : https://ctftime.org/event/2590.ics  
     
