@@ -708,7 +708,7 @@ hide:
                 **比赛名称** : [ASIS CTF Quals 2025](https://asisctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-09-06 22:00:00 - 2025-09-07 22:00:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 96.29  
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2612.ics  
                 
@@ -907,7 +907,7 @@ hide:
                 **比赛名称** : [Ulisse CTF 2025](https://2025.ulis.se/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-06 01:00:00 - 2025-04-07 01:00:00 UTC+8  
-                **比赛权重** : 24.79  
+                **比赛权重** : 24.81  
                 **赛事主办** : Ulisse (https://ctftime.org/team/71738)  
                 **添加日历** : https://ctftime.org/event/2735.ics  
                 
