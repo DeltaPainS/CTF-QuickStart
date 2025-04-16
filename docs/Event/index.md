@@ -287,7 +287,13 @@ hide:
     
     === "*即将开始*"
         === "国内赛事"
-    
+            ??? Quote "[ACTF 2025](https://actf2025.xctf.org.cn/)"  
+                **比赛名称** : [ACTF 2025](https://actf2025.xctf.org.cn/)  
+                **比赛类型** : 线上Jeopardy解题赛  
+                **报名时间** : 2025年04月16日 08:59 - 2025年04月26日 08:59  
+                **比赛时间** : 2025年04月26日 09:00 - 2025年04月27日 09:00  
+                **其他说明** : ACTF 2025由XCTF联赛主办，比赛时间为2025年4月26日至4月27日，更多信息请访问官方网站。选手可通过QQ群512066352进行沟通交流。  
+                
         === "国外赛事"
             ??? Quote "[CPCTF 2025](https://cpctf.space/)"  
                 [![](https://ctftime.org/media/events/cpctf_logo_1.png){ width="200" align=left }](https://cpctf.space/)  
@@ -767,15 +773,6 @@ hide:
                 **其他说明** : 2025年能源网络安全大赛由中国能源研究会主办，面向电网企业、发电及电力建设企业、石油石化企业、煤炭企业等单位网络安全技术、运维和管理人员，以及国内网络安全领域知名高校、科研机构、产业单位等代表。报名截止日期为2025年3月31日，可通过扫描二维码下载报名表并发送至icc@cers.org.cn邮箱。联系人包括屈庆红、李理和陈炜，可通过电话或邮箱进行咨询。  
                 
         === "国外赛事"
-            ??? Quote "[2025 Embedded Capture the Flag](https://ectf.mitre.org/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ectf.mitre.org/)  
-                **比赛名称** : [2025 Embedded Capture the Flag](https://ectf.mitre.org/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2025-01-16 01:00:00 - 2025-04-17 00:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
-                **添加日历** : https://ctftime.org/event/2542.ics  
-                
             ??? Quote "[CSCG 2025](https://play.cscg.live/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://play.cscg.live/)  
                 **比赛名称** : [CSCG 2025](https://play.cscg.live/)  
@@ -1667,6 +1664,15 @@ hide:
                 **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
                 **添加日历** : https://ctftime.org/event/2576.ics  
                 
+            ??? Quote "[2025 Embedded Capture the Flag](https://ectf.mitre.org/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ectf.mitre.org/)  
+                **比赛名称** : [2025 Embedded Capture the Flag](https://ectf.mitre.org/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2025-01-16 01:00:00 - 2025-04-17 00:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
+                **添加日历** : https://ctftime.org/event/2542.ics  
+                
             ??? Quote "[TSCCTF 2025](https://ctfd.tscctf.com/)"  
                 [![](https://ctftime.org/media/events/TSC_logo_extra_large.png){ width="200" align=left }](https://ctfd.tscctf.com/)  
                 **比赛名称** : [TSCCTF 2025](https://ctfd.tscctf.com/)  
@@ -1720,15 +1726,6 @@ hide:
                 **比赛权重** : 23.90  
                 **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
                 **添加日历** : https://ctftime.org/event/2570.ics  
-                
-            ??? Quote "[GoIda CTF](https://goidactf.ru/)"  
-                [![](https://ctftime.org/media/events/goida.jpg){ width="200" align=left }](https://goidactf.ru/)  
-                **比赛名称** : [GoIda CTF](https://goidactf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-07 08:00:00 - 2025-01-10 07:59:59 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : GoIda CTF ORG (https://ctftime.org/team/361741)  
-                **添加日历** : https://ctftime.org/event/2611.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
