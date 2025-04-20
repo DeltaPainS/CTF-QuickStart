@@ -484,9 +484,9 @@ hide:
                 **赛事主办** : fibonhack (https://ctftime.org/team/117538)  
                 **添加日历** : https://ctftime.org/event/2605.ics  
                 
-            ??? Quote "[smileyCTF 2025](https://2025.ctf.gg/)"  
-                [![](https://ctftime.org/media/events/smiley.png){ width="200" align=left }](https://2025.ctf.gg/)  
-                **比赛名称** : [smileyCTF 2025](https://2025.ctf.gg/)  
+            ??? Quote "[smileyCTF 2025](https://play.ctf.gg/)"  
+                [![](https://ctftime.org/media/events/smiley.png){ width="200" align=left }](https://play.ctf.gg/)  
+                **比赛名称** : [smileyCTF 2025](https://play.ctf.gg/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-06-06 09:00:00 - 2025-06-08 09:00:00 UTC+8  
                 **比赛权重** : 48.61  
@@ -755,15 +755,6 @@ hide:
                 **赛事主办** : b01lers (https://ctftime.org/team/11464)  
                 **添加日历** : https://ctftime.org/event/2652.ics  
                 
-            ??? Quote "[T-CTF 2025](https://t-ctf.ru/)"  
-                [![](https://ctftime.org/media/events/t-ctf.jpg){ width="200" align=left }](https://t-ctf.ru/)  
-                **比赛名称** : [T-CTF 2025](https://t-ctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-04-19 14:00:00 - 2025-04-21 02:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
-                **添加日历** : https://ctftime.org/event/2741.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[TGCTF 2025](https://tgctf.woooo.tech/)"  
@@ -802,6 +793,15 @@ hide:
                 **其他说明** : NCTF 2025 由 NCTF 2025 组织委员会主办，比赛时间为 3 月 22 日 9:00 - 3 月 23 日 21:00，共计 36 小时，比赛形式为团队赛，每队 1-4 人，分为校内、校外两个赛道。  
                 
         === "国外赛事"
+            ??? Quote "[T-CTF 2025](https://t-ctf.ru/)"  
+                [![](https://ctftime.org/media/events/t-ctf.jpg){ width="200" align=left }](https://t-ctf.ru/)  
+                **比赛名称** : [T-CTF 2025](https://t-ctf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-19 14:00:00 - 2025-04-21 02:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
+                **添加日历** : https://ctftime.org/event/2741.ics  
+                
             ??? Quote "[DawgCTF 2025](https://metactf.com/join/dawgctf25)"  
                 [![](https://ctftime.org/media/events/dawgsec_shield-ctftime_2.png){ width="200" align=left }](https://metactf.com/join/dawgctf25)  
                 **比赛名称** : [DawgCTF 2025](https://metactf.com/join/dawgctf25)  
@@ -825,7 +825,7 @@ hide:
                 **比赛名称** : [SummitCTF 2025](https://summitctf.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-12 22:00:00 - 2025-04-13 22:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
                 **添加日历** : https://ctftime.org/event/2662.ics  
                 
@@ -843,7 +843,7 @@ hide:
                 **比赛名称** : [Midnight Flag CTF - INSURRECTION](https://midnightflag.fr/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-12 16:00:00 - 2025-04-14 00:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.43  
                 **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
                 **添加日历** : https://ctftime.org/event/2687.ics  
                 
@@ -1692,15 +1692,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
                 **添加日历** : https://ctftime.org/event/2530.ics  
-                
-            ??? Quote "[SUCTF 2025](https://suctf2025.xctf.org.cn/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://suctf2025.xctf.org.cn/)  
-                **比赛名称** : [SUCTF 2025](https://suctf2025.xctf.org.cn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-11 09:00:00 - 2025-01-13 09:00:00 UTC+8  
-                **比赛权重** : 24.75  
-                **赛事主办** : SU (https://ctftime.org/team/29641)  
-                **添加日历** : https://ctftime.org/event/2620.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
