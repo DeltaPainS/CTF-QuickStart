@@ -305,7 +305,7 @@ hide:
                 **添加日历** : https://ctftime.org/event/2759.ics  
                 
             ??? Quote "[UMDCTF 2025](https://umdctf.io/)"  
-                [![](https://ctftime.org/media/events/logo_109.png){ width="200" align=left }](https://umdctf.io/)  
+                [![](https://ctftime.org/media/events/logo-cropped.png){ width="200" align=left }](https://umdctf.io/)  
                 **比赛名称** : [UMDCTF 2025](https://umdctf.io/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-26 06:00:00 - 2025-04-28 06:00:00 UTC+8  
@@ -1221,7 +1221,7 @@ hide:
                 **比赛名称** : [Nowruz 1404](https://1404.fmc.tf/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-03-15 21:30:00 - 2025-03-16 21:30:00 UTC+8  
-                **比赛权重** : 24.45  
+                **比赛权重** : 24.47  
                 **赛事主办** : FlagMotori (https://ctftime.org/team/222060)  
                 **添加日历** : https://ctftime.org/event/2601.ics  
                 
@@ -1392,7 +1392,7 @@ hide:
                 **比赛名称** : [ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-28 23:30:00 - 2025-03-02 23:30:00 UTC+8  
-                **比赛权重** : 24.03  
+                **比赛权重** : 24.07  
                 **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
                 **添加日历** : https://ctftime.org/event/2638.ics  
                 
