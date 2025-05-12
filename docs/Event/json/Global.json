@@ -420,18 +420,6 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "smileyCTF 2025",
-        "比赛时间": "2025-07-11 09:00:00 - 2025-07-13 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2591.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://play.ctf.gg/",
-        "比赛标志": "https://ctftime.org/media/events/smiley.png",
-        "比赛权重": "48.61",
-        "赛事主办": ".;,;. (https://ctftime.org/team/222911)",
-        "比赛ID": "785",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "L3akCTF 2025",
         "比赛时间": "2025-07-12 01:00:00 - 2025-07-14 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2629.ics",
@@ -441,6 +429,18 @@
         "比赛权重": "24.43",
         "赛事主办": "L3ak (https://ctftime.org/team/220336)",
         "比赛ID": "1077",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "smileyCTF 2025",
+        "比赛时间": "2025-07-12 09:00:00 - 2025-07-14 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2591.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://play.ctf.gg/",
+        "比赛标志": "https://ctftime.org/media/events/smiley.png",
+        "比赛权重": "48.61",
+        "赛事主办": ".;,;. (https://ctftime.org/team/222911)",
+        "比赛ID": "785",
         "比赛状态": "oncoming"
     },
     {
@@ -768,28 +768,16 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "San Diego CTF 2025",
-        "比赛时间": "2025-05-10 07:00:00 - 2025-05-12 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2785.ics",
+        "比赛名称": "Rams CTF 2025",
+        "比赛时间": "2025-05-10 23:11:20 - 2025-05-10 23:11:20 UTC+8",
+        "添加日历": "https://ctftime.org/event/2791.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.sdc.tf/",
-        "比赛标志": "https://ctftime.org/media/events/sdctf_1.png",
-        "比赛权重": "22.18",
-        "赛事主办": "3 Prongs And a Computer (https://ctftime.org/team/112558)",
-        "比赛ID": "573",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "DamCTF 2025",
-        "比赛时间": "2025-05-10 08:00:00 - 2025-05-12 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2585.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://damctf.xyz/",
+        "比赛链接": "https://rams-ctf.com/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "60.67",
-        "赛事主办": "OSUSEC (https://ctftime.org/team/12858)",
-        "比赛ID": "423",
-        "比赛状态": "nowrunning"
+        "比赛权重": "0",
+        "赛事主办": "RAM Overflow (https://ctftime.org/team/378601)",
+        "比赛ID": "1319",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "GooseCTF - misc0nfig 25",
@@ -801,18 +789,30 @@
         "比赛权重": "0.00",
         "赛事主办": "Warwick Cyber Security Society (https://ctftime.org/team/277289)",
         "比赛ID": "1236",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
-        "比赛名称": "Rams CTF 2025",
-        "比赛时间": "2025-05-10 23:11:20 - 2025-05-10 23:11:20 UTC+8",
-        "添加日历": "https://ctftime.org/event/2791.ics",
+        "比赛名称": "DamCTF 2025",
+        "比赛时间": "2025-05-10 08:00:00 - 2025-05-12 08:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2585.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://rams-ctf.com/",
+        "比赛链接": "https://damctf.xyz/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "RAM Overflow (https://ctftime.org/team/378601)",
-        "比赛ID": "1319",
+        "比赛权重": "60.67",
+        "赛事主办": "OSUSEC (https://ctftime.org/team/12858)",
+        "比赛ID": "423",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "San Diego CTF 2025",
+        "比赛时间": "2025-05-10 07:00:00 - 2025-05-12 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2785.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.sdc.tf/",
+        "比赛标志": "https://ctftime.org/media/events/sdctf_1.png",
+        "比赛权重": "22.18",
+        "赛事主办": "3 Prongs And a Computer (https://ctftime.org/team/112558)",
+        "比赛ID": "573",
         "比赛状态": "past"
     },
     {
@@ -1965,42 +1965,6 @@
         "比赛权重": "0.00",
         "赛事主办": "Bloomsburg Broskies (https://ctftime.org/team/372116)",
         "比赛ID": "1259",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "ACECTF 1.0",
-        "比赛时间": "2025-02-27 14:30:00 - 2025-02-28 14:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2619.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://acectf.tech/",
-        "比赛标志": "https://ctftime.org/media/events/WhatsApp_Image_2024-12-26_at_12.03.44_7efe1dad.jpg",
-        "比赛权重": "22.63",
-        "赛事主办": "ACECTF (https://ctftime.org/team/364715)",
-        "比赛ID": "1231",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "TRX CTF 2025",
-        "比赛时间": "2025-02-22 22:00:00 - 2025-02-23 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2654.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.theromanxpl0.it/",
-        "比赛标志": "https://ctftime.org/media/events/TRX_1.png",
-        "比赛权重": "24.14",
-        "赛事主办": "TheRomanXpl0it (https://ctftime.org/team/46516)",
-        "比赛ID": "1238",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Kashi CTF 2025",
-        "比赛时间": "2025-02-22 20:00:00 - 2025-02-23 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2668.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://kashictf.iitbhucybersec.in/",
-        "比赛标志": "https://ctftime.org/media/events/logo_105.png",
-        "比赛权重": "22.04",
-        "赛事主办": "IIT(BHU)CyberSec (https://ctftime.org/team/22546)",
-        "比赛ID": "1251",
         "比赛状态": "past"
     }
 ]
