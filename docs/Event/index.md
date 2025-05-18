@@ -289,24 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[WhiteHats TrojanCTF 2025](https://discord.gg/fXHCe9zsHC)"  
-                [![](https://ctftime.org/media/events/TrojanCTF_logo.png){ width="200" align=left }](https://discord.gg/fXHCe9zsHC)  
-                **比赛名称** : [WhiteHats TrojanCTF 2025](https://discord.gg/fXHCe9zsHC)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-17 17:00:00 - 2025-05-18 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
-                **添加日历** : https://ctftime.org/event/2644.ics  
-                
-            ??? Quote "[Midnight Sun CTF 2025 Quals](https://midnightsunctf.com/)"  
-                [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo_1.png){ width="200" align=left }](https://midnightsunctf.com/)  
-                **比赛名称** : [Midnight Sun CTF 2025 Quals](https://midnightsunctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-17 20:00:00 - 2025-05-18 20:00:00 UTC+8  
-                **比赛权重** : 53.00  
-                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-                **添加日历** : https://ctftime.org/event/2632.ics  
-                
             ??? Quote "[AI CTF 2025](https://aictf.phdays.fun/)"  
                 [![](https://ctftime.org/media/events/821553befa9c3ad5b7d17e5e1cbb36a7.png){ width="200" align=left }](https://aictf.phdays.fun/)  
                 **比赛名称** : [AI CTF 2025](https://aictf.phdays.fun/)  
@@ -559,15 +541,6 @@ hide:
                 **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
                 **添加日历** : https://ctftime.org/event/2718.ics  
                 
-            ??? Quote "[UIUCTF 2025](https://uiuc.tf/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://uiuc.tf/)  
-                **比赛名称** : [UIUCTF 2025](https://uiuc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-28 08:00:00 - 2025-06-30 08:00:00 UTC+8  
-                **比赛权重** : 91.43  
-                **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
-                **添加日历** : https://ctftime.org/event/2640.ics  
-                
             ??? Quote "[BSides Mumbai CTF 2025](https://ctf.bsidesmumbai.in/)"  
                 [![](https://ctftime.org/media/events/Layed1.B3529NWW_3.png){ width="200" align=left }](https://ctf.bsidesmumbai.in/)  
                 **比赛名称** : [BSides Mumbai CTF 2025](https://ctf.bsidesmumbai.in/)  
@@ -594,6 +567,15 @@ hide:
                 **比赛权重** : 24.43  
                 **赛事主办** : L3ak (https://ctftime.org/team/220336)  
                 **添加日历** : https://ctftime.org/event/2629.ics  
+                
+            ??? Quote "[UIUCTF 2025](https://uiuc.tf/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://uiuc.tf/)  
+                **比赛名称** : [UIUCTF 2025](https://uiuc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-12 08:00:00 - 2025-07-14 08:00:00 UTC+8  
+                **比赛权重** : 91.43  
+                **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
+                **添加日历** : https://ctftime.org/event/2640.ics  
                 
             ??? Quote "[smileyCTF 2025](https://play.ctf.gg/)"  
                 [![](https://ctftime.org/media/events/smiley.png){ width="200" align=left }](https://play.ctf.gg/)  
@@ -866,6 +848,15 @@ hide:
                 **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
                 **添加日历** : https://ctftime.org/event/2715.ics  
                 
+            ??? Quote "[Midnight Sun CTF 2025 Quals](https://midnightsunctf.com/)"  
+                [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo_1.png){ width="200" align=left }](https://midnightsunctf.com/)  
+                **比赛名称** : [Midnight Sun CTF 2025 Quals](https://midnightsunctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-17 20:00:00 - 2025-05-18 20:00:00 UTC+8  
+                **比赛权重** : 53.00  
+                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+                **添加日历** : https://ctftime.org/event/2632.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[ACTF 2025](https://actf2025.xctf.org.cn/)"  
@@ -911,6 +902,15 @@ hide:
                 **其他说明** : NCTF 2025 由 NCTF 2025 组织委员会主办，比赛时间为 3 月 22 日 9:00 - 3 月 23 日 21:00，共计 36 小时，比赛形式为团队赛，每队 1-4 人，分为校内、校外两个赛道。  
                 
         === "国外赛事"
+            ??? Quote "[WhiteHats TrojanCTF 2025](https://discord.gg/fXHCe9zsHC)"  
+                [![](https://ctftime.org/media/events/TrojanCTF_logo.png){ width="200" align=left }](https://discord.gg/fXHCe9zsHC)  
+                **比赛名称** : [WhiteHats TrojanCTF 2025](https://discord.gg/fXHCe9zsHC)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-17 17:00:00 - 2025-05-18 05:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
+                **添加日历** : https://ctftime.org/event/2644.ics  
+                
             ??? Quote "[Cyshock - The Awakening](https://cyshock.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/Cyshock_Banner_Transparent.png){ width="200" align=left }](https://cyshock.ctfd.io/)  
                 **比赛名称** : [Cyshock - The Awakening](https://cyshock.ctfd.io/)  
@@ -1801,15 +1801,6 @@ hide:
                 **比赛权重** : 24.94  
                 **赛事主办** : PHREAKS 2600 (https://ctftime.org/team/200877)  
                 **添加日历** : https://ctftime.org/event/2658.ics  
-                
-            ??? Quote "[ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.iiitkottayam.ac.in/)  
-                **比赛名称** : [ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-28 23:30:00 - 2025-03-02 23:30:00 UTC+8  
-                **比赛权重** : 24.07  
-                **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
-                **添加日历** : https://ctftime.org/event/2638.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
