@@ -496,9 +496,9 @@ hide:
                 **赛事主办** : 0xD13A (https://ctftime.org/team/31765)  
                 **添加日历** : https://ctftime.org/event/2689.ics  
                 
-            ??? Quote "[GPN CTF 2025](https://2025.ctf.kitctf.de/)"  
-                [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png){ width="200" align=left }](https://2025.ctf.kitctf.de/)  
-                **比赛名称** : [GPN CTF 2025](https://2025.ctf.kitctf.de/)  
+            ??? Quote "[GPN CTF 2025](https://gpn23.ctf.kitctf.de/)"  
+                [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png){ width="200" align=left }](https://gpn23.ctf.kitctf.de/)  
+                **比赛名称** : [GPN CTF 2025](https://gpn23.ctf.kitctf.de/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-06-20 18:00:00 - 2025-06-22 06:00:00 UTC+8  
                 **比赛权重** : 46.00  
@@ -901,6 +901,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
                 **添加日历** : https://ctftime.org/event/2644.ics  
+                
+            ??? Quote "[AlpacaHack Round 11 (Web)](https://alpacahack.com/ctfs/round-11)"  
+                [![](https://ctftime.org/media/events/ctftime_10.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-11)  
+                **比赛名称** : [AlpacaHack Round 11 (Web)](https://alpacahack.com/ctfs/round-11)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-17 11:00:00 - 2025-05-17 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+                **添加日历** : https://ctftime.org/event/2710.ics  
                 
             ??? Quote "[BYUCTF 2025](https://ctfd.cyberjousting.com/)"  
                 [![](https://ctftime.org/media/events/byuctf.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
@@ -1774,15 +1783,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Web Club NITK (https://ctftime.org/team/216903)  
                 **添加日历** : https://ctftime.org/event/2705.ics  
-                
-            ??? Quote "[SECCON CTF 13 Domestic Finals](https://ctf.seccon.jp/)"  
-                [![](https://ctftime.org/media/events/seccon_s_9.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-                **比赛名称** : [SECCON CTF 13 Domestic Finals](https://ctf.seccon.jp/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-01 09:00:00 - 2025-03-02 19:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-                **添加日历** : https://ctftime.org/event/2650.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
