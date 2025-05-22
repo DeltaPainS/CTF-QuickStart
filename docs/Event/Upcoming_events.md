@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[AI CTF 2025](https://aictf.phdays.fun/)"  
-    [![](https://ctftime.org/media/events/821553befa9c3ad5b7d17e5e1cbb36a7.png){ width="200" align=left }](https://aictf.phdays.fun/)  
-    **比赛名称** : [AI CTF 2025](https://aictf.phdays.fun/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-23 01:00:00 - 2025-05-24 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
-    **添加日历** : https://ctftime.org/event/2778.ics  
-    
 ??? Quote "[Global Cyber Skills Benchmark CTF 2025: Operation Blackout](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)  
     **比赛名称** : [Global Cyber Skills Benchmark CTF 2025: Operation Blackout](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)  
@@ -108,9 +99,9 @@ comments: true
     **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/2765.ics  
     
-??? Quote "[MindBreak 2025 by ESGI](https://m1ndbr34k.fr/)"  
-    [![](https://ctftime.org/media/events/image_7s.png){ width="200" align=left }](https://m1ndbr34k.fr/)  
-    **比赛名称** : [MindBreak 2025 by ESGI](https://m1ndbr34k.fr/)  
+??? Quote "[MindBreak 2025 by ESGI](https://linktr.ee/m1ndbr34k)"  
+    [![](https://ctftime.org/media/events/blanc2.png){ width="200" align=left }](https://linktr.ee/m1ndbr34k)  
+    **比赛名称** : [MindBreak 2025 by ESGI](https://linktr.ee/m1ndbr34k)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-06-07 05:00:00 - 2025-06-07 14:00:00 UTC+8  
     **比赛权重** : 0.00  
