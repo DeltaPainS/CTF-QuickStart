@@ -24,15 +24,6 @@ comments: true
     **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
     **添加日历** : https://ctftime.org/event/2774.ics  
     
-??? Quote "[AI CTF 2025](https://aictf.phdays.fun/)"  
-    [![](https://ctftime.org/media/events/821553befa9c3ad5b7d17e5e1cbb36a7.png){ width="200" align=left }](https://aictf.phdays.fun/)  
-    **比赛名称** : [AI CTF 2025](https://aictf.phdays.fun/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-23 01:00:00 - 2025-05-24 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
-    **添加日历** : https://ctftime.org/event/2778.ics  
-    
 ??? Quote "[Global Cyber Skills Benchmark CTF 2025: Operation Blackout](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)  
     **比赛名称** : [Global Cyber Skills Benchmark CTF 2025: Operation Blackout](https://ctf.hackthebox.com/event/details/global-cyber-skills-benchmark-ctf-2025-operation-blackout-2174)  
@@ -59,4 +50,22 @@ comments: true
     **比赛权重** : 53.77  
     **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
     **添加日历** : https://ctftime.org/event/2782.ics  
+    
+??? Quote "[DaVinciCTF 2025](https://dvc.tf/)"  
+    [![](https://ctftime.org/media/events/davincictf_vectorized.png){ width="200" align=left }](https://dvc.tf/)  
+    **比赛名称** : [DaVinciCTF 2025](https://dvc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-05-24 18:00:00 - 2025-05-26 04:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
+    **添加日历** : https://ctftime.org/event/2675.ics  
+    
+??? Quote "[SAS CTF 2025 Quals](https://ctf.thesascon.com/)"  
+    [![](https://ctftime.org/media/events/SAS25_new.png){ width="200" align=left }](https://ctf.thesascon.com/)  
+    **比赛名称** : [SAS CTF 2025 Quals](https://ctf.thesascon.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-05-24 20:00:00 - 2025-05-25 20:00:00 UTC+8  
+    **比赛权重** : 20.72  
+    **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
+    **添加日历** : https://ctftime.org/event/2636.ics  
     
