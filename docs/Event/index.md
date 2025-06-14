@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CyberSci Nationals 2025](https://cybersecuritychallenge.ca/)"  
-                [![](https://ctftime.org/media/events/fa9a3545467f5a51f11b512adb2f6183.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-                **比赛名称** : [CyberSci Nationals 2025](https://cybersecuritychallenge.ca/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-14 21:00:00 - 2025-06-16 07:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : 0xD13A (https://ctftime.org/team/31765)  
-                **添加日历** : https://ctftime.org/event/2689.ics  
-                
             ??? Quote "[GPN CTF 2025](https://gpn23.ctf.kitctf.de/)"  
                 [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png){ width="200" align=left }](https://gpn23.ctf.kitctf.de/)  
                 **比赛名称** : [GPN CTF 2025](https://gpn23.ctf.kitctf.de/)  
@@ -641,15 +632,6 @@ hide:
                 **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
                 **添加日历** : https://ctftime.org/event/2717.ics  
                 
-            ??? Quote "[AMSI CTF 2025](https://amsi-sorbonne.fr/)"  
-                [![](https://ctftime.org/media/events/amsi_logo_animated.gif){ width="200" align=left }](https://amsi-sorbonne.fr/)  
-                **比赛名称** : [AMSI CTF 2025](https://amsi-sorbonne.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-14 04:00:00 - 2025-06-15 02:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : AMSI CTF Team (https://ctftime.org/team/383289)  
-                **添加日历** : https://ctftime.org/event/2790.ics  
-                
             ??? Quote "[smileyCTF 2025](https://play.ctf.gg/)"  
                 [![](https://ctftime.org/media/events/smiley.png){ width="200" align=left }](https://play.ctf.gg/)  
                 **比赛名称** : [smileyCTF 2025](https://play.ctf.gg/)  
@@ -677,6 +659,15 @@ hide:
                 **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
                 **添加日历** : https://ctftime.org/event/2772.ics  
                 
+            ??? Quote "[CyberSci Nationals 2025](https://cybersecuritychallenge.ca/)"  
+                [![](https://ctftime.org/media/events/fa9a3545467f5a51f11b512adb2f6183.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
+                **比赛名称** : [CyberSci Nationals 2025](https://cybersecuritychallenge.ca/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-06-14 21:00:00 - 2025-06-16 07:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : 0xD13A (https://ctftime.org/team/31765)  
+                **添加日历** : https://ctftime.org/event/2689.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[ACTF 2025](https://actf2025.xctf.org.cn/)"  
@@ -687,6 +678,15 @@ hide:
                 **其他说明** : ACTF 2025由XCTF联赛主办，比赛时间为2025年4月26日至4月27日，更多信息请访问官方网站。选手可通过QQ群512066352进行沟通交流。  
                 
         === "国外赛事"
+            ??? Quote "[AMSI CTF 2025](https://amsi-sorbonne.fr/)"  
+                [![](https://ctftime.org/media/events/amsi_logo_animated.gif){ width="200" align=left }](https://amsi-sorbonne.fr/)  
+                **比赛名称** : [AMSI CTF 2025](https://amsi-sorbonne.fr/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-06-14 04:00:00 - 2025-06-15 02:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : AMSI CTF Team (https://ctftime.org/team/383289)  
+                **添加日历** : https://ctftime.org/event/2790.ics  
+                
             ??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
                 [![](https://ctftime.org/media/events/DFIR_Labs_Icon_1.png){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
                 **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
@@ -1577,15 +1577,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : dc509 (https://ctftime.org/team/372660)  
                 **添加日历** : https://ctftime.org/event/2730.ics  
-                
-            ??? Quote "[m0leCon CTF 2025](https://finals.m0lecon.it/)"  
-                [![](https://ctftime.org/media/events/ctftime_4_1.png){ width="200" align=left }](https://finals.m0lecon.it/)  
-                **比赛名称** : [m0leCon CTF 2025](https://finals.m0lecon.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-21 00:00:00 - 2025-03-22 00:00:00 UTC+8  
-                **比赛权重** : 75.00  
-                **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
-                **添加日历** : https://ctftime.org/event/2725.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
