@@ -73,7 +73,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2731.ics  
     
 ??? Quote "[No Hack No CTF 2025](https://nhnc.ic3dt3a.org/)"  
-    [![](https://ctftime.org/media/events/6fe41e47a890f50919119e60332343c3.jpg){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
+    [![](https://ctftime.org/media/events/nhnc-2025.png){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
     **比赛名称** : [No Hack No CTF 2025](https://nhnc.ic3dt3a.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-07-05 16:00:00 - 2025-07-07 16:00:00 UTC+8  
@@ -324,9 +324,9 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2612.ics  
     
-??? Quote "[MaltaCTF 2025 Finals](https://ctf.mt/)"  
-    [![](https://ctftime.org/media/events/MaltaCTF_1.png){ width="200" align=left }](https://ctf.mt/)  
-    **比赛名称** : [MaltaCTF 2025 Finals](https://ctf.mt/)  
+??? Quote "[MaltaCTF 2025 Finals](https://2025.ctf.mt/)"  
+    [![](https://ctftime.org/media/events/MaltaCTF_1.png){ width="200" align=left }](https://2025.ctf.mt/)  
+    **比赛名称** : [MaltaCTF 2025 Finals](https://2025.ctf.mt/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-09-13 18:00:00 - 2025-09-14 18:00:00 UTC+8  
     **比赛权重** : 0.00  
