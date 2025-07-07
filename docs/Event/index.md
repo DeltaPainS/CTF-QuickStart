@@ -586,9 +586,9 @@ hide:
                 **赛事主办** : FAUST (https://ctftime.org/team/550)  
                 **添加日历** : https://ctftime.org/event/2780.ics  
                 
-            ??? Quote "[[POSTPONED] jailCTF 2025](https://ctf.pyjail.club/)"  
+            ??? Quote "[jailCTF 2025](https://ctf.pyjail.club/)"  
                 [![](https://ctftime.org/media/events/jailctf.png){ width="200" align=left }](https://ctf.pyjail.club/)  
-                **比赛名称** : [[POSTPONED] jailCTF 2025](https://ctf.pyjail.club/)  
+                **比赛名称** : [jailCTF 2025](https://ctf.pyjail.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-10-04 04:00:00 - 2025-10-07 04:00:00 UTC+8  
                 **比赛权重** : 24.88  
@@ -716,15 +716,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CubeCTF](https://cubectf.com/)"  
-                [![](https://ctftime.org/media/events/CubeMasteryLogo.png){ width="200" align=left }](https://cubectf.com/)  
-                **比赛名称** : [CubeCTF](https://cubectf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-05 06:16:00 - 2025-07-07 08:25:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
-                **添加日历** : https://ctftime.org/event/2820.ics  
-                
             ??? Quote "[R3CTF 2025](https://ctf2025.r3kapig.com/)"  
                 [![](https://ctftime.org/media/events/111_1.png){ width="200" align=left }](https://ctf2025.r3kapig.com/)  
                 **比赛名称** : [R3CTF 2025](https://ctf2025.r3kapig.com/)  
@@ -733,15 +724,6 @@ hide:
                 **比赛权重** : 24.50  
                 **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
                 **添加日历** : https://ctftime.org/event/2731.ics  
-                
-            ??? Quote "[Impossible Mission Force Capture The Flag](https://missionimpossiblectf2025.vercel.app/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://missionimpossiblectf2025.vercel.app/)  
-                **比赛名称** : [Impossible Mission Force Capture The Flag](https://missionimpossiblectf2025.vercel.app/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-05 15:00:00 - 2025-07-07 04:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : IMFCTF (https://ctftime.org/team/389648)  
-                **添加日历** : https://ctftime.org/event/2831.ics  
                 
             ??? Quote "[No Hack No CTF 2025](https://nhnc.ic3dt3a.org/)"  
                 [![](https://ctftime.org/media/events/nhnc-2025.png){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
@@ -779,6 +761,24 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Super_Hacker (https://ctftime.org/team/195477)  
                 **添加日历** : https://ctftime.org/event/2825.ics  
+                
+            ??? Quote "[Impossible Mission Force Capture The Flag](https://missionimpossiblectf2025.vercel.app/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://missionimpossiblectf2025.vercel.app/)  
+                **比赛名称** : [Impossible Mission Force Capture The Flag](https://missionimpossiblectf2025.vercel.app/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-05 15:00:00 - 2025-07-07 04:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : IMFCTF (https://ctftime.org/team/389648)  
+                **添加日历** : https://ctftime.org/event/2831.ics  
+                
+            ??? Quote "[CubeCTF](https://cubectf.com/)"  
+                [![](https://ctftime.org/media/events/CubeMasteryLogo.png){ width="200" align=left }](https://cubectf.com/)  
+                **比赛名称** : [CubeCTF](https://cubectf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-05 06:16:00 - 2025-07-07 08:25:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
+                **添加日历** : https://ctftime.org/event/2820.ics  
                 
             ??? Quote "[Junior.Crypt.2025 CTF](http://ctf-spcs.mf.grsu.by/)"  
                 [![](https://ctftime.org/media/events/logo_13.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
@@ -1652,24 +1652,6 @@ hide:
                 **比赛权重** : 24.73  
                 **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
                 **添加日历** : https://ctftime.org/event/2667.ics  
-                
-            ??? Quote "[CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)"  
-                [![](https://ctftime.org/media/events/logo_CodeVinci.jpg){ width="200" align=left }](https://codevincictf.itis.pr.it/)  
-                **比赛名称** : [CodeVinci Beginner CTF 2025](https://codevincictf.itis.pr.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 21:00:00 - 2025-03-29 21:00:00 UTC+8  
-                **比赛权重** : 18.57  
-                **赛事主办** : CodeVincii (https://ctftime.org/team/367123)  
-                **添加日历** : https://ctftime.org/event/2738.ics  
-                
-            ??? Quote "[SillyCTF 2025](https://sillyctf.psuccso.org/)"  
-                [![](https://ctftime.org/media/events/SillyCTF.png){ width="200" align=left }](https://sillyctf.psuccso.org/)  
-                **比赛名称** : [SillyCTF 2025](https://sillyctf.psuccso.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-29 20:00:00 - 2025-03-30 08:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Penn State CCSO (https://ctftime.org/team/367931)  
-                **添加日历** : https://ctftime.org/event/2637.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
