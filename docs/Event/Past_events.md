@@ -23,14 +23,14 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2577.ics  
     
-??? Quote "[L3akCTF 2025](https://ctf.l3ak.team/)"  
-    [![](https://ctftime.org/media/events/L3akCTF_2025_Logo_750x750.png){ width="200" align=left }](https://ctf.l3ak.team/)  
-    **比赛名称** : [L3akCTF 2025](https://ctf.l3ak.team/)  
+??? Quote "[L3HCTF 2025](https://l3hctf2025.xctf.org.cn/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://l3hctf2025.xctf.org.cn/)  
+    **比赛名称** : [L3HCTF 2025](https://l3hctf2025.xctf.org.cn/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-07-12 01:00:00 - 2025-07-14 01:00:00 UTC+8  
-    **比赛权重** : 24.43  
-    **赛事主办** : L3ak (https://ctftime.org/team/220336)  
-    **添加日历** : https://ctftime.org/event/2629.ics  
+    **比赛时间** : 2025-07-12 09:00:00 - 2025-07-14 09:00:00 UTC+8  
+    **比赛权重** : 23.50  
+    **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
+    **添加日历** : https://ctftime.org/event/2823.ics  
     
 ??? Quote "[CRMA mini CTF 2025](https://ctf.crma.club/)"  
     [![](https://ctftime.org/media/events/crma.png){ width="200" align=left }](https://ctf.crma.club/)  
@@ -40,6 +40,24 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : CRMA Cyber Club (https://ctftime.org/team/167583)  
     **添加日历** : https://ctftime.org/event/2847.ics  
+    
+??? Quote "[L3akCTF 2025](https://ctf.l3ak.team/)"  
+    [![](https://ctftime.org/media/events/L3akCTF_2025_Logo_750x750.png){ width="200" align=left }](https://ctf.l3ak.team/)  
+    **比赛名称** : [L3akCTF 2025](https://ctf.l3ak.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-07-12 01:00:00 - 2025-07-14 01:00:00 UTC+8  
+    **比赛权重** : 24.43  
+    **赛事主办** : L3ak (https://ctftime.org/team/220336)  
+    **添加日历** : https://ctftime.org/event/2629.ics  
+    
+??? Quote "[CTF Cybercamp UMU 3.0](https://eventos.um.es/go/ctf-cybercampumu-3)"  
+    [![](https://ctftime.org/media/events/banner_ctf_cybercamp_1.png){ width="200" align=left }](https://eventos.um.es/go/ctf-cybercampumu-3)  
+    **比赛名称** : [CTF Cybercamp UMU 3.0](https://eventos.um.es/go/ctf-cybercampumu-3)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-07-11 23:00:00 - 2025-07-14 06:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Offensive Skills (https://ctftime.org/team/389597)  
+    **添加日历** : https://ctftime.org/event/2830.ics  
     
 ??? Quote "[BlitzCTF](https://ctf.blitzhack.xyz/)"  
     [![](https://ctftime.org/media/events/BlitzCTF.webp){ width="200" align=left }](https://ctf.blitzhack.xyz/)  
@@ -91,7 +109,7 @@ comments: true
     **比赛名称** : [CubeCTF](https://cubectf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-07-05 06:16:00 - 2025-07-07 08:25:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
     **添加日历** : https://ctftime.org/event/2820.ics  
     
@@ -895,22 +913,4 @@ comments: true
     **比赛权重** : 22.75  
     **赛事主办** : ZiTF (https://ctftime.org/team/376047)  
     **添加日历** : https://ctftime.org/event/2752.ics  
-    
-??? Quote "[Moscow CTF School 2025](http://ctf.cs.msu.ru/)"  
-    [![](https://ctftime.org){ width="200" align=left }](http://ctf.cs.msu.ru/)  
-    **比赛名称** : [Moscow CTF School 2025](http://ctf.cs.msu.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Bushwhackers (https://ctftime.org/team/586)  
-    **添加日历** : https://ctftime.org/event/2712.ics  
-    
-??? Quote "[Breach CTF 2025](https://www.breachers.in/)"  
-    [![](https://ctftime.org/media/events/BreachCTF2025_Logo.jpeg){ width="200" align=left }](https://www.breachers.in/)  
-    **比赛名称** : [Breach CTF 2025](https://www.breachers.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-05 10:30:00 - 2025-04-06 10:30:00 UTC+8  
-    **比赛权重** : 23.77  
-    **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
-    **添加日历** : https://ctftime.org/event/2671.ics  
     

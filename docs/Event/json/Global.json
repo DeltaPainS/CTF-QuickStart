@@ -600,16 +600,16 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "CTF Cybercamp UMU 3.0",
-        "比赛时间": "2025-07-11 23:00:00 - 2025-07-14 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2830.ics",
+        "比赛名称": "Crypto CTF 2025",
+        "比赛时间": "2025-07-12 14:00:00 - 2025-07-13 14:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2577.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://eventos.um.es/go/ctf-cybercampumu-3",
-        "比赛标志": "https://ctftime.org/media/events/banner_ctf_cybercamp_1.png",
-        "比赛权重": "0",
-        "赛事主办": "Offensive Skills (https://ctftime.org/team/389597)",
-        "比赛ID": "1350",
-        "比赛状态": "nowrunning"
+        "比赛链接": "https://cr.yp.toc.tf/",
+        "比赛标志": "https://ctftime.org/media/events/cryptoctf_1.jpg",
+        "比赛权重": "88.25",
+        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
+        "比赛ID": "317",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "L3HCTF 2025",
@@ -621,18 +621,18 @@
         "比赛权重": "23.50",
         "赛事主办": "L3H Sec (https://ctftime.org/team/75946)",
         "比赛ID": "701",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
-        "比赛名称": "Crypto CTF 2025",
-        "比赛时间": "2025-07-12 14:00:00 - 2025-07-13 14:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2577.ics",
+        "比赛名称": "CRMA mini CTF 2025",
+        "比赛时间": "2025-07-12 01:00:00 - 2025-07-13 00:59:59 UTC+8",
+        "添加日历": "https://ctftime.org/event/2847.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://cr.yp.toc.tf/",
-        "比赛标志": "https://ctftime.org/media/events/cryptoctf_1.jpg",
-        "比赛权重": "88.25",
-        "赛事主办": "ASIS (https://ctftime.org/team/4140)",
-        "比赛ID": "317",
+        "比赛链接": "https://ctf.crma.club/",
+        "比赛标志": "https://ctftime.org/media/events/crma.png",
+        "比赛权重": "0",
+        "赛事主办": "CRMA Cyber Club (https://ctftime.org/team/167583)",
+        "比赛ID": "1364",
         "比赛状态": "past"
     },
     {
@@ -648,15 +648,15 @@
         "比赛状态": "past"
     },
     {
-        "比赛名称": "CRMA mini CTF 2025",
-        "比赛时间": "2025-07-12 01:00:00 - 2025-07-13 00:59:59 UTC+8",
-        "添加日历": "https://ctftime.org/event/2847.ics",
+        "比赛名称": "CTF Cybercamp UMU 3.0",
+        "比赛时间": "2025-07-11 23:00:00 - 2025-07-14 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2830.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.crma.club/",
-        "比赛标志": "https://ctftime.org/media/events/crma.png",
+        "比赛链接": "https://eventos.um.es/go/ctf-cybercampumu-3",
+        "比赛标志": "https://ctftime.org/media/events/banner_ctf_cybercamp_1.png",
         "比赛权重": "0",
-        "赛事主办": "CRMA Cyber Club (https://ctftime.org/team/167583)",
-        "比赛ID": "1364",
+        "赛事主办": "Offensive Skills (https://ctftime.org/team/389597)",
+        "比赛ID": "1350",
         "比赛状态": "past"
     },
     {
@@ -726,7 +726,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://cubectf.com/",
         "比赛标志": "https://ctftime.org/media/events/CubeMasteryLogo.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "CubeMastery (https://ctftime.org/team/168744)",
         "比赛ID": "1277",
         "比赛状态": "past"
@@ -1797,30 +1797,6 @@
         "比赛权重": "22.75",
         "赛事主办": "ZiTF (https://ctftime.org/team/376047)",
         "比赛ID": "1300",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Moscow CTF School 2025",
-        "比赛时间": "2025-04-05 18:00:00 - 2025-04-06 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2712.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf.cs.msu.ru/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "Bushwhackers (https://ctftime.org/team/586)",
-        "比赛ID": "168",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Breach CTF 2025",
-        "比赛时间": "2025-04-05 10:30:00 - 2025-04-06 10:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2671.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.breachers.in/",
-        "比赛标志": "https://ctftime.org/media/events/BreachCTF2025_Logo.jpeg",
-        "比赛权重": "23.77",
-        "赛事主办": "IITBreachers (https://ctftime.org/team/165802)",
-        "比赛ID": "1098",
         "比赛状态": "past"
     }
 ]
