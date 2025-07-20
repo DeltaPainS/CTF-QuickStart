@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "BDSec CTF 2025",
-        "比赛时间": "2025-07-20 23:00:00 - 2025-07-21 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2784.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://bdsec-ctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/bdsec-ctf-logo_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Knight Squad (https://ctftime.org/team/141739)",
-        "比赛ID": "811",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Shakti CTF 2025",
         "比赛时间": "2025-07-25 20:30:00 - 2025-07-26 20:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2803.ics",
@@ -564,6 +552,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "BDSec CTF 2025",
+        "比赛时间": "2025-07-20 23:00:00 - 2025-07-21 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2784.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://bdsec-ctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/bdsec-ctf-logo_1.png",
+        "比赛权重": "0",
+        "赛事主办": "Knight Squad (https://ctftime.org/team/141739)",
+        "比赛ID": "811",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "ToH CTF 2025",
         "比赛时间": "2025-07-20 00:00:00 - 2025-07-21 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2833.ics",
@@ -573,7 +573,7 @@
         "比赛权重": "0",
         "赛事主办": "Tower of Hanoi (https://ctftime.org/team/300)",
         "比赛ID": "1345",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "ENOWARS 9",
@@ -1761,18 +1761,6 @@
         "比赛权重": "34.82",
         "赛事主办": "1753c (https://ctftime.org/team/178287)",
         "比赛ID": "836",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "UNbreakable International 2024 - Team Phase",
-        "比赛时间": "2025-04-11 18:00:00 - 2025-04-13 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2740.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://unr25t-international.cyber-edu.co/",
-        "比赛标志": "https://ctftime.org/media/events/MfknElGVExHGiftE_1.png",
-        "比赛权重": "24.82",
-        "赛事主办": "bitsentinel (https://ctftime.org/team/280005)",
-        "比赛ID": "1064",
         "比赛状态": "past"
     }
 ]
