@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "StackSmash CTF",
-        "比赛时间": "2025-07-25 21:00:00 - 2025-07-28 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2841.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf.hackthebox.com/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.00",
-        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
-        "比赛ID": "554",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "BelkaCTF #7",
-        "比赛时间": "2025-07-25 21:00:00 - 2025-07-27 21:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2858.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://belkasoft.com/belkactf7/",
-        "比赛标志": "https://ctftime.org/media/events/belkaCTF_ctftime.png",
-        "比赛权重": "0",
-        "赛事主办": "TODO: security (https://ctftime.org/team/288184)",
-        "比赛ID": "1105",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "DeadSec CTF 2025",
         "比赛时间": "2025-07-26 06:00:00 - 2025-07-28 06:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2631.ics",
@@ -552,6 +528,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "StackSmash CTF",
+        "比赛时间": "2025-07-25 21:00:00 - 2025-07-28 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2841.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf.hackthebox.com/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "24.00",
+        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
+        "比赛ID": "554",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BelkaCTF #7",
+        "比赛时间": "2025-07-25 21:00:00 - 2025-07-27 21:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2858.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://belkasoft.com/belkactf7/",
+        "比赛标志": "https://ctftime.org/media/events/belkaCTF_ctftime.png",
+        "比赛权重": "0",
+        "赛事主办": "TODO: security (https://ctftime.org/team/288184)",
+        "比赛ID": "1105",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "BDSec CTF 2025",
         "比赛时间": "2025-07-20 23:00:00 - 2025-07-21 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2784.ics",
@@ -618,7 +618,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://hitcon.kktix.cc/events/hitcon-cyberrange-2025",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "HITCON (https://ctftime.org/team/8299)",
         "比赛ID": "1325",
         "比赛状态": "past"
