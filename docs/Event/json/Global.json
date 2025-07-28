@@ -480,27 +480,15 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "StackSmash CTF",
-        "比赛时间": "2025-07-25 21:00:00 - 2025-07-28 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2841.ics",
+        "比赛名称": "World Wide CTF 2025",
+        "比赛时间": "2025-07-26 20:00:00 - 2025-07-28 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2753.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf.hackthebox.com/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "24.00",
-        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
-        "比赛ID": "554",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "DeadSec CTF 2025",
-        "比赛时间": "2025-07-26 06:00:00 - 2025-07-28 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2631.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.deadsec.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/Picture1_2.png",
-        "比赛权重": "31.29",
-        "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
-        "比赛ID": "268",
+        "比赛链接": "https://wwctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/ctftime.jpg",
+        "比赛权重": "24.48",
+        "赛事主办": "🐧‎ (https://ctftime.org/team/283853)",
+        "比赛ID": "1208",
         "比赛状态": "nowrunning"
     },
     {
@@ -513,19 +501,31 @@
         "比赛权重": "91.43",
         "赛事主办": "SIGPwny (https://ctftime.org/team/27763)",
         "比赛ID": "95",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
-        "比赛名称": "World Wide CTF 2025",
-        "比赛时间": "2025-07-26 20:00:00 - 2025-07-28 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2753.ics",
+        "比赛名称": "DeadSec CTF 2025",
+        "比赛时间": "2025-07-26 06:00:00 - 2025-07-28 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2631.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://wwctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/ctftime.jpg",
-        "比赛权重": "24.48",
-        "赛事主办": "🐧‎ (https://ctftime.org/team/283853)",
-        "比赛ID": "1208",
-        "比赛状态": "nowrunning"
+        "比赛链接": "https://www.deadsec.xyz/",
+        "比赛标志": "https://ctftime.org/media/events/Picture1_2.png",
+        "比赛权重": "31.29",
+        "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
+        "比赛ID": "268",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "StackSmash CTF",
+        "比赛时间": "2025-07-25 21:00:00 - 2025-07-28 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2841.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "http://ctf.hackthebox.com/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "24.00",
+        "赛事主办": "Hack The Box (https://ctftime.org/team/136056)",
+        "比赛ID": "554",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "BelkaCTF #7",
@@ -582,7 +582,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.towerofhanoi.it/",
         "比赛标志": "https://ctftime.org/media/events/tohctf25.jpeg",
-        "比赛权重": "25.00",
+        "比赛权重": "24.21",
         "赛事主办": "Tower of Hanoi (https://ctftime.org/team/300)",
         "比赛ID": "1345",
         "比赛状态": "past"
@@ -1689,42 +1689,6 @@
         "比赛权重": "0.00",
         "赛事主办": "IIT JAMMU (https://ctftime.org/team/375458)",
         "比赛ID": "1297",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SummitCTF 2025",
-        "比赛时间": "2025-04-12 22:00:00 - 2025-04-13 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2662.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://summitctf.org/",
-        "比赛标志": "https://ctftime.org/media/events/Summitctf.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CyberVT (https://ctftime.org/team/173872)",
-        "比赛ID": "1249",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "PwnMe CTF Finals 2025",
-        "比赛时间": "2025-04-12 18:00:00 - 2025-04-13 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2659.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://pwnme.fr/",
-        "比赛标志": "https://ctftime.org/media/events/PWNME_ReseauxPP1.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "PHREAKS 2600 (https://ctftime.org/team/200877)",
-        "比赛ID": "1141",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Challenge the Cyber - Security Samurais",
-        "比赛时间": "2025-04-12 17:00:00 - 2025-04-12 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2701.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://challengethecyber.nl/",
-        "比赛标志": "https://ctftime.org/media/events/ed5e44feb7f4c1e2ca1d000808871c14.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "Challenge the Cyber (https://ctftime.org/team/181210)",
-        "比赛ID": "776",
         "比赛状态": "past"
     }
 ]

@@ -14,6 +14,33 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[UIUCTF 2025](https://2025.uiuc.tf/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://2025.uiuc.tf/)  
+    **比赛名称** : [UIUCTF 2025](https://2025.uiuc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-07-26 08:00:00 - 2025-07-28 08:00:00 UTC+8  
+    **比赛权重** : 91.43  
+    **赛事主办** : SIGPwny (https://ctftime.org/team/27763)  
+    **添加日历** : https://ctftime.org/event/2640.ics  
+    
+??? Quote "[DeadSec CTF 2025](https://www.deadsec.xyz/)"  
+    [![](https://ctftime.org/media/events/Picture1_2.png){ width="200" align=left }](https://www.deadsec.xyz/)  
+    **比赛名称** : [DeadSec CTF 2025](https://www.deadsec.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-07-26 06:00:00 - 2025-07-28 06:00:00 UTC+8  
+    **比赛权重** : 31.29  
+    **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
+    **添加日历** : https://ctftime.org/event/2631.ics  
+    
+??? Quote "[StackSmash CTF](http://ctf.hackthebox.com/)"  
+    [![](https://ctftime.org){ width="200" align=left }](http://ctf.hackthebox.com/)  
+    **比赛名称** : [StackSmash CTF](http://ctf.hackthebox.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-07-25 21:00:00 - 2025-07-28 05:00:00 UTC+8  
+    **比赛权重** : 24.00  
+    **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
+    **添加日历** : https://ctftime.org/event/2841.ics  
+    
 ??? Quote "[BelkaCTF #7](https://belkasoft.com/belkactf7/)"  
     [![](https://ctftime.org/media/events/belkaCTF_ctftime.png){ width="200" align=left }](https://belkasoft.com/belkactf7/)  
     **比赛名称** : [BelkaCTF #7](https://belkasoft.com/belkactf7/)  
@@ -55,7 +82,7 @@ comments: true
     **比赛名称** : [ToH CTF 2025](https://ctf.towerofhanoi.it/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-07-20 00:00:00 - 2025-07-21 00:00:00 UTC+8  
-    **比赛权重** : 25.00  
+    **比赛权重** : 24.21  
     **赛事主办** : Tower of Hanoi (https://ctftime.org/team/300)  
     **添加日历** : https://ctftime.org/event/2833.ics  
     
@@ -886,31 +913,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : IIT JAMMU (https://ctftime.org/team/375458)  
     **添加日历** : https://ctftime.org/event/2745.ics  
-    
-??? Quote "[SummitCTF 2025](https://summitctf.org/)"  
-    [![](https://ctftime.org/media/events/Summitctf.png){ width="200" align=left }](https://summitctf.org/)  
-    **比赛名称** : [SummitCTF 2025](https://summitctf.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 22:00:00 - 2025-04-13 22:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
-    **添加日历** : https://ctftime.org/event/2662.ics  
-    
-??? Quote "[PwnMe CTF Finals 2025](https://pwnme.fr/)"  
-    [![](https://ctftime.org/media/events/PWNME_ReseauxPP1.jpg){ width="200" align=left }](https://pwnme.fr/)  
-    **比赛名称** : [PwnMe CTF Finals 2025](https://pwnme.fr/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 18:00:00 - 2025-04-13 04:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : PHREAKS 2600 (https://ctftime.org/team/200877)  
-    **添加日历** : https://ctftime.org/event/2659.ics  
-    
-??? Quote "[Challenge the Cyber - Security Samurais](https://challengethecyber.nl/)"  
-    [![](https://ctftime.org/media/events/ed5e44feb7f4c1e2ca1d000808871c14.jpg){ width="200" align=left }](https://challengethecyber.nl/)  
-    **比赛名称** : [Challenge the Cyber - Security Samurais](https://challengethecyber.nl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-04-12 17:00:00 - 2025-04-12 23:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Challenge the Cyber (https://ctftime.org/team/181210)  
-    **添加日历** : https://ctftime.org/event/2701.ics  
     
