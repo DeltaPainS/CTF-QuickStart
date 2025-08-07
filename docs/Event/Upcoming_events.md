@@ -40,15 +40,6 @@ comments: true
     **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
     **添加日历** : https://ctftime.org/event/2855.ics  
     
-??? Quote "[CSD CTF 2025](https://cyberstudents.net/ctf)"  
-    [![](https://ctftime.org/media/events/Cyberstudents.png){ width="200" align=left }](https://cyberstudents.net/ctf)  
-    **比赛名称** : [CSD CTF 2025](https://cyberstudents.net/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-08-09 05:00:00 - 2025-08-11 05:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
-    **添加日历** : https://ctftime.org/event/2832.ics  
-    
 ??? Quote "[scriptCTF 2025](https://ctf.scriptsorcerers.xyz/)"  
     [![](https://ctftime.org/media/events/final_logo.png){ width="200" align=left }](https://ctf.scriptsorcerers.xyz/)  
     **比赛名称** : [scriptCTF 2025](https://ctf.scriptsorcerers.xyz/)  
@@ -585,7 +576,7 @@ comments: true
     **比赛名称** : [TSG CTF 2025](https://ctf.tsg.ne.jp/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-12-20 15:00:00 - 2025-12-21 15:00:00 UTC+8  
-    **比赛权重** : 0.00  
+    **比赛权重** : 25.00  
     **赛事主办** : TSG (https://ctftime.org/team/16088)  
     **添加日历** : https://ctftime.org/event/2867.ics  
     
