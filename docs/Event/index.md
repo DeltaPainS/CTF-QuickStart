@@ -713,15 +713,6 @@ hide:
                 **其他说明** : MoeCTF 2025 是由西安电子科技大学主办的线上Jeopardy解题赛，报名开始时间为2025年8月2日00:00，报名结束时间为2025年10月9日17:00，比赛开始时间为2025年8月9日09:00，比赛结束时间为2025年10月9日17:00。更多信息请加入QQ群1014114928。  
                 
         === "国外赛事"
-            ??? Quote "[[DELAYED] CSAW CTF Qualification Round 2025](https://ctf.csaw.io/)"  
-                [![](https://ctftime.org/media/events/csaw-stars.png){ width="200" align=left }](https://ctf.csaw.io/)  
-                **比赛名称** : [[DELAYED] CSAW CTF Qualification Round 2025](https://ctf.csaw.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-13 00:00:00 - 2025-09-15 00:00:00 UTC+8  
-                **比赛权重** : 16.47  
-                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-                **添加日历** : https://ctftime.org/event/2903.ics  
-                
             ??? Quote "[07CTF](https://ctf.0bscuri7y.xyz/)"  
                 [![](https://ctftime.org/media/events/logo_112.png){ width="200" align=left }](https://ctf.0bscuri7y.xyz/)  
                 **比赛名称** : [07CTF](https://ctf.0bscuri7y.xyz/)  
@@ -730,15 +721,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
                 **添加日历** : https://ctftime.org/event/2848.ics  
-                
-            ??? Quote "[Alfa Surfing CTF](https://alfactf.ru/)"  
-                [![](https://ctftime.org/media/events/logo2_7.png){ width="200" align=left }](https://alfactf.ru/)  
-                **比赛名称** : [Alfa Surfing CTF](https://alfactf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-13 17:00:00 - 2025-09-14 23:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
-                **添加日历** : https://ctftime.org/event/2935.ics  
                 
             ??? Quote "[CTF@AC - Quals](https://ctf.ac.upt.ro/)"  
                 [![](https://ctftime.org/media/events/CTFAC.png){ width="200" align=left }](https://ctf.ac.upt.ro/)  
@@ -767,6 +749,24 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Friendly Maltese Citizens (https://ctftime.org/team/220769)  
                 **添加日历** : https://ctftime.org/event/2777.ics  
+                
+            ??? Quote "[Alfa Surfing CTF](https://alfactf.ru/)"  
+                [![](https://ctftime.org/media/events/logo2_7.png){ width="200" align=left }](https://alfactf.ru/)  
+                **比赛名称** : [Alfa Surfing CTF](https://alfactf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-13 17:00:00 - 2025-09-14 23:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SPbCTF (https://ctftime.org/team/30003)  
+                **添加日历** : https://ctftime.org/event/2935.ics  
+                
+            ??? Quote "[[DELAYED] CSAW CTF Qualification Round 2025](https://ctf.csaw.io/)"  
+                [![](https://ctftime.org/media/events/csaw-stars.png){ width="200" align=left }](https://ctf.csaw.io/)  
+                **比赛名称** : [[DELAYED] CSAW CTF Qualification Round 2025](https://ctf.csaw.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-13 00:00:00 - 2025-09-15 00:00:00 UTC+8  
+                **比赛权重** : 16.47  
+                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
+                **添加日历** : https://ctftime.org/event/2903.ics  
                 
             ??? Quote "[FortID CTF 2025](https://fortid.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/ChatGPT_Image_Aug_7_2025_12_53_26_AM.png){ width="200" align=left }](https://fortid.ctfd.io/)  
@@ -890,7 +890,7 @@ hide:
                 **比赛名称** : [Full Weak Engineer CTF 2025](https://ctf.fwectf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-29 18:00:00 - 2025-08-31 18:00:00 UTC+8  
-                **比赛权重** : 24.50  
+                **比赛权重** : 24.52  
                 **赛事主办** : full_weak_engineer (https://ctftime.org/team/305489)  
                 **添加日历** : https://ctftime.org/event/2864.ics  
                 
@@ -1640,24 +1640,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
                 **添加日历** : https://ctftime.org/event/2644.ics  
-                
-            ??? Quote "[AlpacaHack Round 11 (Web)](https://alpacahack.com/ctfs/round-11)"  
-                [![](https://ctftime.org/media/events/ctftime_10.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-11)  
-                **比赛名称** : [AlpacaHack Round 11 (Web)](https://alpacahack.com/ctfs/round-11)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-17 11:00:00 - 2025-05-17 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-                **添加日历** : https://ctftime.org/event/2710.ics  
-                
-            ??? Quote "[BYUCTF 2025](https://ctfd.cyberjousting.com/)"  
-                [![](https://ctftime.org/media/events/byuctf.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
-                **比赛名称** : [BYUCTF 2025](https://ctfd.cyberjousting.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-17 10:00:00 - 2025-05-18 10:00:00 UTC+8  
-                **比赛权重** : 36.94  
-                **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
-                **添加日历** : https://ctftime.org/event/2715.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
