@@ -14,6 +14,33 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[MaltaCTF 2025 Finals](https://2025.ctf.mt/)"  
+    [![](https://ctftime.org/media/events/MaltaCTF_1.png){ width="200" align=left }](https://2025.ctf.mt/)  
+    **比赛名称** : [MaltaCTF 2025 Finals](https://2025.ctf.mt/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-09-13 18:00:00 - 2025-09-14 18:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Friendly Maltese Citizens (https://ctftime.org/team/220769)  
+    **添加日历** : https://ctftime.org/event/2777.ics  
+    
+??? Quote "[FortID CTF 2025](https://fortid.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/ChatGPT_Image_Aug_7_2025_12_53_26_AM.png){ width="200" align=left }](https://fortid.ctfd.io/)  
+    **比赛名称** : [FortID CTF 2025](https://fortid.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-09-12 20:00:00 - 2025-09-14 20:00:00 UTC+8  
+    **比赛权重** : 30.00  
+    **赛事主办** : TBTL (https://ctftime.org/team/170112)  
+    **添加日历** : https://ctftime.org/event/2893.ics  
+    
+??? Quote "[DefCamp Capture the Flag (D-CTF) 2025 Quals](https://dctf25-quals.cyber-edu.co/)"  
+    [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom_1.png){ width="200" align=left }](https://dctf25-quals.cyber-edu.co/)  
+    **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2025 Quals](https://dctf25-quals.cyber-edu.co/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-09-12 18:00:00 - 2025-09-14 18:00:00 UTC+8  
+    **比赛权重** : 50.00  
+    **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
+    **添加日历** : https://ctftime.org/event/2866.ics  
+    
 ??? Quote "[WatCTF F25](https://watctf.org/)"  
     [![](https://ctftime.org/media/events/Black_Back_Yellow_Lock_1.png){ width="200" align=left }](https://watctf.org/)  
     **比赛名称** : [WatCTF F25](https://watctf.org/)  
@@ -46,7 +73,7 @@ comments: true
     **比赛名称** : [CRACCON 2025](https://defhawk.com/battleground/raid/craccon-ctf-2025)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-09-06 16:00:00 - 2025-09-07 16:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 23.77  
     **赛事主办** : h4wk (https://ctftime.org/team/277994)  
     **添加日历** : https://ctftime.org/event/2879.ics  
     
@@ -886,31 +913,4 @@ comments: true
     **比赛权重** : 36.94  
     **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
     **添加日历** : https://ctftime.org/event/2715.ics  
-    
-??? Quote "[Cyshock - The Awakening](https://cyshock.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/Cyshock_Banner_Transparent.png){ width="200" align=left }](https://cyshock.ctfd.io/)  
-    **比赛名称** : [Cyshock - The Awakening](https://cyshock.ctfd.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-14 16:00:00 - 2025-05-16 00:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Visionspace (https://ctftime.org/team/383284)  
-    **添加日历** : https://ctftime.org/event/2787.ics  
-    
-??? Quote "[Rams CTF 2025](https://rams-ctf.com/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://rams-ctf.com/)  
-    **比赛名称** : [Rams CTF 2025](https://rams-ctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-10 23:11:20 - 2025-05-10 23:11:20 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : RAM Overflow (https://ctftime.org/team/378601)  
-    **添加日历** : https://ctftime.org/event/2791.ics  
-    
-??? Quote "[GooseCTF - misc0nfig 25](https://goosectf.lilypadd.com/)"  
-    [![](https://ctftime.org/media/events/misc0nfig_banner_transparent.png){ width="200" align=left }](https://goosectf.lilypadd.com/)  
-    **比赛名称** : [GooseCTF - misc0nfig 25](https://goosectf.lilypadd.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-10 19:00:00 - 2025-05-12 06:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Warwick Cyber Security Society (https://ctftime.org/team/277289)  
-    **添加日历** : https://ctftime.org/event/2789.ics  
     
