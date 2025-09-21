@@ -659,15 +659,6 @@ hide:
                 **其他说明** : MoeCTF 2025 是由西安电子科技大学主办的线上Jeopardy解题赛，报名开始时间为2025年8月2日00:00，报名结束时间为2025年10月9日17:00，比赛开始时间为2025年8月9日09:00，比赛结束时间为2025年10月9日17:00。更多信息请加入QQ群1014114928。  
                 
         === "国外赛事"
-            ??? Quote "[K17 CTF](https://ctf.secso.cc/)"  
-                [![](https://ctftime.org/media/events/k17.png){ width="200" align=left }](https://ctf.secso.cc/)  
-                **比赛名称** : [K17 CTF](https://ctf.secso.cc/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-19 16:00:00 - 2025-09-21 16:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : K17 (https://ctftime.org/team/17058)  
-                **添加日历** : https://ctftime.org/event/2902.ics  
-                
             ??? Quote "[CrewCTF 2025](https://2025.crewc.tf/)"  
                 [![](https://ctftime.org/media/events/thc_icon_processed.png){ width="200" align=left }](https://2025.crewc.tf/)  
                 **比赛名称** : [CrewCTF 2025](https://2025.crewc.tf/)  
@@ -676,15 +667,6 @@ hide:
                 **比赛权重** : 38.93  
                 **赛事主办** : thehackerscrew (https://ctftime.org/team/85618)  
                 **添加日历** : https://ctftime.org/event/2704.ics  
-                
-            ??? Quote "[Ctrl+Space CTF Quals](https://ctrl-space.gg/)"  
-                [![](https://ctftime.org/media/events/ctrlspace_1.png){ width="200" align=left }](https://ctrl-space.gg/)  
-                **比赛名称** : [Ctrl+Space CTF Quals](https://ctrl-space.gg/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-20 17:00:00 - 2025-09-21 16:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ESA (https://ctftime.org/team/391420)  
-                **添加日历** : https://ctftime.org/event/2872.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -704,6 +686,24 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Crimson Defense (https://ctftime.org/team/65283)  
                 **添加日历** : https://ctftime.org/event/2846.ics  
+                
+            ??? Quote "[Ctrl+Space CTF Quals](https://ctrl-space.gg/)"  
+                [![](https://ctftime.org/media/events/ctrlspace_1.png){ width="200" align=left }](https://ctrl-space.gg/)  
+                **比赛名称** : [Ctrl+Space CTF Quals](https://ctrl-space.gg/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-20 17:00:00 - 2025-09-21 16:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ESA (https://ctftime.org/team/391420)  
+                **添加日历** : https://ctftime.org/event/2872.ics  
+                
+            ??? Quote "[K17 CTF](https://ctf.secso.cc/)"  
+                [![](https://ctftime.org/media/events/k17.png){ width="200" align=left }](https://ctf.secso.cc/)  
+                **比赛名称** : [K17 CTF](https://ctf.secso.cc/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-19 16:00:00 - 2025-09-21 16:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : K17 (https://ctftime.org/team/17058)  
+                **添加日历** : https://ctftime.org/event/2902.ics  
                 
             ??? Quote "[VolgaCTF 2025 Final](https://volgactf.ru/en/volgactf-2025/final/)"  
                 [![](https://ctftime.org/media/events/logo-social-yellow_17.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2025/final/)  
@@ -890,7 +890,7 @@ hide:
                 **比赛名称** : [Full Weak Engineer CTF 2025](https://ctf.fwectf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-29 18:00:00 - 2025-08-31 18:00:00 UTC+8  
-                **比赛权重** : 24.56  
+                **比赛权重** : 24.57  
                 **赛事主办** : full_weak_engineer (https://ctftime.org/team/305489)  
                 **添加日历** : https://ctftime.org/event/2864.ics  
                 
@@ -998,7 +998,7 @@ hide:
                 **比赛名称** : [scriptCTF 2025](https://ctf.scriptsorcerers.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-16 08:00:00 - 2025-08-18 08:00:00 UTC+8  
-                **比赛权重** : 24.73  
+                **比赛权重** : 24.74  
                 **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
                 **添加日历** : https://ctftime.org/event/2792.ics  
                 
@@ -1106,7 +1106,7 @@ hide:
                 **比赛名称** : [BDSec CTF 2025](https://bdsec-ctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-07-20 23:00:00 - 2025-07-21 23:00:00 UTC+8  
-                **比赛权重** : 16.63  
+                **比赛权重** : 16.11  
                 **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
                 **添加日历** : https://ctftime.org/event/2784.ics  
                 
@@ -1259,7 +1259,7 @@ hide:
                 **比赛名称** : [CubeCTF](https://cubectf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-07-05 06:16:00 - 2025-07-07 08:25:00 UTC+8  
-                **比赛权重** : 24.71  
+                **比赛权重** : 24.72  
                 **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
                 **添加日历** : https://ctftime.org/event/2820.ics  
                 
@@ -1577,24 +1577,6 @@ hide:
                 **比赛权重** : 20.72  
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/2636.ics  
-                
-            ??? Quote "[DaVinciCTF 2025](https://dvc.tf/)"  
-                [![](https://ctftime.org/media/events/davincictf_vectorized.png){ width="200" align=left }](https://dvc.tf/)  
-                **比赛名称** : [DaVinciCTF 2025](https://dvc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-24 18:00:00 - 2025-05-26 04:00:00 UTC+8  
-                **比赛权重** : 45.00  
-                **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
-                **添加日历** : https://ctftime.org/event/2675.ics  
-                
-            ??? Quote "[HACK'OSINT CTF - 2025](https://ctf.hackolyte.fr/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackolyte.fr/)  
-                **比赛名称** : [HACK'OSINT CTF - 2025](https://ctf.hackolyte.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-24 03:00:00 - 2025-05-26 03:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hack'olyte (https://ctftime.org/team/222944)  
-                **添加日历** : https://ctftime.org/event/2722.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
