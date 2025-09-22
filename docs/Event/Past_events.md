@@ -32,6 +32,15 @@ comments: true
     **赛事主办** : ESA (https://ctftime.org/team/391420)  
     **添加日历** : https://ctftime.org/event/2872.ics  
     
+??? Quote "[CrewCTF 2025](https://2025.crewc.tf/)"  
+    [![](https://ctftime.org/media/events/thc_icon_processed.png){ width="200" align=left }](https://2025.crewc.tf/)  
+    **比赛名称** : [CrewCTF 2025](https://2025.crewc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-09-20 05:00:00 - 2025-09-22 05:00:00 UTC+8  
+    **比赛权重** : 38.93  
+    **赛事主办** : thehackerscrew (https://ctftime.org/team/85618)  
+    **添加日历** : https://ctftime.org/event/2704.ics  
+    
 ??? Quote "[K17 CTF](https://ctf.secso.cc/)"  
     [![](https://ctftime.org/media/events/k17.png){ width="200" align=left }](https://ctf.secso.cc/)  
     **比赛名称** : [K17 CTF](https://ctf.secso.cc/)  
@@ -91,7 +100,7 @@ comments: true
     **比赛名称** : [07CTF](https://ctf.0bscuri7y.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-09-13 14:30:00 - 2025-09-15 02:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 23.61  
     **赛事主办** : 0bscuri7y (https://ctftime.org/team/370140)  
     **添加日历** : https://ctftime.org/event/2848.ics  
     
@@ -127,7 +136,7 @@ comments: true
     **比赛名称** : [WatCTF F25](https://watctf.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-09-10 03:00:00 - 2025-09-12 03:00:00 UTC+8  
-    **比赛权重** : 23.37  
+    **比赛权重** : 22.90  
     **赛事主办** : WATCTF (https://ctftime.org/team/373968)  
     **添加日历** : https://ctftime.org/event/2854.ics  
     
@@ -226,7 +235,7 @@ comments: true
     **比赛名称** : [Full Weak Engineer CTF 2025](https://ctf.fwectf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-08-29 18:00:00 - 2025-08-31 18:00:00 UTC+8  
-    **比赛权重** : 24.57  
+    **比赛权重** : 24.59  
     **赛事主办** : full_weak_engineer (https://ctftime.org/team/305489)  
     **添加日历** : https://ctftime.org/event/2864.ics  
     
@@ -904,13 +913,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : fs0cie1yᶦⁿᵈᶦᵃ (https://ctftime.org/team/380218)  
     **添加日历** : https://ctftime.org/event/2815.ics  
-    
-??? Quote "[SAS CTF 2025 Quals](https://ctf.thesascon.com/)"  
-    [![](https://ctftime.org/media/events/SAS25_new.png){ width="200" align=left }](https://ctf.thesascon.com/)  
-    **比赛名称** : [SAS CTF 2025 Quals](https://ctf.thesascon.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-05-24 20:00:00 - 2025-05-25 20:00:00 UTC+8  
-    **比赛权重** : 20.72  
-    **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
-    **添加日历** : https://ctftime.org/event/2636.ics  
     
