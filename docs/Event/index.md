@@ -289,14 +289,14 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[HackornCTF 2025 Quals](https://ctf.secpen.org/)"  
-                [![](https://ctftime.org/media/events/CYBER_EXCILL.jpg){ width="200" align=left }](https://ctf.secpen.org/)  
-                **比赛名称** : [HackornCTF 2025 Quals](https://ctf.secpen.org/)  
+            ??? Quote "[Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
+                [![](https://ctftime.org/media/events/logo-srdnlen-color-260-social.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+                **比赛名称** : [Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-25 08:00:00 - 2025-09-26 07:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Hackorn (https://ctftime.org/team/385272)  
-                **添加日历** : https://ctftime.org/event/2919.ics  
+                **比赛时间** : 2025-09-25 18:00:00 - 2025-09-26 06:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+                **添加日历** : https://ctftime.org/event/2840.ics  
                 
             ??? Quote "[Iran Tech Olympics CTF 2025](https://ctf.olympics.tech/)"  
                 [![](https://ctftime.org/media/events/tech_olympic_logo.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
@@ -559,6 +559,15 @@ hide:
                 **赛事主办** : LosFuzzys (https://ctftime.org/team/8323)  
                 **添加日历** : https://ctftime.org/event/2714.ics  
                 
+            ??? Quote "[LakeCTF Quals 25-26](https://lakectf.epfl.ch/)"  
+                [![](https://ctftime.org/media/events/lake_logo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
+                **比赛名称** : [LakeCTF Quals 25-26](https://lakectf.epfl.ch/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-29 02:00:00 - 2025-11-30 02:00:00 UTC+8  
+                **比赛权重** : 45.00  
+                **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
+                **添加日历** : https://ctftime.org/event/2944.ics  
+                
             ??? Quote "[HeroCTF v7](https://heroctf.fr/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://heroctf.fr/)  
                 **比赛名称** : [HeroCTF v7](https://heroctf.fr/)  
@@ -659,7 +668,15 @@ hide:
                 **其他说明** : MoeCTF 2025 是由西安电子科技大学主办的线上Jeopardy解题赛，报名开始时间为2025年8月2日00:00，报名结束时间为2025年10月9日17:00，比赛开始时间为2025年8月9日09:00，比赛结束时间为2025年10月9日17:00。更多信息请加入QQ群1014114928。  
                 
         === "国外赛事"
-    
+            ??? Quote "[HackornCTF 2025 Quals](https://ctf.secpen.org/)"  
+                [![](https://ctftime.org/media/events/CYBER_EXCILL.jpg){ width="200" align=left }](https://ctf.secpen.org/)  
+                **比赛名称** : [HackornCTF 2025 Quals](https://ctf.secpen.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-25 08:00:00 - 2025-09-26 07:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Hackorn (https://ctftime.org/team/385272)  
+                **添加日历** : https://ctftime.org/event/2919.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[极客少年挑战赛](URL)"  
