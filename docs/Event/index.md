@@ -659,24 +659,7 @@ hide:
                 **其他说明** : MoeCTF 2025 是由西安电子科技大学主办的线上Jeopardy解题赛，报名开始时间为2025年8月2日00:00，报名结束时间为2025年10月9日17:00，比赛开始时间为2025年8月9日09:00，比赛结束时间为2025年10月9日17:00。更多信息请加入QQ群1014114928。  
                 
         === "国外赛事"
-            ??? Quote "[HackornCTF 2025 Quals](https://ctf.secpen.org/)"  
-                [![](https://ctftime.org/media/events/CYBER_EXCILL.jpg){ width="200" align=left }](https://ctf.secpen.org/)  
-                **比赛名称** : [HackornCTF 2025 Quals](https://ctf.secpen.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-25 08:00:00 - 2025-09-26 07:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Hackorn (https://ctftime.org/team/385272)  
-                **添加日历** : https://ctftime.org/event/2919.ics  
-                
-            ??? Quote "[Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
-                [![](https://ctftime.org/media/events/logo-srdnlen-color-260-social.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
-                **比赛名称** : [Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-09-25 18:00:00 - 2025-09-26 06:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
-                **添加日历** : https://ctftime.org/event/2840.ics  
-                
+    
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[极客少年挑战赛](URL)"  
@@ -687,6 +670,24 @@ hide:
                 **其他说明** : 第五届极客少年挑战赛将于2025年8月29日10:00至16:00举行，报名从2025年6月3日00:00开始至2025年7月10日23:59结束。单人线下赛，更多信息请加入QQ群1045833929。  
                 
         === "国外赛事"
+            ??? Quote "[Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)"  
+                [![](https://ctftime.org/media/events/logo-srdnlen-color-260-social.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
+                **比赛名称** : [Srdnlen CTF 2025 Finals (Sardinia Cyber Camp)](https://ctf.srdnlen.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-25 18:00:00 - 2025-09-26 06:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
+                **添加日历** : https://ctftime.org/event/2840.ics  
+                
+            ??? Quote "[HackornCTF 2025 Quals](https://ctf.secpen.org/)"  
+                [![](https://ctftime.org/media/events/CYBER_EXCILL.jpg){ width="200" align=left }](https://ctf.secpen.org/)  
+                **比赛名称** : [HackornCTF 2025 Quals](https://ctf.secpen.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-09-25 08:00:00 - 2025-09-26 07:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Hackorn (https://ctftime.org/team/385272)  
+                **添加日历** : https://ctftime.org/event/2919.ics  
+                
             ??? Quote "[CDCTF 2025](https://uacrimsondefense.github.io/cdctf.html)"  
                 [![](https://ctftime.org/media/events/cdctf_logo_square.png){ width="200" align=left }](https://uacrimsondefense.github.io/cdctf.html)  
                 **比赛名称** : [CDCTF 2025](https://uacrimsondefense.github.io/cdctf.html)  
@@ -1568,24 +1569,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Hardware CTF by Quarkslab (https://ctftime.org/team/274600)  
                 **添加日历** : https://ctftime.org/event/2788.ics  
-                
-            ??? Quote "[D^3CTF 2025](https://d3c.tf/)"  
-                [![](https://ctftime.org/media/events/ddd_1.png){ width="200" align=left }](https://d3c.tf/)  
-                **比赛名称** : [D^3CTF 2025](https://d3c.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-30 20:00:00 - 2025-05-31 20:00:00 UTC+8  
-                **比赛权重** : 54.67  
-                **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-                **添加日历** : https://ctftime.org/event/2770.ics  
-                
-            ??? Quote "[GIT X IITB Trust Lab CTF](https://unstop.com/p/git-x-iitb-ctf-kls-git-1461610)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://unstop.com/p/git-x-iitb-ctf-kls-git-1461610)  
-                **比赛名称** : [GIT X IITB Trust Lab CTF](https://unstop.com/p/git-x-iitb-ctf-kls-git-1461610)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-05-28 15:23:12 - 2025-05-28 15:23:12 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : fs0cie1yᶦⁿᵈᶦᵃ (https://ctftime.org/team/380218)  
-                **添加日历** : https://ctftime.org/event/2815.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
