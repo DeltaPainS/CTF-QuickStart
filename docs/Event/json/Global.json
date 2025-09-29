@@ -432,15 +432,15 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "SunshineCTF 2025",
-        "比赛时间": "2025-09-27 22:00:00 - 2025-09-29 22:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2863.ics",
+        "比赛名称": "openECSC 2025",
+        "比赛时间": "2025-09-30 02:00:00 - 2025-10-06 07:59:59 UTC+8",
+        "添加日历": "https://ctftime.org/event/2940.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://sunshinectf.org/",
-        "比赛标志": "https://ctftime.org/media/events/sctf_logo_25.png",
-        "比赛权重": "51.65",
-        "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
-        "比赛ID": "137",
+        "比赛链接": "https://openec.sc/",
+        "比赛标志": "https://ctftime.org/media/events/openECSC_1.png",
+        "比赛权重": "0",
+        "赛事主办": "x3CTF (https://ctftime.org/team/309820)",
+        "比赛ID": "1153",
         "比赛状态": "nowrunning"
     },
     {
@@ -453,6 +453,18 @@
         "比赛权重": "0",
         "赛事主办": "The DFIR Report (https://ctftime.org/team/309500)",
         "比赛ID": "1149",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SunshineCTF 2025",
+        "比赛时间": "2025-09-27 22:00:00 - 2025-09-29 22:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2863.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://sunshinectf.org/",
+        "比赛标志": "https://ctftime.org/media/events/sctf_logo_25.png",
+        "比赛权重": "51.65",
+        "赛事主办": "Knightsec (https://ctftime.org/team/2500)",
+        "比赛ID": "137",
         "比赛状态": "past"
     },
     {
@@ -618,7 +630,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.0bscuri7y.xyz/",
         "比赛标志": "https://ctftime.org/media/events/logo_112.png",
-        "比赛权重": "23.66",
+        "比赛权重": "23.71",
         "赛事主办": "0bscuri7y (https://ctftime.org/team/370140)",
         "比赛ID": "1360",
         "比赛状态": "past"
@@ -1629,18 +1641,6 @@
         "比赛权重": "0.00",
         "赛事主办": "OWASP-IL (https://ctftime.org/team/126012)",
         "比赛ID": "483",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Grey Cat The Flag 2025",
-        "比赛时间": "2025-05-31 20:00:00 - 2025-06-01 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2765.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctfd.nusgreyhats.org/",
-        "比赛标志": "https://ctftime.org/media/events/1f40ecb1a9f69d191226247f073cc490.png",
-        "比赛权重": "32.92",
-        "赛事主办": "NUS GreyHats (https://ctftime.org/team/16740)",
-        "比赛ID": "778",
         "比赛状态": "past"
     }
 ]
