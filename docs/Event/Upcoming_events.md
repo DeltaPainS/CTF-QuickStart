@@ -55,7 +55,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2794.ics  
     
 ??? Quote "[Hack.lu CTF 2025](https://flu.xxx/)"  
-    [![](https://ctftime.org/media/events/aaaa.png){ width="200" align=left }](https://flu.xxx/)  
+    [![](https://ctftime.org/media/events/logo-small_1.png){ width="200" align=left }](https://flu.xxx/)  
     **比赛名称** : [Hack.lu CTF 2025](https://flu.xxx/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-10-18 02:00:00 - 2025-10-20 02:00:00 UTC+8  
@@ -162,23 +162,23 @@ comments: true
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2929.ics  
     
-??? Quote "[Iran Tech Olympics Hardware Security 2025](https://ctf.olympics.tech/)"  
-    [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e_2.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-    **比赛名称** : [Iran Tech Olympics Hardware Security 2025](https://ctf.olympics.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-28 14:30:00 - 2025-10-29 02:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/2930.ics  
-    
 ??? Quote "[Iran Tech Olympics Speed-Run CTF 2025](https://ctf.olympics.tech/)"  
     [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e_1.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
     **比赛名称** : [Iran Tech Olympics Speed-Run CTF 2025](https://ctf.olympics.tech/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-29 14:30:00 - 2025-10-29 14:30:00 UTC+8  
+    **比赛时间** : 2025-10-28 14:30:00 - 2025-10-28 14:30:00 UTC+8  
     **比赛权重** : 0  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2931.ics  
+    
+??? Quote "[Iran Tech Olympics Hardware Security 2025](https://ctf.olympics.tech/)"  
+    [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e_2.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
+    **比赛名称** : [Iran Tech Olympics Hardware Security 2025](https://ctf.olympics.tech/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-10-29 14:30:00 - 2025-10-30 02:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
+    **添加日历** : https://ctftime.org/event/2930.ics  
     
 ??? Quote "[PH03N1X V1P3R N0V4 CTF](http://pwnctf.ro/)"  
     [![](https://ctftime.org/media/events/CTF_logo_sex-2_1.png){ width="200" align=left }](http://pwnctf.ro/)  
@@ -395,6 +395,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
     **添加日历** : https://ctftime.org/event/2764.ics  
+    
+??? Quote "[Haix-la-Chapelle 2025](https://haix-la-chapelle.eu/)"  
+    [![](https://ctftime.org/media/events/clear-haix-la-chapelle.png){ width="200" align=left }](https://haix-la-chapelle.eu/)  
+    **比赛名称** : [Haix-la-Chapelle 2025](https://haix-la-chapelle.eu/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-11-29 17:00:00 - 2025-11-30 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Pwn-la-Chapelle (https://ctftime.org/team/279433)  
+    **添加日历** : https://ctftime.org/event/2951.ics  
     
 ??? Quote "[BlackHat MEA CTF Final 2025](https://blackhatmea.com/capture-the-flag)"  
     [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2_2.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
