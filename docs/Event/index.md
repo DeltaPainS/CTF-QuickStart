@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[LINE CTF 2025](https://linectf.me/)"  
-                [![](https://ctftime.org/media/events/LINE.jpeg){ width="200" align=left }](https://linectf.me/)  
-                **比赛名称** : [LINE CTF 2025](https://linectf.me/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-18 08:00:00 - 2025-10-18 08:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : LINE CTF (https://ctftime.org/team/144094)  
-                **添加日历** : https://ctftime.org/event/2819.ics  
-                
             ??? Quote "[H7CTF 2025](https://ctf.h7tex.com/)"  
                 [![](https://ctftime.org/media/events/h7logo.png){ width="200" align=left }](https://ctf.h7tex.com/)  
                 **比赛名称** : [H7CTF 2025](https://ctf.h7tex.com/)  
@@ -797,15 +788,6 @@ hide:
                 **赛事主办** : QnQSec (https://ctftime.org/team/367683)  
                 **添加日历** : https://ctftime.org/event/2826.ics  
                 
-            ??? Quote "[Hackfest CTF 2025](https://hfctf.ca/)"  
-                [![](https://ctftime.org/media/events/Logo_CTF_7_1.png){ width="200" align=left }](https://hfctf.ca/)  
-                **比赛名称** : [Hackfest CTF 2025](https://hfctf.ca/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-17 03:30:00 - 2025-10-18 03:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hackfest.ca (https://ctftime.org/team/125608)  
-                **添加日历** : https://ctftime.org/event/2922.ics  
-                
             ??? Quote "[Hack.lu CTF 2025](https://flu.xxx/)"  
                 [![](https://ctftime.org/media/events/logo-small_1.png){ width="200" align=left }](https://flu.xxx/)  
                 **比赛名称** : [Hack.lu CTF 2025](https://flu.xxx/)  
@@ -832,6 +814,15 @@ hide:
                 **其他说明** : 第五届极客少年挑战赛将于2025年8月29日10:00至16:00举行，报名从2025年6月3日00:00开始至2025年7月10日23:59结束。单人线下赛，更多信息请加入QQ群1045833929。  
                 
         === "国外赛事"
+            ??? Quote "[LINE CTF 2025](https://linectf.me/)"  
+                [![](https://ctftime.org/media/events/LINE.jpeg){ width="200" align=left }](https://linectf.me/)  
+                **比赛名称** : [LINE CTF 2025](https://linectf.me/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-10-18 08:00:00 - 2025-10-18 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : LINE CTF (https://ctftime.org/team/144094)  
+                **添加日历** : https://ctftime.org/event/2819.ics  
+                
             ??? Quote "[HITCON Cyber Range 2025 Final](https://hitcon.kktix.cc/events/hitcon-cyberrange-2025)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://hitcon.kktix.cc/events/hitcon-cyberrange-2025)  
                 **比赛名称** : [HITCON Cyber Range 2025 Final](https://hitcon.kktix.cc/events/hitcon-cyberrange-2025)  
@@ -840,6 +831,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : HITCON (https://ctftime.org/team/8299)  
                 **添加日历** : https://ctftime.org/event/2794.ics  
+                
+            ??? Quote "[Hackfest CTF 2025](https://hfctf.ca/)"  
+                [![](https://ctftime.org/media/events/Logo_CTF_7_1.png){ width="200" align=left }](https://hfctf.ca/)  
+                **比赛名称** : [Hackfest CTF 2025](https://hfctf.ca/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-10-17 03:30:00 - 2025-10-18 03:30:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Hackfest.ca (https://ctftime.org/team/125608)  
+                **添加日历** : https://ctftime.org/event/2922.ics  
                 
             ??? Quote "[POC CTF Qualification 2025](https://powerofcommunity.net/2025/ctf.html)"  
                 [![](https://ctftime.org/media/events/vDP90SY4soKs6q3cKITowqXIE7a0Jy.png){ width="200" align=left }](https://powerofcommunity.net/2025/ctf.html)  
@@ -1713,24 +1713,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2828.ics  
-                
-            ??? Quote "[Cyber Lumen x GWK #CTF1](https://www.fkca.eu/cyber-lumen-global-women-in-korea-ctf1/)"  
-                [![](https://ctftime.org/media/events/Cyber_Lumen_X_GWK_CTF1.png){ width="200" align=left }](https://www.fkca.eu/cyber-lumen-global-women-in-korea-ctf1/)  
-                **比赛名称** : [Cyber Lumen x GWK #CTF1](https://www.fkca.eu/cyber-lumen-global-women-in-korea-ctf1/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-16 19:49:58 - 2025-06-16 19:49:58 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Cyber Lumen (https://ctftime.org/team/389682)  
-                **添加日历** : https://ctftime.org/event/2827.ics  
-                
-            ??? Quote "[Hack'In 0x04](https://hackin.fr/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://hackin.fr/)  
-                **比赛名称** : [Hack'In 0x04](https://hackin.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-06-14 23:00:00 - 2025-06-15 14:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
-                **添加日历** : https://ctftime.org/event/2802.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
