@@ -612,40 +612,16 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "QnQSec CTF 2025",
-        "比赛时间": "2025-10-17 02:00:00 - 2025-10-20 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2826.ics",
+        "比赛名称": "Web Arena",
+        "比赛时间": "2025-10-18 20:30:15 - 2025-10-19 20:30:15 UTC+8",
+        "添加日历": "https://ctftime.org/event/2939.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.qnqsec.team/",
-        "比赛标志": "https://ctftime.org/media/events/Logo_QnQSec.jpg",
+        "比赛链接": "https://csem.sturtles.in/events/3/",
+        "比赛标志": "https://ctftime.org/media/events/Gemini_Generated_Image_j48x6dj48x6dj48x.png",
         "比赛权重": "0",
-        "赛事主办": "QnQSec (https://ctftime.org/team/367683)",
-        "比赛ID": "1347",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "Hack.lu CTF 2025",
-        "比赛时间": "2025-10-18 02:00:00 - 2025-10-20 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2842.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://flu.xxx/",
-        "比赛标志": "https://ctftime.org/media/events/logo-small_1.png",
-        "比赛权重": "98.02",
-        "赛事主办": "FluxFingers (https://ctftime.org/team/551)",
-        "比赛ID": "8",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "H7CTF 2025",
-        "比赛时间": "2025-10-18 11:30:00 - 2025-10-19 23:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2938.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.h7tex.com/",
-        "比赛标志": "https://ctftime.org/media/events/h7logo.png",
-        "比赛权重": "22.56",
-        "赛事主办": "H7Tex (https://ctftime.org/team/281844)",
-        "比赛ID": "1169",
-        "比赛状态": "nowrunning"
+        "赛事主办": "Super_Hacker (https://ctftime.org/team/195477)",
+        "比赛ID": "1354",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "OmniCTF - 2025 - Individuals",
@@ -660,6 +636,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "H7CTF 2025",
+        "比赛时间": "2025-10-18 11:30:00 - 2025-10-19 23:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2938.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.h7tex.com/",
+        "比赛标志": "https://ctftime.org/media/events/h7logo.png",
+        "比赛权重": "22.56",
+        "赛事主办": "H7Tex (https://ctftime.org/team/281844)",
+        "比赛ID": "1169",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "LINE CTF 2025",
         "比赛时间": "2025-10-18 08:00:00 - 2025-10-18 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2819.ics",
@@ -669,6 +657,18 @@
         "比赛权重": "0",
         "赛事主办": "LINE CTF (https://ctftime.org/team/144094)",
         "比赛ID": "590",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Hack.lu CTF 2025",
+        "比赛时间": "2025-10-18 02:00:00 - 2025-10-20 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2842.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://flu.xxx/",
+        "比赛标志": "https://ctftime.org/media/events/logo-small_1.png",
+        "比赛权重": "98.02",
+        "赛事主办": "FluxFingers (https://ctftime.org/team/551)",
+        "比赛ID": "8",
         "比赛状态": "past"
     },
     {
@@ -693,6 +693,18 @@
         "比赛权重": "0.00",
         "赛事主办": "Hackfest.ca (https://ctftime.org/team/125608)",
         "比赛ID": "473",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "QnQSec CTF 2025",
+        "比赛时间": "2025-10-17 02:00:00 - 2025-10-20 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2826.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.qnqsec.team/",
+        "比赛标志": "https://ctftime.org/media/events/Logo_QnQSec.jpg",
+        "比赛权重": "0",
+        "赛事主办": "QnQSec (https://ctftime.org/team/367683)",
+        "比赛ID": "1347",
         "比赛状态": "past"
     },
     {
@@ -1797,54 +1809,6 @@
         "比赛权重": "23.12",
         "赛事主办": "pwnlentoni (https://ctftime.org/team/230457)",
         "比赛ID": "1293",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "MaltaCTF 2025 Quals",
-        "比赛时间": "2025-06-21 15:00:00 - 2025-06-22 15:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2776.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://quals.2025.ctf.mt/",
-        "比赛标志": "https://ctftime.org/media/events/MaltaCTF.png",
-        "比赛权重": "24.95",
-        "赛事主办": "Friendly Maltese Citizens (https://ctftime.org/team/220769)",
-        "比赛ID": "1302",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "IERAE CTF 2025 - GMO Cybersecurity Contest",
-        "比赛时间": "2025-06-21 14:00:00 - 2025-06-22 14:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2655.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://gmo-cybersecurity.com/event/ieraectf25/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "25.00",
-        "赛事主办": "GMO Ierae (https://ctftime.org/team/224122)",
-        "比赛ID": "1130",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BCACTF 6.0",
-        "比赛时间": "2025-06-21 09:30:00 - 2025-06-24 09:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2836.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.bcactf.com/",
-        "比赛标志": "https://ctftime.org/media/events/bcactfVI_txt.png",
-        "比赛权重": "62.97",
-        "赛事主办": "BCACTF (https://ctftime.org/team/81702)",
-        "比赛ID": "325",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "GPN CTF 2025",
-        "比赛时间": "2025-06-20 18:00:00 - 2025-06-22 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2694.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://gpn23.ctf.kitctf.de/",
-        "比赛标志": "https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d_1.png",
-        "比赛权重": "46.00",
-        "赛事主办": "KITCTF (https://ctftime.org/team/7221)",
-        "比赛ID": "854",
         "比赛状态": "past"
     }
 ]
