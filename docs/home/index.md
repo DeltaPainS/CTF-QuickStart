@@ -54,24 +54,6 @@ hide:
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Iran Tech Olympics Hardware Security 2025](https://ctf.olympics.tech/)"  
-            [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e_2.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-            **比赛名称** : [Iran Tech Olympics Hardware Security 2025](https://ctf.olympics.tech/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-10-29 14:30:00 - 2025-10-30 02:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-            **添加日历** : https://ctftime.org/event/2930.ics  
-            
-        ??? Quote "[PH03N1X V1P3R N0V4 CTF](http://pwnctf.ro/)"  
-            [![](https://ctftime.org/media/events/CTF_logo_sex-2_1.png){ width="200" align=left }](http://pwnctf.ro/)  
-            **比赛名称** : [PH03N1X V1P3R N0V4 CTF](http://pwnctf.ro/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2025-10-29 18:00:00 - 2025-11-01 01:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
-            **添加日历** : https://ctftime.org/event/2934.ics  
-            
         ??? Quote "[V1t CTF 2025](https://ctf.v1t.site/)"  
             [![](https://ctftime.org/media/events/Ban_sao_cua_V1T.png){ width="200" align=left }](https://ctf.v1t.site/)  
             **比赛名称** : [V1t CTF 2025](https://ctf.v1t.site/)  
@@ -89,6 +71,24 @@ hide:
             **比赛权重** : 0.00  
             **赛事主办** : OSINT Switzerland (https://ctftime.org/team/391442)  
             **添加日历** : https://ctftime.org/event/2918.ics  
+            
+        ??? Quote "[Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)"  
+            [![](https://ctftime.org/media/events/SPG_Hackloween_2025__FB_Profile.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
+            **比赛名称** : [Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-11-01 10:00:00 - 2025-11-02 10:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
+            **添加日历** : https://ctftime.org/event/2914.ics  
+            
+        ??? Quote "[N1CTF 2025](https://ctf2025.nu1l.com/)"  
+            [![](https://ctftime.org/media/events/logo2_5_2.png){ width="200" align=left }](https://ctf2025.nu1l.com/)  
+            **比赛名称** : [N1CTF 2025](https://ctf2025.nu1l.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2025-11-01 20:00:00 - 2025-11-02 20:00:00 UTC+8  
+            **比赛权重** : 94.50  
+            **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
+            **添加日历** : https://ctftime.org/event/2795.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
