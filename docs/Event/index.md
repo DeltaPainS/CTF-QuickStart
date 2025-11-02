@@ -617,15 +617,6 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2904.ics  
                 
-            ??? Quote "[V1t CTF 2025](https://ctf.v1t.site/)"  
-                [![](https://ctftime.org/media/events/Ban_sao_cua_V1T.png){ width="200" align=left }](https://ctf.v1t.site/)  
-                **比赛名称** : [V1t CTF 2025](https://ctf.v1t.site/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-10-31 21:00:00 - 2025-11-02 21:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : V1t (https://ctftime.org/team/280950)  
-                **添加日历** : https://ctftime.org/event/2920.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[MoeCTF 2025](https://ctf.xidian.edu.cn/games/22)"  
@@ -662,6 +653,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : OSINT Switzerland (https://ctftime.org/team/391442)  
                 **添加日历** : https://ctftime.org/event/2918.ics  
+                
+            ??? Quote "[V1t CTF 2025](https://ctf.v1t.site/)"  
+                [![](https://ctftime.org/media/events/Ban_sao_cua_V1T.png){ width="200" align=left }](https://ctf.v1t.site/)  
+                **比赛名称** : [V1t CTF 2025](https://ctf.v1t.site/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-10-31 21:00:00 - 2025-11-02 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : V1t (https://ctftime.org/team/280950)  
+                **添加日历** : https://ctftime.org/event/2920.ics  
                 
             ??? Quote "[PH03N1X V1P3R N0V4 CTF](http://pwnctf.ro/)"  
                 [![](https://ctftime.org/media/events/CTF_logo_sex-2_1.png){ width="200" align=left }](http://pwnctf.ro/)  
@@ -821,7 +821,7 @@ hide:
                 **比赛名称** : [QnQSec CTF 2025](https://ctf.qnqsec.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-10-17 02:00:00 - 2025-10-20 02:00:00 UTC+8  
-                **比赛权重** : 24.74  
+                **比赛权重** : 24.72  
                 **赛事主办** : QnQSec (https://ctftime.org/team/367683)  
                 **添加日历** : https://ctftime.org/event/2826.ics  
                 
@@ -1217,7 +1217,7 @@ hide:
                 **比赛名称** : [Full Weak Engineer CTF 2025](https://ctf.fwectf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-29 18:00:00 - 2025-08-31 18:00:00 UTC+8  
-                **比赛权重** : 24.59  
+                **比赛权重** : 24.60  
                 **赛事主办** : full_weak_engineer (https://ctftime.org/team/305489)  
                 **添加日历** : https://ctftime.org/event/2864.ics  
                 
@@ -1280,7 +1280,7 @@ hide:
                 **比赛名称** : [BrunnerCTF 2025](https://ctf.brunnerne.dk/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-08-22 20:00:00 - 2025-08-24 20:00:00 UTC+8  
-                **比赛权重** : 24.62  
+                **比赛权重** : 24.63  
                 **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
                 **添加日历** : https://ctftime.org/event/2835.ics  
                 
@@ -1526,15 +1526,6 @@ hide:
                 **比赛权重** : 24.43  
                 **赛事主办** : L3ak (https://ctftime.org/team/220336)  
                 **添加日历** : https://ctftime.org/event/2629.ics  
-                
-            ??? Quote "[CTF Cybercamp UMU 3.0](https://eventos.um.es/go/ctf-cybercampumu-3)"  
-                [![](https://ctftime.org/media/events/banner_ctf_cybercamp_1.png){ width="200" align=left }](https://eventos.um.es/go/ctf-cybercampumu-3)  
-                **比赛名称** : [CTF Cybercamp UMU 3.0](https://eventos.um.es/go/ctf-cybercampumu-3)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-07-11 23:00:00 - 2025-07-14 06:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Offensive Skills (https://ctftime.org/team/389597)  
-                **添加日历** : https://ctftime.org/event/2830.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
