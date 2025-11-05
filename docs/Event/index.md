@@ -343,6 +343,15 @@ hide:
                 **赛事主办** : saarsec (https://ctftime.org/team/15337)  
                 **添加日历** : https://ctftime.org/event/2859.ics  
                 
+            ??? Quote "[M*CTF 2025 Junior Quals](https://mctf.mtuci.ru/)"  
+                [![](https://ctftime.org/media/events/logo_14.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
+                **比赛名称** : [M*CTF 2025 Junior Quals](https://mctf.mtuci.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-09 17:00:00 - 2025-11-10 05:00:00 UTC+8  
+                **比赛权重** : 36.00  
+                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
+                **添加日历** : https://ctftime.org/event/2995.ics  
+                
             ??? Quote "[POC CTF Final 2025](https://powerofcommunity.net/2025/ctf.html)"  
                 [![](https://ctftime.org/media/events/vDP90SY4soKs6q3cKITowqXIE7a0Jy_1.png){ width="200" align=left }](https://powerofcommunity.net/2025/ctf.html)  
                 **比赛名称** : [POC CTF Final 2025](https://powerofcommunity.net/2025/ctf.html)  
@@ -396,6 +405,15 @@ hide:
                 **比赛权重** : 23.92  
                 **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
                 **添加日历** : https://ctftime.org/event/2906.ics  
+                
+            ??? Quote "[M*CTF 2025 Quals](https://mctf.mtuci.ru/)"  
+                [![](https://ctftime.org/media/events/logo_15.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
+                **比赛名称** : [M*CTF 2025 Quals](https://mctf.mtuci.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-16 17:00:00 - 2025-11-17 05:00:00 UTC+8  
+                **比赛权重** : 45.64  
+                **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
+                **添加日历** : https://ctftime.org/event/2996.ics  
                 
             ??? Quote "[snakeCTF 2025 Finals](https://snakectf.org/)"  
                 [![](https://ctftime.org/media/events/LogoCroppable_2_1.png){ width="200" align=left }](https://snakectf.org/)  
@@ -705,7 +723,7 @@ hide:
                 **比赛形式** : Attack-Defense  
                 **比赛时间** : 2025-10-26 11:00:00 - 2025-10-26 22:00:00 UTC+8  
                 **比赛权重** : 25.00  
-                **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
+                **赛事主办** : Drovosec, SAS CREW (https://ctftime.org/team/210132, https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/2811.ics  
                 
             ??? Quote "[DEADFACE CTF 2025](https://ctf.deadface.io/)"  
@@ -821,7 +839,7 @@ hide:
                 **比赛名称** : [QnQSec CTF 2025](https://ctf.qnqsec.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-10-17 02:00:00 - 2025-10-20 02:00:00 UTC+8  
-                **比赛权重** : 24.72  
+                **比赛权重** : 24.73  
                 **赛事主办** : QnQSec (https://ctftime.org/team/367683)  
                 **添加日历** : https://ctftime.org/event/2826.ics  
                 
