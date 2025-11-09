@@ -14,6 +14,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[saarCTF 2025](https://ctf.saarland/)"  
+    [![](https://ctftime.org/media/events/saarctf_2025.png){ width="200" align=left }](https://ctf.saarland/)  
+    **比赛名称** : [saarCTF 2025](https://ctf.saarland/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2025-11-08 21:00:00 - 2025-11-09 06:00:00 UTC+8  
+    **比赛权重** : 97.22  
+    **赛事主办** : saarsec (https://ctftime.org/team/15337)  
+    **添加日历** : https://ctftime.org/event/2859.ics  
+    
+??? Quote "[Equinor CTF 2025](https://ctf.equinor.com/)"  
+    [![](https://ctftime.org/media/events/ept_2.png){ width="200" align=left }](https://ctf.equinor.com/)  
+    **比赛名称** : [Equinor CTF 2025](https://ctf.equinor.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-11-08 17:00:00 - 2025-11-09 03:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : EPT (https://ctftime.org/team/119480)  
+    **添加日历** : https://ctftime.org/event/2646.ics  
+    
 ??? Quote "[CSAW CTF Final Round 2025](https://ctf.csaw.io/)"  
     [![](https://ctftime.org/media/events/csaw-stars_1.png){ width="200" align=left }](https://ctf.csaw.io/)  
     **比赛名称** : [CSAW CTF Final Round 2025](https://ctf.csaw.io/)  
@@ -118,7 +136,7 @@ comments: true
     **比赛名称** : [osu!gaming CTF 2025](https://osugaming.sekai.team/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-10-25 10:00:00 - 2025-10-27 10:00:00 UTC+8  
-    **比赛权重** : 21.63  
+    **比赛权重** : 21.70  
     **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
     **添加日历** : https://ctftime.org/event/2801.ics  
     
@@ -895,22 +913,4 @@ comments: true
     **比赛权重** : 88.25  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2577.ics  
-    
-??? Quote "[L3HCTF 2025](https://l3hctf2025.xctf.org.cn/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://l3hctf2025.xctf.org.cn/)  
-    **比赛名称** : [L3HCTF 2025](https://l3hctf2025.xctf.org.cn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-07-12 09:00:00 - 2025-07-14 09:00:00 UTC+8  
-    **比赛权重** : 23.50  
-    **赛事主办** : L3H Sec (https://ctftime.org/team/75946)  
-    **添加日历** : https://ctftime.org/event/2823.ics  
-    
-??? Quote "[CRMA mini CTF 2025](https://ctf.crma.club/)"  
-    [![](https://ctftime.org/media/events/crma.png){ width="200" align=left }](https://ctf.crma.club/)  
-    **比赛名称** : [CRMA mini CTF 2025](https://ctf.crma.club/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-07-12 01:00:00 - 2025-07-13 00:59:59 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CRMA Cyber Club (https://ctftime.org/team/167583)  
-    **添加日历** : https://ctftime.org/event/2847.ics  
     
