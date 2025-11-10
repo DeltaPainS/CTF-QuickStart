@@ -14,6 +14,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[M*CTF 2025 Junior Quals](https://mctf.mtuci.ru/)"  
+    [![](https://ctftime.org/media/events/logo_14.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
+    **比赛名称** : [M*CTF 2025 Junior Quals](https://mctf.mtuci.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-11-09 17:00:00 - 2025-11-10 05:00:00 UTC+8  
+    **比赛权重** : 36.00  
+    **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
+    **添加日历** : https://ctftime.org/event/2995.ics  
+    
 ??? Quote "[saarCTF 2025](https://ctf.saarland/)"  
     [![](https://ctftime.org/media/events/saarctf_2025.png){ width="200" align=left }](https://ctf.saarland/)  
     **比赛名称** : [saarCTF 2025](https://ctf.saarland/)  
@@ -31,6 +40,15 @@ comments: true
     **比赛权重** : 37.00  
     **赛事主办** : EPT (https://ctftime.org/team/119480)  
     **添加日历** : https://ctftime.org/event/2646.ics  
+    
+??? Quote "[BuckeyeCTF 2025](https://ctf.osucyber.club/)"  
+    [![](https://ctftime.org/media/events/buckeyectf-25-logo_1.jpg){ width="200" align=left }](https://ctf.osucyber.club/)  
+    **比赛名称** : [BuckeyeCTF 2025](https://ctf.osucyber.club/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-11-08 09:00:00 - 2025-11-10 09:00:00 UTC+8  
+    **比赛权重** : 50.00  
+    **赛事主办** : scriptohio (https://ctftime.org/team/144581)  
+    **添加日历** : https://ctftime.org/event/2883.ics  
     
 ??? Quote "[Infobahn CTF 2025](https://2025.infobahnc.tf/)"  
     [![](https://ctftime.org/media/events/mW45GaxJ_400x400.jpg){ width="200" align=left }](https://2025.infobahnc.tf/)  
@@ -91,7 +109,7 @@ comments: true
     **比赛名称** : [V1t CTF 2025](https://ctf.v1t.site/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-10-31 21:00:00 - 2025-11-02 21:00:00 UTC+8  
-    **比赛权重** : 21.36  
+    **比赛权重** : 21.63  
     **赛事主办** : V1t (https://ctftime.org/team/280950)  
     **添加日历** : https://ctftime.org/event/2920.ics  
     
@@ -145,7 +163,7 @@ comments: true
     **比赛名称** : [DEADFACE CTF 2025](https://ctf.deadface.io/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-10-25 22:00:00 - 2025-10-27 08:00:00 UTC+8  
-    **比赛权重** : 34.85  
+    **比赛权重** : 35.15  
     **赛事主办** : Cyber Hacktics (https://ctftime.org/team/127017)  
     **添加日历** : https://ctftime.org/event/2912.ics  
     
@@ -757,7 +775,7 @@ comments: true
     **比赛名称** : [scriptCTF 2025](https://ctf.scriptsorcerers.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-08-16 08:00:00 - 2025-08-18 08:00:00 UTC+8  
-    **比赛权重** : 24.67  
+    **比赛权重** : 24.68  
     **赛事主办** : ScriptSorcerers (https://ctftime.org/team/284260)  
     **添加日历** : https://ctftime.org/event/2792.ics  
     
@@ -895,22 +913,4 @@ comments: true
     **比赛权重** : 24.31  
     **赛事主办** : Tower of Hanoi (https://ctftime.org/team/300)  
     **添加日历** : https://ctftime.org/event/2833.ics  
-    
-??? Quote "[ENOWARS 9](https://9.enowars.com/)"  
-    [![](https://ctftime.org/media/events/enowars9.png){ width="200" align=left }](https://9.enowars.com/)  
-    **比赛名称** : [ENOWARS 9](https://9.enowars.com/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2025-07-19 20:00:00 - 2025-07-20 05:00:00 UTC+8  
-    **比赛权重** : 100.00  
-    **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-    **添加日历** : https://ctftime.org/event/2796.ics  
-    
-??? Quote "[DownUnderCTF 2025](https://2025.duc.tf/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://2025.duc.tf/)  
-    **比赛名称** : [DownUnderCTF 2025](https://2025.duc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-07-18 17:30:00 - 2025-07-20 17:30:00 UTC+8  
-    **比赛权重** : 91.66  
-    **赛事主办** : DownUnderCTF (https://ctftime.org/team/126400)  
-    **添加日历** : https://ctftime.org/event/2669.ics  
     
