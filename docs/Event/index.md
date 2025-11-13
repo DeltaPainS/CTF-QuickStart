@@ -451,9 +451,9 @@ hide:
                 **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
                 **添加日历** : https://ctftime.org/event/2909.ics  
                 
-            ??? Quote "[GlacierCTF 2025](https://glacierctf.com/)"  
-                [![](https://ctftime.org/media/events/glacierlogo.png){ width="200" align=left }](https://glacierctf.com/)  
-                **比赛名称** : [GlacierCTF 2025](https://glacierctf.com/)  
+            ??? Quote "[GlacierCTF 2025](https://play.glacierctf.com/)"  
+                [![](https://ctftime.org/media/events/glacierlogo.png){ width="200" align=left }](https://play.glacierctf.com/)  
+                **比赛名称** : [GlacierCTF 2025](https://play.glacierctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-11-23 02:00:00 - 2025-11-24 02:00:00 UTC+8  
                 **比赛权重** : 52.57  
@@ -893,7 +893,7 @@ hide:
                 **比赛名称** : [Ctrl+Space CTF Finals](https://ctrl-space.gg/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-11-04 17:00:00 - 2025-11-06 19:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : ESA (https://ctftime.org/team/391420)  
                 **添加日历** : https://ctftime.org/event/2989.ics  
                 
