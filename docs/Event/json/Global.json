@@ -18,7 +18,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://rctf2025.xctf.org.cn/",
         "比赛标志": "https://ctftime.org/media/events/rois_1.jpg",
-        "比赛权重": "0.00",
+        "比赛权重": "41.75",
         "赛事主办": "ROIS (https://ctftime.org/team/6476)",
         "比赛ID": "127",
         "比赛状态": "oncoming"
@@ -633,7 +633,7 @@
         "比赛权重": "0.00",
         "赛事主办": "H34lthineer (https://ctftime.org/team/170109)",
         "比赛ID": "1439",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "POC CTF Final 2025",
@@ -1045,7 +1045,7 @@
     },
     {
         "比赛名称": "LINE CTF 2025",
-        "比赛时间": "2025-10-18 08:00:00 - 2025-10-18 08:00:00 UTC+8",
+        "比赛时间": "2025-10-18 08:00:00 - 2025-10-19 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2819.ics",
         "比赛形式": "Jeopardy",
         "比赛链接": "https://linectf.me/",
@@ -1749,18 +1749,6 @@
         "比赛权重": "24.63",
         "赛事主办": "Brunnerne (https://ctftime.org/team/155032)",
         "比赛ID": "1341",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "[POSTPONED]RCTF 2025",
-        "比赛时间": "2025-08-20 18:00:00 - 2025-08-22 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2771.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://rctf.rois.io/",
-        "比赛标志": "https://ctftime.org/media/events/rois.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "ROIS (https://ctftime.org/team/6476)",
-        "比赛ID": "127",
         "比赛状态": "past"
     },
     {
