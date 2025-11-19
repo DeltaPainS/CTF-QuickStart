@@ -136,7 +136,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2764.ics  
     
 ??? Quote "[Haix-la-Chapelle 2025](https://haix-la-chapelle.eu/)"  
-    [![](https://ctftime.org/media/events/clear-haix-la-chapelle.png){ width="200" align=left }](https://haix-la-chapelle.eu/)  
+    [![](https://ctftime.org/media/events/white-haix-la-chapelle.png){ width="200" align=left }](https://haix-la-chapelle.eu/)  
     **比赛名称** : [Haix-la-Chapelle 2025](https://haix-la-chapelle.eu/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-11-29 17:00:00 - 2025-11-30 17:00:00 UTC+8  
@@ -377,6 +377,15 @@ comments: true
     **比赛权重** : 44.77  
     **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
     **添加日历** : https://ctftime.org/event/2943.ics  
+    
+??? Quote "[PHONIX VIPER NOVA CTF#2](https://docs.google.com/forms/d/e/1FAIpQLSdKO7QZKdwNRuakt7WoYnb6Fzq1Jxrx6fI8r8gJtdXDFkJRRA/viewform)"  
+    [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](https://docs.google.com/forms/d/e/1FAIpQLSdKO7QZKdwNRuakt7WoYnb6Fzq1Jxrx6fI8r8gJtdXDFkJRRA/viewform)  
+    **比赛名称** : [PHONIX VIPER NOVA CTF#2](https://docs.google.com/forms/d/e/1FAIpQLSdKO7QZKdwNRuakt7WoYnb6Fzq1Jxrx6fI8r8gJtdXDFkJRRA/viewform)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
+    **添加日历** : https://ctftime.org/event/3018.ics  
     
 ??? Quote "[SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ssmct.org/ctf)  
