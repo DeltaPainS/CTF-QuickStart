@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[PatriotCTF 2025](http://pctf.competitivecyber.club/)"  
-                [![](https://ctftime.org/media/events/71044796c6f64e9996d2077fd0b64c4c.jpg){ width="200" align=left }](http://pctf.competitivecyber.club/)  
-                **比赛名称** : [PatriotCTF 2025](http://pctf.competitivecyber.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-22 02:00:00 - 2025-11-24 02:00:00 UTC+8  
-                **比赛权重** : 42.42  
-                **赛事主办** : Competitive Cyber at Mason (https://ctftime.org/team/176906)  
-                **添加日历** : https://ctftime.org/event/2850.ics  
-                
             ??? Quote "[sknbCTF 2025](http://ctf.sknb.team/)"  
                 [![](https://ctftime.org/media/events/sknb_logo.png){ width="200" align=left }](http://ctf.sknb.team/)  
                 **比赛名称** : [sknbCTF 2025](http://ctf.sknb.team/)  
@@ -492,7 +483,7 @@ hide:
                 **比赛名称** : [0CTF 2025](https://ctf.0ops.sjtu.cn/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-12-20 08:00:00 - 2025-12-22 08:00:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 96.88  
                 **赛事主办** : 0ops (https://ctftime.org/team/4419)  
                 **添加日历** : https://ctftime.org/event/2997.ics  
                 
@@ -662,14 +653,14 @@ hide:
                 **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
                 **添加日历** : https://ctftime.org/event/2994.ics  
                 
-            ??? Quote "[Hardwear.io NL 2025 Hardware CTF](https://hwc.tf/)"  
-                [![](https://ctftime.org/media/events/logohwcolor_16.png){ width="200" align=left }](https://hwc.tf/)  
-                **比赛名称** : [Hardwear.io NL 2025 Hardware CTF](https://hwc.tf/)  
+            ??? Quote "[PatriotCTF 2025](http://pctf.competitivecyber.club/)"  
+                [![](https://ctftime.org/media/events/71044796c6f64e9996d2077fd0b64c4c.jpg){ width="200" align=left }](http://pctf.competitivecyber.club/)  
+                **比赛名称** : [PatriotCTF 2025](http://pctf.competitivecyber.club/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-20 17:00:00 - 2025-11-21 20:50:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
-                **添加日历** : https://ctftime.org/event/3002.ics  
+                **比赛时间** : 2025-11-22 02:00:00 - 2025-11-24 02:00:00 UTC+8  
+                **比赛权重** : 42.42  
+                **赛事主办** : Competitive Cyber at Mason (https://ctftime.org/team/176906)  
+                **添加日历** : https://ctftime.org/event/2850.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -689,6 +680,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
                 **添加日历** : https://ctftime.org/event/3010.ics  
+                
+            ??? Quote "[Hardwear.io NL 2025 Hardware CTF](https://hwc.tf/)"  
+                [![](https://ctftime.org/media/events/logohwcolor_16.png){ width="200" align=left }](https://hwc.tf/)  
+                **比赛名称** : [Hardwear.io NL 2025 Hardware CTF](https://hwc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-20 17:00:00 - 2025-11-21 20:50:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
+                **添加日历** : https://ctftime.org/event/3002.ics  
                 
             ??? Quote "[M*CTF 2025 Quals](https://mctf.mtuci.ru/)"  
                 [![](https://ctftime.org/media/events/logo_15.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
@@ -1571,15 +1571,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
                 **添加日历** : https://ctftime.org/event/2882.ics  
-                
-            ??? Quote "[Lexington Informatics Tournament CTF 2025](https://lit.lhsmathcs.org/)"  
-                [![](https://ctftime.org/media/events/LIT_Logo.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
-                **比赛名称** : [Lexington Informatics Tournament CTF 2025](https://lit.lhsmathcs.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-08-23 23:00:00 - 2025-08-25 23:00:00 UTC+8  
-                **比赛权重** : 67.32  
-                **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
-                **添加日历** : https://ctftime.org/event/2890.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
