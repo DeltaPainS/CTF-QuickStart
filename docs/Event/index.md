@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[MetaCTF November 2025 Flash CTF](https://mctf.io/nov2025)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://mctf.io/nov2025)  
-                **比赛名称** : [MetaCTF November 2025 Flash CTF](https://mctf.io/nov2025)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-21 06:00:00 - 2025-11-21 08:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
-                **添加日历** : https://ctftime.org/event/3010.ics  
-                
             ??? Quote "[PatriotCTF 2025](http://pctf.competitivecyber.club/)"  
                 [![](https://ctftime.org/media/events/71044796c6f64e9996d2077fd0b64c4c.jpg){ width="200" align=left }](http://pctf.competitivecyber.club/)  
                 **比赛名称** : [PatriotCTF 2025](http://pctf.competitivecyber.club/)  
@@ -690,6 +681,15 @@ hide:
                 **其他说明** : MoeCTF 2025 是由西安电子科技大学主办的线上Jeopardy解题赛，报名开始时间为2025年8月2日00:00，报名结束时间为2025年10月9日17:00，比赛开始时间为2025年8月9日09:00，比赛结束时间为2025年10月9日17:00。更多信息请加入QQ群1014114928。  
                 
         === "国外赛事"
+            ??? Quote "[MetaCTF November 2025 Flash CTF](https://mctf.io/nov2025)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://mctf.io/nov2025)  
+                **比赛名称** : [MetaCTF November 2025 Flash CTF](https://mctf.io/nov2025)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-11-21 06:00:00 - 2025-11-21 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
+                **添加日历** : https://ctftime.org/event/3010.ics  
+                
             ??? Quote "[M*CTF 2025 Quals](https://mctf.mtuci.ru/)"  
                 [![](https://ctftime.org/media/events/logo_15.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
                 **比赛名称** : [M*CTF 2025 Quals](https://mctf.mtuci.ru/)  
@@ -1580,15 +1580,6 @@ hide:
                 **比赛权重** : 67.32  
                 **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
                 **添加日历** : https://ctftime.org/event/2890.ics  
-                
-            ??? Quote "[KubanCTF Qualifier 2025](https://kubanctf2025.ru/)"  
-                [![](https://ctftime.org/media/events/9c50b904-9541-4e89-839c-0b0945333b60_1.jpg){ width="200" align=left }](https://kubanctf2025.ru/)  
-                **比赛名称** : [KubanCTF Qualifier 2025](https://kubanctf2025.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-08-23 15:00:00 - 2025-08-24 01:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : HackerLab (https://ctftime.org/team/299486)  
-                **添加日历** : https://ctftime.org/event/2894.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
