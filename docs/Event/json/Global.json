@@ -132,6 +132,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CyKor CTF 2025",
+        "比赛时间": "2025-12-06 09:00:00 - 2025-12-07 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3028.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cykor.kr/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0.00",
+        "赛事主办": "CyKOR (https://ctftime.org/team/369)",
+        "比赛ID": "1452",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "BackdoorCTF 2025",
         "比赛时间": "2025-12-06 20:00:00 - 2025-12-08 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2915.ics",
@@ -1458,7 +1470,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.ac.upt.ro/",
         "比赛标志": "https://ctftime.org/media/events/CTFAC.png",
-        "比赛权重": "24.50",
+        "比赛权重": "24.53",
         "赛事主办": "UPT-CTF (https://ctftime.org/team/276942)",
         "比赛ID": "1337",
         "比赛状态": "past"
@@ -1494,7 +1506,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.0bscuri7y.xyz/",
         "比赛标志": "https://ctftime.org/media/events/logo_112.png",
-        "比赛权重": "23.71",
+        "比赛权重": "23.75",
         "赛事主办": "0bscuri7y (https://ctftime.org/team/370140)",
         "比赛ID": "1360",
         "比赛状态": "past"
