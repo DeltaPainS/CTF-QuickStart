@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Advent of CTF 2025](https://cyberstudents.net/advent)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://cyberstudents.net/advent)  
-                **比赛名称** : [Advent of CTF 2025](https://cyberstudents.net/advent)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-12-02 09:00:00 - 2026-01-01 12:59:59 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
-                **添加日历** : https://ctftime.org/event/3022.ics  
-                
             ??? Quote "[BlackHat MEA CTF Final 2025](https://blackhatmea.com/capture-the-flag)"  
                 [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2_2.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
                 **比赛名称** : [BlackHat MEA CTF Final 2025](https://blackhatmea.com/capture-the-flag)  
@@ -563,7 +554,15 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-    
+            ??? Quote "[Advent of CTF 2025](https://cyberstudents.net/advent)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://cyberstudents.net/advent)  
+                **比赛名称** : [Advent of CTF 2025](https://cyberstudents.net/advent)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-12-02 09:00:00 - 2026-01-01 12:59:59 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
+                **添加日历** : https://ctftime.org/event/3022.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[MoeCTF 2025](https://ctf.xidian.edu.cn/games/22)"  
@@ -795,7 +794,7 @@ hide:
                 **比赛名称** : [AmateursCTF 2025](https://ctf.amateurs.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-11-14 08:00:00 - 2025-11-18 08:00:00 UTC+8  
-                **比赛权重** : 35.55  
+                **比赛权重** : 35.56  
                 **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
                 **添加日历** : https://ctftime.org/event/2844.ics  
                 
@@ -1380,7 +1379,7 @@ hide:
                 **比赛名称** : [K17 CTF](https://ctf.secso.cc/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-09-19 16:00:00 - 2025-09-21 16:00:00 UTC+8  
-                **比赛权重** : 24.82  
+                **比赛权重** : 24.83  
                 **赛事主办** : K17 (https://ctftime.org/team/17058)  
                 **添加日历** : https://ctftime.org/event/2902.ics  
                 
