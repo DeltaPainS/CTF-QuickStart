@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[NexHunt CTF](https://nexus-security.club/)"  
-    [![](https://ctftime.org/media/events/Group_64_2.png){ width="200" align=left }](https://nexus-security.club/)  
-    **比赛名称** : [NexHunt CTF](https://nexus-security.club/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-12-12 02:00:00 - 2025-12-13 18:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Nexus Team (https://ctftime.org/team/361096)  
-    **添加日历** : https://ctftime.org/event/3037.ics  
-    
 ??? Quote "[niteCTF 2025](https://nitectf25.live/)"  
     [![](https://ctftime.org/media/events/nitectf2025.png){ width="200" align=left }](https://nitectf25.live/)  
     **比赛名称** : [niteCTF 2025](https://nitectf25.live/)  
@@ -131,7 +122,7 @@ comments: true
     **比赛名称** : [UofTCTF 2026](https://ctf.uoftctf.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-01-10 08:00:00 - 2026-01-12 08:00:00 UTC+8  
-    **比赛权重** : 33.45  
+    **比赛权重** : 33.49  
     **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
     **添加日历** : https://ctftime.org/event/2969.ics  
     
