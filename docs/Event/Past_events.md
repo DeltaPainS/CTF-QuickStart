@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[Cybercoliseum IV](https://cybercoliseum.hackerlab.pro/en)"  
+    [![](https://ctftime.org/media/events/cybercoliseum.png){ width="200" align=left }](https://cybercoliseum.hackerlab.pro/en)  
+    **比赛名称** : [Cybercoliseum IV](https://cybercoliseum.hackerlab.pro/en)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-12-13 15:00:00 - 2025-12-14 15:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : HackerLab (https://ctftime.org/team/299486)  
+    **添加日历** : https://ctftime.org/event/3019.ics  
+    
 ??? Quote "[SECCON CTF 14 Quals](https://ctf.seccon.jp/)"  
     [![](https://ctftime.org/media/events/seccon_s_10.png){ width="200" align=left }](https://ctf.seccon.jp/)  
     **比赛名称** : [SECCON CTF 14 Quals](https://ctf.seccon.jp/)  
@@ -16,6 +25,15 @@ comments: true
     **比赛权重** : 100.00  
     **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
     **添加日历** : https://ctftime.org/event/2862.ics  
+    
+??? Quote "[niteCTF 2025](https://nitectf25.live/)"  
+    [![](https://ctftime.org/media/events/nitectf2025.png){ width="200" align=left }](https://nitectf25.live/)  
+    **比赛名称** : [niteCTF 2025](https://nitectf25.live/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-12-12 20:00:00 - 2025-12-14 20:00:00 UTC+8  
+    **比赛权重** : 39.87  
+    **赛事主办** : Cryptonite (https://ctftime.org/team/62713)  
+    **添加日历** : https://ctftime.org/event/2851.ics  
     
 ??? Quote "[NexHunt CTF](https://nexus-security.club/)"  
     [![](https://ctftime.org/media/events/Group_64_2.png){ width="200" align=left }](https://nexus-security.club/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 80.00  
     **赛事主办** : W&M (https://ctftime.org/team/54666)  
     **添加日历** : https://ctftime.org/event/2910.ics  
-    
-??? Quote "[CrewCTF 2025](https://2025.crewc.tf/)"  
-    [![](https://ctftime.org/media/events/thc_icon_processed.png){ width="200" align=left }](https://2025.crewc.tf/)  
-    **比赛名称** : [CrewCTF 2025](https://2025.crewc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-09-20 05:00:00 - 2025-09-22 05:00:00 UTC+8  
-    **比赛权重** : 38.93  
-    **赛事主办** : thehackerscrew (https://ctftime.org/team/85618)  
-    **添加日历** : https://ctftime.org/event/2704.ics  
-    
-??? Quote "[K17 CTF](https://ctf.secso.cc/)"  
-    [![](https://ctftime.org/media/events/k17.png){ width="200" align=left }](https://ctf.secso.cc/)  
-    **比赛名称** : [K17 CTF](https://ctf.secso.cc/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-09-19 16:00:00 - 2025-09-21 16:00:00 UTC+8  
-    **比赛权重** : 24.83  
-    **赛事主办** : K17 (https://ctftime.org/team/17058)  
-    **添加日历** : https://ctftime.org/event/2902.ics  
     
