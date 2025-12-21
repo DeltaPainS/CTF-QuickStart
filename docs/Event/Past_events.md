@@ -17,6 +17,24 @@ comments: true
     **赛事主办** : MetaCTF (https://ctftime.org/team/72254)  
     **添加日历** : https://ctftime.org/event/3036.ics  
     
+??? Quote "[TSG CTF 2025](https://score.ctf.tsg.ne.jp/)"  
+    [![](https://ctftime.org/media/events/TSG_CTF.png){ width="200" align=left }](https://score.ctf.tsg.ne.jp/)  
+    **比赛名称** : [TSG CTF 2025](https://score.ctf.tsg.ne.jp/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-12-20 15:00:00 - 2025-12-21 15:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : TSG (https://ctftime.org/team/16088)  
+    **添加日历** : https://ctftime.org/event/2867.ics  
+    
+??? Quote "[HKCERT CTF 2025 (Qualifying Round)](https://ctf.hkcert.org/)"  
+    [![](https://ctftime.org/media/events/CTF2025.png){ width="200" align=left }](https://ctf.hkcert.org/)  
+    **比赛名称** : [HKCERT CTF 2025 (Qualifying Round)](https://ctf.hkcert.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-12-19 16:00:00 - 2025-12-21 16:00:00 UTC+8  
+    **比赛权重** : 83.21  
+    **赛事主办** : HKCERT (https://ctftime.org/team/134746)  
+    **添加日历** : https://ctftime.org/event/2998.ics  
+    
 ??? Quote "[BSides Algiers 2025](https://bsides-algiers-2k25.shellmates.club/)"  
     [![](https://ctftime.org/media/events/image.jpg){ width="200" align=left }](https://bsides-algiers-2k25.shellmates.club/)  
     **比赛名称** : [BSides Algiers 2025](https://bsides-algiers-2k25.shellmates.club/)  
@@ -40,7 +58,7 @@ comments: true
     **比赛名称** : [Cybercoliseum IV](https://cybercoliseum.hackerlab.pro/en)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-12-13 15:00:00 - 2025-12-14 15:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : HackerLab (https://ctftime.org/team/299486)  
     **添加日历** : https://ctftime.org/event/3019.ics  
     
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Hackorn (https://ctftime.org/team/385272)  
     **添加日历** : https://ctftime.org/event/2919.ics  
-    
-??? Quote "[Holmes CTF 2025](https://ctf.hackthebox.com/event/details/holmes-ctf-2025-2536)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/holmes-ctf-2025-2536)  
-    **比赛名称** : [Holmes CTF 2025](https://ctf.hackthebox.com/event/details/holmes-ctf-2025-2536)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-09-22 21:00:00 - 2025-09-27 03:00:00 UTC+8  
-    **比赛权重** : 24.00  
-    **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-    **添加日历** : https://ctftime.org/event/2911.ics  
-    
-??? Quote "[CDCTF 2025](https://uacrimsondefense.github.io/cdctf.html)"  
-    [![](https://ctftime.org/media/events/cdctf_logo_square.png){ width="200" align=left }](https://uacrimsondefense.github.io/cdctf.html)  
-    **比赛名称** : [CDCTF 2025](https://uacrimsondefense.github.io/cdctf.html)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-09-20 23:00:00 - 2025-09-21 11:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : Crimson Defense (https://ctftime.org/team/65283)  
-    **添加日历** : https://ctftime.org/event/2846.ics  
     
