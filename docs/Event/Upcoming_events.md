@@ -5,7 +5,20 @@ comments: true
 
 ## 国内赛事
 
-
+??? Quote "HGAME 2026"  
+    **比赛名称** : [HGAME 2026](https://hgame.vidar.club/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2026年01月26日 00:00 - 2026年02月15日 19:59  
+    **比赛时间** : 2026年02月02日 10:00 - 2026年02月15日 20:00  
+    **其他说明** : HGAME 2026 是一场由Vidar-Team组织的线上Jeopardy解题赛，。报名从2026年01月26日00:00开始，到2026年02月15日20:00结束。比赛从2026年02月02日10:00开始，至2026年02月15日20:00结束。更多信息，请加入QQ群576834793。  
+    
+??? Quote "furryCTF 2025"  
+    **比赛名称** : [furryCTF 2025](https://furryctf.com/games/2)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2026年1月1日 00:00 - 2026年1月30日 11:59  
+    **比赛时间** : 2026年1月30日 12:00 - 2026年2月2日 12:00  
+    **其他说明** : furryCTF 2025是一款直至目前花销自理的，具有一定娱乐性质的，安徽师范大学计算机爱好者协会协办的网络与信息安全新神赛，初心是不为盈利，Hack for fun！比赛允许使用AI，我们鼓励选手能在比赛中合理的将AI当做辅助解题的工具。同时我们不限制搜索引擎的使用，除了因为确实也不好限制以外，我们鼓励选手能从比赛过程中通过思考与探索学到更多知识。比赛链接：furryCTF 2025正赛（比赛时间为2026年1月30日中午12点~2月2日中午12点，共72小时）： https://furryctf.com/games/2。官方交流群QQ:746480442。  
+    
 
 ## 国际赛事
 
@@ -37,7 +50,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3021.ics  
     
 ??? Quote "[2026 Embedded Capture the Flag](https://ectf.mitre.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ectf.mitre.org/)  
+    [![](){ width="200" align=left }](https://ectf.mitre.org/)  
     **比赛名称** : [2026 Embedded Capture the Flag](https://ectf.mitre.org/)  
     **比赛形式** : Attack-Defense  
     **比赛时间** : 2026-01-14 20:00:00 - 2026-04-15 20:00:00 UTC+8  
@@ -73,7 +86,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2767.ics  
     
 ??? Quote "[CSCG 2026](https://play.cscg.live/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://play.cscg.live/)  
+    [![](){ width="200" align=left }](https://play.cscg.live/)  
     **比赛名称** : [CSCG 2026](https://play.cscg.live/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-02 01:00:00 - 2026-05-02 00:00:00 UTC+8  
@@ -136,7 +149,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3018.ics  
     
 ??? Quote "[SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ssmct.org/ctf)  
+    [![](){ width="200" align=left }](https://ssmct.org/ctf)  
     **比赛名称** : [SSMCTF 2026 Qualifiers](https://ssmct.org/ctf)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-06-07 18:00:00 - 2026-06-08 18:00:00 UTC+8  
