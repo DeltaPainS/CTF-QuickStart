@@ -29,15 +29,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[KnightCTF 2026](https://2026.knightctf.com/)"  
-    [![](https://ctftime.org/media/events/knightctf-logo.png){ width="200" align=left }](https://2026.knightctf.com/)  
-    **比赛名称** : [KnightCTF 2026](https://2026.knightctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-01-20 23:00:00 - 2026-01-21 23:00:00 UTC+8  
-    **比赛权重** : 22.21  
-    **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-    **添加日历** : https://ctftime.org/event/3053.ics  
-    
 ??? Quote "[MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)"  
     [![](){ width="200" align=left }](https://mctf.io/jan2026)  
     **比赛名称** : [MetaCTF January 2026 Flash CTF](https://mctf.io/jan2026)  
@@ -532,6 +523,15 @@ comments: true
     **比赛权重** : 90.53  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/3033.ics  
+    
+??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
+    [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
+    **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-05 00:00:00 - 2026-09-07 00:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
+    **添加日历** : https://ctftime.org/event/3097.ics  
     
 ??? Quote "[Pointer Overflow CTF - 2026](https://pointeroverflowctf.com/)"  
     [![](https://ctftime.org/media/events/logo-mini.png){ width="200" align=left }](https://pointeroverflowctf.com/)  
