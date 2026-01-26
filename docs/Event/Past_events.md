@@ -26,6 +26,15 @@ comments: true
     **赛事主办** : VSL (https://ctftime.org/team/284373)  
     **添加日历** : https://ctftime.org/event/3060.ics  
     
+??? Quote "[LilacCTF 2026](https://lilacctf2026.xctf.org.cn/)"  
+    [![](https://ctftime.org/media/events/square.jpg){ width="200" align=left }](https://lilacctf2026.xctf.org.cn/)  
+    **比赛名称** : [LilacCTF 2026](https://lilacctf2026.xctf.org.cn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-01-24 09:00:00 - 2026-01-26 09:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Lilac (https://ctftime.org/team/15163)  
+    **添加日历** : https://ctftime.org/event/3071.ics  
+    
 ??? Quote "[Dreamhack Invitational Quals 2026](https://dreamhack.io/ctf/772)"  
     [![](https://ctftime.org/media/events/e66fed5653581908ac8e93f82ad73cae_2.jpg){ width="200" align=left }](https://dreamhack.io/ctf/772)  
     **比赛名称** : [Dreamhack Invitational Quals 2026](https://dreamhack.io/ctf/772)  
@@ -34,6 +43,24 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
     **添加日历** : https://ctftime.org/event/3025.ics  
+    
+??? Quote "[Säkerhets-SM Quals 2026](https://ctf.sakerhetssm.se/)"  
+    [![](){ width="200" align=left }](https://ctf.sakerhetssm.se/)  
+    **比赛名称** : [Säkerhets-SM Quals 2026](https://ctf.sakerhetssm.se/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-01-24 03:00:00 - 2026-01-26 03:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Kodsport (https://ctftime.org/team/395272)  
+    **添加日历** : https://ctftime.org/event/2945.ics  
+    
+??? Quote "[HackDay 2026 - Qualifications](https://register.hackday.fr/register/)"  
+    [![](https://ctftime.org/media/events/5513a205a0a6489f9dc0ecff6fd7d669.png){ width="200" align=left }](https://register.hackday.fr/register/)  
+    **比赛名称** : [HackDay 2026 - Qualifications](https://register.hackday.fr/register/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-01-24 03:00:00 - 2026-01-26 03:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
+    **添加日历** : https://ctftime.org/event/3038.ics  
     
 ??? Quote "[0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)"  
     [![](){ width="200" align=left }](https://ctf.0xL4ugh.com/)  
@@ -880,31 +907,4 @@ comments: true
     **比赛权重** : 24.76  
     **赛事主办** : QnQSec (https://ctftime.org/team/367683)  
     **添加日历** : https://ctftime.org/event/2826.ics  
-    
-??? Quote "[GaianSpace CTF 2025](https://gaian.space/ctf)"  
-    [![](https://ctftime.org/media/events/gaianspace-logo-new.png){ width="200" align=left }](https://gaian.space/ctf)  
-    **比赛名称** : [GaianSpace CTF 2025](https://gaian.space/ctf)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-13 22:00:00 - 2025-10-13 22:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : GaianSpace (https://ctftime.org/team/373034)  
-    **添加日历** : https://ctftime.org/event/2732.ics  
-    
-??? Quote "[POC CTF Qualification 2025](https://powerofcommunity.net/2025/ctf.html)"  
-    [![](https://ctftime.org/media/events/vDP90SY4soKs6q3cKITowqXIE7a0Jy.png){ width="200" align=left }](https://powerofcommunity.net/2025/ctf.html)  
-    **比赛名称** : [POC CTF Qualification 2025](https://powerofcommunity.net/2025/ctf.html)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-12 18:00:00 - 2025-10-13 18:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-    **添加日历** : https://ctftime.org/event/2955.ics  
-    
-??? Quote "[QUESTCON CTF 2025](https://discord.com/invite/JAavPpY95u)"  
-    [![](https://ctftime.org/media/events/owasp.jpeg){ width="200" align=left }](https://discord.com/invite/JAavPpY95u)  
-    **比赛名称** : [QUESTCON CTF 2025](https://discord.com/invite/JAavPpY95u)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-11 17:00:00 - 2025-10-12 17:00:00 UTC+8  
-    **比赛权重** : 26.50  
-    **赛事主办** : OWASP_PCCOE-CORE (https://ctftime.org/team/206360)  
-    **添加日历** : https://ctftime.org/event/2968.ics  
     
