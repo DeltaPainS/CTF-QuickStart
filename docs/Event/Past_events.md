@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "HGAME 2026"  
+    **比赛名称** : [HGAME 2026](https://hgame.vidar.club/)  
+    **比赛类型** : 线上Jeopardy解题赛  
+    **报名时间** : 2026年01月26日 00:00 - 2026年02月15日 19:59  
+    **比赛时间** : 2026年02月02日 10:00 - 2026年02月15日 20:00  
+    **其他说明** : HGAME 2026 是一场由Vidar-Team组织的线上Jeopardy解题赛，。报名从2026年01月26日00:00开始，到2026年02月15日20:00结束。比赛从2026年02月02日10:00开始，至2026年02月15日20:00结束。更多信息，请加入QQ群576834793。  
+    
 ??? Quote "furryCTF 2025 高校联合新神赛"  
     **比赛名称** : [furryCTF 2025 高校联合新神赛](https://furryctf.com/)  
     **比赛类型** : 线上Jeopardy解题赛  
@@ -21,6 +28,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[TaipanByte’s Chart CTF](https://chart.taipanbyte.ru/)"  
+    [![](){ width="200" align=left }](https://chart.taipanbyte.ru/)  
+    **比赛名称** : [TaipanByte’s Chart CTF](https://chart.taipanbyte.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-02-14 18:00:00 - 2026-02-15 18:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : TaipanByte (https://ctftime.org/team/301788)  
+    **添加日历** : https://ctftime.org/event/3086.ics  
+    
+??? Quote "[Breach Point CTF - Siege Of Troy(Online Round)](https://breachpoint.live/)"  
+    [![](https://ctftime.org/media/events/SIEGE_O_TROY_Trust_Was_the_Vulnerability..jpg){ width="200" align=left }](https://breachpoint.live/)  
+    **比赛名称** : [Breach Point CTF - Siege Of Troy(Online Round)](https://breachpoint.live/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-02-14 15:30:00 - 2026-02-15 15:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : BreachPoint-SOT (https://ctftime.org/team/419090)  
+    **添加日历** : https://ctftime.org/event/3075.ics  
+    
 ??? Quote "[0xFUN CTF 2026](https://ctf.0xfun.org/)"  
     [![](https://ctftime.org/media/events/image_4.png){ width="200" align=left }](https://ctf.0xfun.org/)  
     **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
@@ -35,7 +60,7 @@ comments: true
     **比赛名称** : [EncipherX CTF 4.0](https://encipherx.in/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-02-07 19:00:00 - 2026-02-08 19:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : Phoenixcybersecurity (https://ctftime.org/team/419257)  
     **添加日历** : https://ctftime.org/event/3074.ics  
     
@@ -44,7 +69,7 @@ comments: true
     **比赛名称** : [DUCKERZ CTF 2026](https://teams.duckerz.ru/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 23.20  
     **赛事主办** : DUCKERZ (https://ctftime.org/team/372036)  
     **添加日历** : https://ctftime.org/event/3067.ics  
     
@@ -902,22 +927,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CypherLock (https://ctftime.org/team/356395)  
     **添加日历** : https://ctftime.org/event/3005.ics  
-    
-??? Quote "[Iran Tech Olympics Speed-Run CTF 2025](https://ctf.olympics.tech/)"  
-    [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e_1.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-    **比赛名称** : [Iran Tech Olympics Speed-Run CTF 2025](https://ctf.olympics.tech/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-28 14:30:00 - 2025-10-28 14:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/2931.ics  
-    
-??? Quote "[Iran Tech Olympics Attack-Defense 2025](https://ctf.olympics.tech/)"  
-    [![](https://ctftime.org/media/events/3bfa72e3e10491d8b3bd43a8153aad1e.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-    **比赛名称** : [Iran Tech Olympics Attack-Defense 2025](https://ctf.olympics.tech/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2025-10-27 14:30:00 - 2025-10-28 02:30:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/2929.ics  
     
