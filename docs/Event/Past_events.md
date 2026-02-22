@@ -28,6 +28,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)"  
+    [![](https://ctftime.org/media/events/bearcat26_logo_black.png){ width="200" align=left }](https://bearcatctf.io/)  
+    **比赛名称** : [BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-02-22 01:00:00 - 2026-02-23 01:00:00 UTC+8  
+    **比赛权重** : 23.89  
+    **赛事主办** : Cyber@UC (https://ctftime.org/team/87727)  
+    **添加日历** : https://ctftime.org/event/3046.ics  
+    
 ??? Quote "[EPIHACK CTF: L'arène numérique](https://ctf.epihack.tech/)"  
     [![](https://ctftime.org/media/events/logo-bg.png){ width="200" align=left }](https://ctf.epihack.tech/)  
     **比赛名称** : [EPIHACK CTF: L'arène numérique](https://ctf.epihack.tech/)  
@@ -45,6 +54,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
     **添加日历** : https://ctftime.org/event/3078.ics  
+    
+??? Quote "[THJCC CTF 2026](https://ctf2026.thjcc.org/)"  
+    [![](https://ctftime.org/media/events/3291aa527005a0771b15f8ca11d76637.png){ width="200" align=left }](https://ctf2026.thjcc.org/)  
+    **比赛名称** : [THJCC CTF 2026](https://ctf2026.thjcc.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-02-21 08:00:01 - 2026-02-22 21:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
+    **添加日历** : https://ctftime.org/event/3088.ics  
     
 ??? Quote "[BITSCTF 2026](https://ctf.bitskrieg.in/)"  
     [![](){ width="200" align=left }](https://ctf.bitskrieg.in/)  
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : OSINT Switzerland (https://ctftime.org/team/391442)  
     **添加日历** : https://ctftime.org/event/2918.ics  
-    
-??? Quote "[V1t CTF 2025](https://ctf.v1t.site/)"  
-    [![](https://ctftime.org/media/events/Ban_sao_cua_V1T.png){ width="200" align=left }](https://ctf.v1t.site/)  
-    **比赛名称** : [V1t CTF 2025](https://ctf.v1t.site/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-31 21:00:00 - 2025-11-02 21:00:00 UTC+8  
-    **比赛权重** : 22.14  
-    **赛事主办** : V1t (https://ctftime.org/team/280950)  
-    **添加日历** : https://ctftime.org/event/2920.ics  
-    
-??? Quote "[ZeroDay CTF 2025](https://register.zerologon.co.in/)"  
-    [![](https://ctftime.org/media/events/IMG-20251021-WA0001.jpg){ width="200" align=left }](https://register.zerologon.co.in/)  
-    **比赛名称** : [ZeroDay CTF 2025](https://register.zerologon.co.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-10-30 21:00:00 - 2025-10-31 21:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
-    **添加日历** : https://ctftime.org/event/2988.ics  
     
