@@ -338,7 +338,7 @@ hide:
                 [![](https://ctftime.org/media/events/e04b66f1d17c437f935e29d0fbe7beed_1.png){ width="200" align=left }](https://ctf.srdnlen.it/)  
                 **比赛名称** : [Srdnlen CTF 2026 Quals](https://ctf.srdnlen.it/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-01 02:00:00 - 2026-03-01 02:00:00 UTC+8  
+                **比赛时间** : 2026-03-01 02:00:00 - 2026-03-02 02:00:00 UTC+8  
                 **比赛权重** : 34.76  
                 **赛事主办** : Srdnlen (https://ctftime.org/team/83421)  
                 **添加日历** : https://ctftime.org/event/3043.ics  
@@ -450,6 +450,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : TPC (https://ctftime.org/team/222485)  
                 **添加日历** : https://ctftime.org/event/3091.ics  
+                
+            ??? Quote "[MIPT CTF Quals 2026](https://board.miptctf.ru/)"  
+                [![](https://ctftime.org/media/events/miptctf.jpg){ width="200" align=left }](https://board.miptctf.ru/)  
+                **比赛名称** : [MIPT CTF Quals 2026](https://board.miptctf.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-14 17:00:00 - 2026-03-15 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : L0stAx3s (https://ctftime.org/team/354995)  
+                **添加日历** : https://ctftime.org/event/3162.ics  
                 
             ??? Quote "[Curiosity CTF 2026](https://curiosityctf.xyz/)"  
                 [![](){ width="200" align=left }](https://curiosityctf.xyz/)  
@@ -1042,7 +1051,7 @@ hide:
                 **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-                **比赛权重** : 29.04  
+                **比赛权重** : 29.01  
                 **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
                 **添加日历** : https://ctftime.org/event/3024.ics  
                 
@@ -1114,7 +1123,7 @@ hide:
                 **比赛名称** : [Scarlet CTF 2026](http://ctf.rusec.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-09 08:00:00 - 2026-01-12 08:00:00 UTC+8  
-                **比赛权重** : 22.95  
+                **比赛权重** : 22.88  
                 **赛事主办** : ScarletCTF (https://ctftime.org/team/226444)  
                 **添加日历** : https://ctftime.org/event/2981.ics  
                 
