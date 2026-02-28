@@ -28,6 +28,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[CREST CTF](https://crestpcu.in/)"  
+    [![](https://ctftime.org/media/events/crest_logo.jpeg){ width="200" align=left }](https://crestpcu.in/)  
+    **比赛名称** : [CREST CTF](https://crestpcu.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-02-28 12:30:00 - 2026-02-28 20:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CREST (https://ctftime.org/team/418000)  
+    **添加日历** : https://ctftime.org/event/3123.ics  
+    
+??? Quote "[UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)"  
+    [![](https://ctftime.org/media/events/UniVsThreats26_Final_No_Sponsors_1.jpg){ width="200" align=left }](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+    **比赛名称** : [UniVsThreats 26 Quals CTF](https://cybersec.uvt.ro/events/UniVsThreats26Quals/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-02-27 16:00:00 - 2026-02-28 16:00:00 UTC+8  
+    **比赛权重** : 18.35  
+    **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
+    **添加日历** : https://ctftime.org/event/3092.ics  
+    
 ??? Quote "[BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)"  
     [![](https://ctftime.org/media/events/bearcat26_logo_black.png){ width="200" align=left }](https://bearcatctf.io/)  
     **比赛名称** : [BearcatCTF 2026 - Setting Sail](https://bearcatctf.io/)  
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 94.50  
     **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
     **添加日历** : https://ctftime.org/event/2795.ics  
-    
-??? Quote "[Cryovault Quals](https://www.isfcr.pes.edu/)"  
-    [![](){ width="200" align=left }](https://www.isfcr.pes.edu/)  
-    **比赛名称** : [Cryovault Quals](https://www.isfcr.pes.edu/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-11-01 14:30:00 - 2025-11-02 14:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
-    **添加日历** : https://ctftime.org/event/2984.ics  
-    
-??? Quote "[Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)"  
-    [![](https://ctftime.org/media/events/SPG_Hackloween_2025__FB_Profile.png){ width="200" align=left }](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
-    **比赛名称** : [Hackloween 2025](https://lobby-ctf.secplayground.com/lobby/a3666ef9-617e-4db3-8bbe-413138e25e76)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-11-01 10:00:00 - 2025-11-02 10:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : SECPlayground (https://ctftime.org/team/375409)  
-    **添加日历** : https://ctftime.org/event/2914.ics  
     
