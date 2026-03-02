@@ -302,7 +302,7 @@ hide:
                 [![](https://ctftime.org/media/events/logo_ara_1.png){ width="200" align=left }](https://mirror.ara-its.id/)  
                 **比赛名称** : [ARA 7.0 CTF](https://mirror.ara-its.id/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-04 17:00:00 - 2026-03-05 17:00:00 UTC+8  
+                **比赛时间** : 2026-03-05 17:00:00 - 2026-03-06 17:00:00 UTC+8  
                 **比赛权重** : 0  
                 **赛事主办** : rizztechitits (https://ctftime.org/team/418688)  
                 **添加日历** : https://ctftime.org/event/3152.ics  
@@ -685,6 +685,15 @@ hide:
                 **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
                 **添加日历** : https://ctftime.org/event/2773.ics  
                 
+            ??? Quote "[MCTF 5.0](https://mctf.microclub.info/)"  
+                [![](https://ctftime.org/media/events/logo_122.png){ width="200" align=left }](https://mctf.microclub.info/)  
+                **比赛名称** : [MCTF 5.0](https://mctf.microclub.info/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-04-17 03:00:00 - 2026-04-18 15:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Micro Club (https://ctftime.org/team/425393)  
+                **添加日历** : https://ctftime.org/event/3168.ics  
+                
             ??? Quote "[CPCTF 2026](https://cpctf.space/)"  
                 [![](https://ctftime.org/media/events/cpctf_logo_1_1.png){ width="200" align=left }](https://cpctf.space/)  
                 **比赛名称** : [CPCTF 2026](https://cpctf.space/)  
@@ -909,6 +918,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
                 **添加日历** : https://ctftime.org/event/3173.ics  
+                
+            ??? Quote "[No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)"  
+                [![](){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
+                **比赛名称** : [No Hack No CTF 2026](https://nhnc.ic3dt3a.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-07-04 08:00:00 - 2026-07-06 08:00:00 UTC+8  
+                **比赛权重** : 23.47  
+                **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
+                **添加日历** : https://ctftime.org/event/3180.ics  
                 
             ??? Quote "[R3CTF 2026](https://ctf2026.r3kapig.com/)"  
                 [![](https://ctftime.org/media/events/r3kapig.png){ width="200" align=left }](https://ctf2026.r3kapig.com/)  
