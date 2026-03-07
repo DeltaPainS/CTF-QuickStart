@@ -45,15 +45,6 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2907.ics  
     
-??? Quote "[CryptoNite CTF 2026](https://tachyon.iittp.ac.in/ctf/)"  
-    [![](){ width="200" align=left }](https://tachyon.iittp.ac.in/ctf/)  
-    **比赛名称** : [CryptoNite CTF 2026](https://tachyon.iittp.ac.in/ctf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-06 13:30:00 - 2026-03-07 19:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : blackc4t5_og (https://ctftime.org/team/177031)  
-    **添加日历** : https://ctftime.org/event/3185.ics  
-    
 ??? Quote "[UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)"  
     [![](https://ctftime.org/media/events/871e96a389ac3c21b9beab2096969903.jpg){ width="200" align=left }](https://app.cyber-edu.co/competition/unr26t-international)  
     **比赛名称** : [UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)  
@@ -80,4 +71,22 @@ comments: true
     **比赛权重** : 24.10  
     **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
     **添加日历** : https://ctftime.org/event/3171.ics  
+    
+??? Quote "[Axiom CTF 2026](https://ctf.4x10m.ru/)"  
+    [![](https://ctftime.org/media/events/Frame_1.png){ width="200" align=left }](https://ctf.4x10m.ru/)  
+    **比赛名称** : [Axiom CTF 2026](https://ctf.4x10m.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-07 15:00:00 - 2026-03-09 03:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : 4x10m (https://ctftime.org/team/418607)  
+    **添加日历** : https://ctftime.org/event/3129.ics  
+    
+??? Quote "[upCTF 2026](https://ctf.xstf.pt/)"  
+    [![](https://ctftime.org/media/events/logo_yellow_1.png){ width="200" align=left }](https://ctf.xstf.pt/)  
+    **比赛名称** : [upCTF 2026](https://ctf.xstf.pt/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-07 17:00:00 - 2026-03-09 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : xSTF (https://ctftime.org/team/15341)  
+    **添加日历** : https://ctftime.org/event/3073.ics  
     
