@@ -28,6 +28,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[ShellCTF](https://shellctf.me/)"  
+    [![](https://ctftime.org/media/events/shell-ctf-icon.jpg){ width="200" align=left }](https://shellctf.me/)  
+    **比赛名称** : [ShellCTF](https://shellctf.me/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-08 14:30:00 - 2026-03-08 18:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Utopains (https://ctftime.org/team/408650)  
+    **添加日历** : https://ctftime.org/event/3170.ics  
+    
 ??? Quote "[CodeVinci CTF 2026](https://challs.codevinci.it/)"  
     [![](https://ctftime.org/media/events/Logo_.png){ width="200" align=left }](https://challs.codevinci.it/)  
     **比赛名称** : [CodeVinci CTF 2026](https://challs.codevinci.it/)  
@@ -36,6 +45,15 @@ comments: true
     **比赛权重** : 18.57  
     **赛事主办** : code-vinci (https://ctftime.org/team/365817)  
     **添加日历** : https://ctftime.org/event/3101.ics  
+    
+??? Quote "[UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)"  
+    [![](https://ctftime.org/media/events/871e96a389ac3c21b9beab2096969903.jpg){ width="200" align=left }](https://app.cyber-edu.co/competition/unr26t-international)  
+    **比赛名称** : [UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-06 17:00:00 - 2026-03-08 17:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
+    **添加日历** : https://ctftime.org/event/3172.ics  
     
 ??? Quote "[CryptoNite CTF 2026](https://tachyon.iittp.ac.in/ctf/)"  
     [![](){ width="200" align=left }](https://tachyon.iittp.ac.in/ctf/)  
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 36.00  
     **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
     **添加日历** : https://ctftime.org/event/2995.ics  
-    
-??? Quote "[Cryovault Finals](https://www.isfcr.pes.edu/)"  
-    [![](https://ctftime.org/media/events/LOGO_1.png){ width="200" align=left }](https://www.isfcr.pes.edu/)  
-    **比赛名称** : [Cryovault Finals](https://www.isfcr.pes.edu/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-11-09 16:00:00 - 2025-11-10 01:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : ISFCR PESU (https://ctftime.org/team/166645)  
-    **添加日历** : https://ctftime.org/event/2985.ics  
-    
-??? Quote "[saarCTF 2025](https://ctf.saarland/)"  
-    [![](https://ctftime.org/media/events/saarctf_2025.png){ width="200" align=left }](https://ctf.saarland/)  
-    **比赛名称** : [saarCTF 2025](https://ctf.saarland/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2025-11-08 21:00:00 - 2025-11-09 06:00:00 UTC+8  
-    **比赛权重** : 97.22  
-    **赛事主办** : saarsec (https://ctftime.org/team/15337)  
-    **添加日历** : https://ctftime.org/event/2859.ics  
     
