@@ -343,9 +343,9 @@ hide:
                 **赛事主办** : SU (https://ctftime.org/team/29641)  
                 **添加日历** : https://ctftime.org/event/3161.ics  
                 
-            ??? Quote "[tkbctf5](https://tkbctf.info/)"  
-                [![](https://ctftime.org/media/events/tkbctf_logo.png){ width="200" align=left }](https://tkbctf.info/)  
-                **比赛名称** : [tkbctf5](https://tkbctf.info/)  
+            ??? Quote "[tkbctf5](https://alpacahack.com/ctfs/tkbctf5)"  
+                [![](https://ctftime.org/media/events/tkbctf_logo.png){ width="200" align=left }](https://alpacahack.com/ctfs/tkbctf5)  
+                **比赛名称** : [tkbctf5](https://alpacahack.com/ctfs/tkbctf5)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-03-14 13:00:00 - 2026-03-15 13:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -1151,7 +1151,7 @@ hide:
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-03-08 14:30:00 - 2026-03-08 18:30:00 UTC+8  
                 **比赛权重** : 0.00  
-                **赛事主办** : Utopains (https://ctftime.org/team/408650)  
+                **赛事主办** : Utopians (https://ctftime.org/team/408650)  
                 **添加日历** : https://ctftime.org/event/3170.ics  
                 
             ??? Quote "[DiceCTF 2026 Quals](https://ctf.dicega.ng/)"  
@@ -1348,7 +1348,7 @@ hide:
                 **比赛名称** : [Batman's Kitchen CTF 2026](https://ctf.batmans.kitchen/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-21 09:30:00 - 2026-02-23 09:30:00 UTC+8  
-                **比赛权重** : 24.41  
+                **比赛权重** : 24.31  
                 **赛事主办** : Batman's Kitchen (https://ctftime.org/team/3135)  
                 **添加日历** : https://ctftime.org/event/3098.ics  
                 
@@ -1402,7 +1402,7 @@ hide:
                 **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-13 02:00:00 - 2026-02-15 02:00:00 UTC+8  
-                **比赛权重** : 17.90  
+                **比赛权重** : 17.50  
                 **赛事主办** : 0xFUN (https://ctftime.org/team/354033)  
                 **添加日历** : https://ctftime.org/event/3081.ics  
                 
@@ -1465,7 +1465,7 @@ hide:
                 **比赛名称** : [Eschaton CTF 2026 Quals](https://esch26.mcsc.space/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-31 12:30:00 - 2026-02-01 12:30:00 UTC+8  
-                **比赛权重** : 23.75  
+                **比赛权重** : 23.57  
                 **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
                 **添加日历** : https://ctftime.org/event/3072.ics  
                 
@@ -1582,7 +1582,7 @@ hide:
                 **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-                **比赛权重** : 28.49  
+                **比赛权重** : 28.45  
                 **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
                 **添加日历** : https://ctftime.org/event/3024.ics  
                 
