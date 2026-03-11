@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Espilon CTF 2026](https://ctf.espilon.net/)"  
-                [![](){ width="200" align=left }](https://ctf.espilon.net/)  
-                **比赛名称** : [Espilon CTF 2026](https://ctf.espilon.net/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-11 20:00:00 - 2026-03-26 08:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Espilon (https://ctftime.org/team/423394)  
-                **添加日历** : https://ctftime.org/event/3179.ics  
-                
             ??? Quote "[UTCTF 2026](http://isss.io/utctf)"  
                 [![](https://ctftime.org/media/events/UTCTF_2026.png){ width="200" align=left }](http://isss.io/utctf)  
                 **比赛名称** : [UTCTF 2026](http://isss.io/utctf)  
@@ -396,6 +387,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Hacking Indian Ocean (https://ctftime.org/team/399138)  
                 **添加日历** : https://ctftime.org/event/3189.ics  
+                
+            ??? Quote "[m0leCon CTF 2026](https://finals.m0lecon.it/)"  
+                [![](){ width="200" align=left }](https://finals.m0lecon.it/)  
+                **比赛名称** : [m0leCon CTF 2026](https://finals.m0lecon.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-20 00:00:00 - 2026-03-21 00:00:00 UTC+8  
+                **比赛权重** : 75.00  
+                **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
+                **添加日历** : https://ctftime.org/event/3196.ics  
                 
             ??? Quote "[Insomni'hack 2026](https://insomnihack.ch/contest/)"  
                 [![](){ width="200" align=left }](https://insomnihack.ch/contest/)  
@@ -829,6 +829,15 @@ hide:
                 **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
                 **添加日历** : https://ctftime.org/event/3132.ics  
                 
+            ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
+                [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
+                **比赛名称** : [TJCTF 2026](https://tjctf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-23 00:00:00 - 2026-05-25 00:00:00 UTC+8  
+                **比赛权重** : 65.05  
+                **赛事主办** : tjcsc (https://ctftime.org/team/53812)  
+                **添加日历** : https://ctftime.org/event/3195.ics  
+                
             ??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
                 **比赛名称** : [SAS CTF 2026 Quals](https://ctf.thesascon.com/)  
@@ -1103,14 +1112,14 @@ hide:
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2907.ics  
                 
-            ??? Quote "[APort Vault CTF - Can You Move the Money?](https://vault.aport.io/)"  
-                [![](https://ctftime.org/media/events/aport-logo.png){ width="200" align=left }](https://vault.aport.io/)  
-                **比赛名称** : [APort Vault CTF - Can You Move the Money?](https://vault.aport.io/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2026-03-06 20:00:00 - 2026-03-11 20:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : APort (https://ctftime.org/team/425773)  
-                **添加日历** : https://ctftime.org/event/3176.ics  
+            ??? Quote "[Espilon CTF 2026](https://ctf.espilon.net/)"  
+                [![](){ width="200" align=left }](https://ctf.espilon.net/)  
+                **比赛名称** : [Espilon CTF 2026](https://ctf.espilon.net/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-11 20:00:00 - 2026-03-26 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Espilon (https://ctftime.org/team/423394)  
+                **添加日历** : https://ctftime.org/event/3179.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -1198,6 +1207,15 @@ hide:
                 **比赛权重** : 24.10  
                 **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
                 **添加日历** : https://ctftime.org/event/3171.ics  
+                
+            ??? Quote "[APort Vault CTF - Can You Move the Money?](https://vault.aport.io/)"  
+                [![](https://ctftime.org/media/events/aport-logo.png){ width="200" align=left }](https://vault.aport.io/)  
+                **比赛名称** : [APort Vault CTF - Can You Move the Money?](https://vault.aport.io/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-03-06 20:00:00 - 2026-03-11 20:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : APort (https://ctftime.org/team/425773)  
+                **添加日历** : https://ctftime.org/event/3176.ics  
                 
             ??? Quote "[UNbreakable International 2026 - Team Phase](https://app.cyber-edu.co/competition/unr26t-international)"  
                 [![](https://ctftime.org/media/events/871e96a389ac3c21b9beab2096969903.jpg){ width="200" align=left }](https://app.cyber-edu.co/competition/unr26t-international)  
@@ -1330,7 +1348,7 @@ hide:
                 **比赛名称** : [Batman's Kitchen CTF 2026](https://ctf.batmans.kitchen/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-21 09:30:00 - 2026-02-23 09:30:00 UTC+8  
-                **比赛权重** : 24.47  
+                **比赛权重** : 24.41  
                 **赛事主办** : Batman's Kitchen (https://ctftime.org/team/3135)  
                 **添加日历** : https://ctftime.org/event/3098.ics  
                 
@@ -1357,7 +1375,7 @@ hide:
                 **比赛名称** : [TaipanByte’s Chart CTF](https://chart.taipanbyte.ru/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-14 18:00:00 - 2026-02-15 18:00:00 UTC+8  
-                **比赛权重** : 24.05  
+                **比赛权重** : 24.09  
                 **赛事主办** : TaipanByte (https://ctftime.org/team/301788)  
                 **添加日历** : https://ctftime.org/event/3086.ics  
                 
@@ -1384,7 +1402,7 @@ hide:
                 **比赛名称** : [0xFUN CTF 2026](https://ctf.0xfun.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-13 02:00:00 - 2026-02-15 02:00:00 UTC+8  
-                **比赛权重** : 17.80  
+                **比赛权重** : 17.90  
                 **赛事主办** : 0xFUN (https://ctftime.org/team/354033)  
                 **添加日历** : https://ctftime.org/event/3081.ics  
                 
@@ -1402,7 +1420,7 @@ hide:
                 **比赛名称** : [DUCKERZ CTF 2026](https://teams.duckerz.ru/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-07 17:00:00 - 2026-02-08 17:00:00 UTC+8  
-                **比赛权重** : 23.71  
+                **比赛权重** : 23.80  
                 **赛事主办** : DUCKERZ (https://ctftime.org/team/372036)  
                 **添加日历** : https://ctftime.org/event/3067.ics  
                 
@@ -1429,7 +1447,7 @@ hide:
                 **比赛名称** : [Pragyan CTF 2026](https://ctf.prgy.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-06 21:00:00 - 2026-02-08 21:00:00 UTC+8  
-                **比赛权重** : 1.86  
+                **比赛权重** : 1.87  
                 **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
                 **添加日历** : https://ctftime.org/event/3058.ics  
                 
@@ -1438,7 +1456,7 @@ hide:
                 **比赛名称** : [PascalCTF 2026](https://ctf.pascalctf.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-31 16:00:00 - 2026-02-01 16:00:00 UTC+8  
-                **比赛权重** : 23.98  
+                **比赛权重** : 24.00  
                 **赛事主办** : Paolo (https://ctftime.org/team/263145)  
                 **添加日历** : https://ctftime.org/event/2767.ics  
                 
@@ -1447,7 +1465,7 @@ hide:
                 **比赛名称** : [Eschaton CTF 2026 Quals](https://esch26.mcsc.space/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-31 12:30:00 - 2026-02-01 12:30:00 UTC+8  
-                **比赛权重** : 23.68  
+                **比赛权重** : 23.75  
                 **赛事主办** : Team MCSC (https://ctftime.org/team/418958)  
                 **添加日历** : https://ctftime.org/event/3072.ics  
                 
@@ -1564,7 +1582,7 @@ hide:
                 **比赛名称** : [0xL4ugh CTF v5](https://ctf.0xL4ugh.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-01-23 21:00:00 - 2026-01-25 21:00:00 UTC+8  
-                **比赛权重** : 28.45  
+                **比赛权重** : 28.49  
                 **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
                 **添加日历** : https://ctftime.org/event/3024.ics  
                 
@@ -1834,7 +1852,7 @@ hide:
                 **比赛名称** : [m0leCon 2026 Beginner CTF](https://beginner.m0lecon.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-11-29 21:00:00 - 2025-11-30 02:00:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 0  
                 **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
                 **添加日历** : https://ctftime.org/event/3017.ics  
                 
@@ -2026,15 +2044,6 @@ hide:
                 **比赛权重** : 41.75  
                 **赛事主办** : ROIS (https://ctftime.org/team/6476)  
                 **添加日历** : https://ctftime.org/event/2992.ics  
-                
-            ??? Quote "[Layer7 CTF 2025](https://ctf.layer7.kr/)"  
-                [![](https://ctftime.org/media/events/white_ver.png){ width="200" align=left }](https://ctf.layer7.kr/)  
-                **比赛名称** : [Layer7 CTF 2025](https://ctf.layer7.kr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-15 09:00:00 - 2025-11-16 09:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Layer7 CTF (https://ctftime.org/team/87286)  
-                **添加日历** : https://ctftime.org/event/2990.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
