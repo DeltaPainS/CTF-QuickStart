@@ -298,9 +298,9 @@ hide:
                 **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
                 **添加日历** : https://ctftime.org/event/3146.ics  
                 
-            ??? Quote "[Curiosity CTF 2026](https://curiosityctf.xyz/)"  
+            ??? Quote "[Curiosity CTF 2026 [Postponed]](https://curiosityctf.xyz/)"  
                 [![](){ width="200" align=left }](https://curiosityctf.xyz/)  
-                **比赛名称** : [Curiosity CTF 2026](https://curiosityctf.xyz/)  
+                **比赛名称** : [Curiosity CTF 2026 [Postponed]](https://curiosityctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-03-21 03:00:00 - 2026-03-23 03:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -531,15 +531,6 @@ hide:
                 **比赛权重** : 23.86  
                 **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
                 **添加日历** : https://ctftime.org/event/3119.ics  
-                
-            ??? Quote "[CRACK-IN 2.0](https://www.crackin.tech/)"  
-                [![](https://ctftime.org/media/events/logoo.png){ width="200" align=left }](https://www.crackin.tech/)  
-                **比赛名称** : [CRACK-IN 2.0](https://www.crackin.tech/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-04 18:00:10 - 2026-04-05 02:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Cyber Hive (https://ctftime.org/team/428945)  
-                **添加日历** : https://ctftime.org/event/3210.ics  
                 
             ??? Quote "[SillyCTF 2](https://sillyctf.psuccso.org/)"  
                 [![](https://ctftime.org/media/events/SillyCTF2logo.png){ width="200" align=left }](https://sillyctf.psuccso.org/)  
