@@ -460,6 +460,15 @@ hide:
                 **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
                 **添加日历** : https://ctftime.org/event/3119.ics  
                 
+            ??? Quote "[CRACK-IN 2.0](https://www.crackin.tech/)"  
+                [![](https://ctftime.org/media/events/logoo_1.png){ width="200" align=left }](https://www.crackin.tech/)  
+                **比赛名称** : [CRACK-IN 2.0](https://www.crackin.tech/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-04-04 12:30:00 - 2026-04-04 18:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Cyber Hive (https://ctftime.org/team/428945)  
+                **添加日历** : https://ctftime.org/event/3212.ics  
+                
             ??? Quote "[SillyCTF 2](https://sillyctf.psuccso.org/)"  
                 [![](https://ctftime.org/media/events/SillyCTF2logo.png){ width="200" align=left }](https://sillyctf.psuccso.org/)  
                 **比赛名称** : [SillyCTF 2](https://sillyctf.psuccso.org/)  
@@ -486,6 +495,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/3026.ics  
+                
+            ??? Quote "[Pàlcam Cybergames 2026](https://palcamcg2026.soterctf.com/)"  
+                [![](https://ctftime.org/media/events/palcamLogo.png){ width="200" align=left }](https://palcamcg2026.soterctf.com/)  
+                **比赛名称** : [Pàlcam Cybergames 2026](https://palcamcg2026.soterctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-04-10 18:00:00 - 2026-04-12 07:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Pàlcam ASIX (https://ctftime.org/team/428952)  
+                **添加日历** : https://ctftime.org/event/3211.ics  
                 
             ??? Quote "[DawgCTF 2026](https://metactf.com/join/dawgctf26)"  
                 [![](https://ctftime.org/media/events/dawgsec_shield-ctftime_2_1.png){ width="200" align=left }](https://metactf.com/join/dawgctf26)  
@@ -711,6 +729,15 @@ hide:
                 **比赛权重** : 32.59  
                 **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
                 **添加日历** : https://ctftime.org/event/3132.ics  
+                
+            ??? Quote "[UralCUP 2026](https://uralctf.org/)"  
+                [![](https://ctftime.org/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg){ width="200" align=left }](https://uralctf.org/)  
+                **比赛名称** : [UralCUP 2026](https://uralctf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-17 13:00:00 - 2026-05-17 21:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : TyumGUard (https://ctftime.org/team/380152)  
+                **添加日历** : https://ctftime.org/event/3214.ics  
                 
             ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
                 [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
@@ -1195,7 +1222,7 @@ hide:
                 **比赛名称** : [PsychCTF 2026](https://psychctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-03-14 02:30:00 - 2026-03-16 02:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.48  
                 **赛事主办** : SAIC_IITMandi (https://ctftime.org/team/251023)  
                 **添加日历** : https://ctftime.org/event/3166.ics  
                 
@@ -1528,7 +1555,7 @@ hide:
                 **比赛名称** : [Pragyan CTF 2026](https://ctf.prgy.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-02-06 21:00:00 - 2026-02-08 21:00:00 UTC+8  
-                **比赛权重** : 1.88  
+                **比赛权重** : 1.84  
                 **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
                 **添加日历** : https://ctftime.org/event/3058.ics  
                 

@@ -228,6 +228,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CRACK-IN 2.0",
+        "比赛时间": "2026-04-04 12:30:00 - 2026-04-04 18:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3212.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.crackin.tech/",
+        "比赛标志": "https://ctftime.org/media/events/logoo_1.png",
+        "比赛权重": "0",
+        "赛事主办": "Cyber Hive (https://ctftime.org/team/428945)",
+        "比赛ID": "1550",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "SillyCTF 2",
         "比赛时间": "2026-04-04 20:00:00 - 2026-04-05 12:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3042.ics",
@@ -261,6 +273,18 @@
         "比赛权重": "0",
         "赛事主办": "Dreamhack (https://ctftime.org/team/367894)",
         "比赛ID": "1090",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Pàlcam Cybergames 2026",
+        "比赛时间": "2026-04-10 18:00:00 - 2026-04-12 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3211.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://palcamcg2026.soterctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/palcamLogo.png",
+        "比赛权重": "0",
+        "赛事主办": "Pàlcam ASIX (https://ctftime.org/team/428952)",
+        "比赛ID": "1551",
         "比赛状态": "oncoming"
     },
     {
@@ -561,6 +585,18 @@
         "比赛权重": "32.59",
         "赛事主办": "DaVinciCode (https://ctftime.org/team/112645)",
         "比赛ID": "582",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "UralCUP 2026",
+        "比赛时间": "2026-05-17 13:00:00 - 2026-05-17 21:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3214.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://uralctf.org/",
+        "比赛标志": "https://ctftime.org/media/events/2876b94b571c4f41b7a235d7d6050a8c_1.jpg",
+        "比赛权重": "0",
+        "赛事主办": "TyumGUard (https://ctftime.org/team/380152)",
+        "比赛ID": "1417",
         "比赛状态": "oncoming"
     },
     {
@@ -1170,7 +1206,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://psychctf.xyz/",
         "比赛标志": "https://ctftime.org/media/events/SAIC_logo_icon_min.png",
-        "比赛权重": "0",
+        "比赛权重": "24.48",
         "赛事主办": "SAIC_IITMandi (https://ctftime.org/team/251023)",
         "比赛ID": "1520",
         "比赛状态": "past"
@@ -1614,7 +1650,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.prgy.in/",
         "比赛标志": "",
-        "比赛权重": "1.88",
+        "比赛权重": "1.84",
         "赛事主办": "Pragyan (https://ctftime.org/team/33867)",
         "比赛ID": "97",
         "比赛状态": "past"
