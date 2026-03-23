@@ -287,7 +287,16 @@ hide:
     
     === "*即将开始*"
         === "国内赛事"
-    
+            ??? Quote "[PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)"  
+                **比赛名称** : [PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)  
+                **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
+                **比赛详细** : 星盟安全团队举办的第一届招新赛，由 CTF+ 平台承办。QQ群：1083975295  
+                
+            ??? Quote "[NepCTF 2026](/isPrepare)"  
+                **比赛名称** : [NepCTF 2026](/isPrepare)  
+                **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
+                **比赛详细** : 筹备中  
+                
         === "国外赛事"
             ??? Quote "[AITU CTF 2026 Quals](https://ctf.fr13nds.team/)"  
                 [![](https://ctftime.org/media/events/icon-black.png){ width="200" align=left }](https://ctf.fr13nds.team/)  
@@ -1049,47 +1058,9 @@ hide:
                 **赛事主办** : Espilon (https://ctftime.org/team/423394)  
                 **添加日历** : https://ctftime.org/event/3179.ics  
                 
-            ??? Quote "[TAMUctf 2026](https://tamuctf.com/)"  
-                [![](https://ctftime.org/media/events/TAMUctf-logo.png){ width="200" align=left }](https://tamuctf.com/)  
-                **比赛名称** : [TAMUctf 2026](https://tamuctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-21 06:00:00 - 2026-03-23 06:00:00 UTC+8  
-                **比赛权重** : 76.22  
-                **赛事主办** : TAMUctf (https://ctftime.org/team/37721)  
-                **添加日历** : https://ctftime.org/event/3095.ics  
-                
-            ??? Quote "[BSidesSF CTF 2026](https://ctf.bsidessf.net/)"  
-                [![](https://ctftime.org/media/events/bsides_logo_short.png){ width="200" align=left }](https://ctf.bsidessf.net/)  
-                **比赛名称** : [BSidesSF CTF 2026](https://ctf.bsidessf.net/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-21 07:00:00 - 2026-03-23 07:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
-                **添加日历** : https://ctftime.org/event/3108.ics  
-                
     === "*已经结束*"
         === "国内赛事"
-            ??? Quote "[HGAME 2026](https://hgame.vidar.club/)"  
-                **比赛名称** : [HGAME 2026](https://hgame.vidar.club/)  
-                **比赛类型** : 线上Jeopardy解题赛  
-                **报名时间** : 2026年01月26日 00:00 - 2026年02月15日 19:59  
-                **比赛时间** : 2026年02月02日 10:00 - 2026年02月15日 20:00  
-                **其他说明** : HGAME 2026 是一场由Vidar-Team组织的线上Jeopardy解题赛，。报名从2026年01月26日00:00开始，到2026年02月15日20:00结束。比赛从2026年02月02日10:00开始，至2026年02月15日20:00结束。更多信息，请加入QQ群576834793。  
-                
-            ??? Quote "[furryCTF 2025 高校联合新神赛](https://furryctf.com/)"  
-                **比赛名称** : [furryCTF 2025 高校联合新神赛](https://furryctf.com/)  
-                **比赛类型** : 线上Jeopardy解题赛  
-                **报名时间** : 2026年01月01日 00:00 - 2026年02月04日 12:00  
-                **比赛时间** : 2026年01月30日 12:00 - 2026年02月04日 12:00  
-                **其他说明** : 主办方为furryCTF及POFP联合战队，严禁攻击平台或使用扫描器，设有多种奖品，详情请到QQ群查看；祝各位玩的开心~  
-                
-            ??? Quote "[UniCTF](https://unictf.play.ctfplus.cn/)"  
-                **比赛名称** : [UniCTF](https://unictf.play.ctfplus.cn/)  
-                **比赛类型** : 线上Jeopardy解题赛  
-                **报名时间** : 2026年01月09日 10:09 - 2026年01月25日 09:59  
-                **比赛时间** : 2026年01月25日 10:00 - 2026年01月31日 10:00  
-                **其他说明** : 4人一组团队赛，需先在CTFPlus比赛大厅报名（https://www.ctfplus.cn）；奖项含社会赛道与新生赛道奖金及证书，单方向额外奖励。  
-                
+    
         === "国外赛事"
             ??? Quote "[Redfox CTF 2026](https://academy.redfoxsec.com/course/redfox-ctf-85076)"  
                 [![](){ width="200" align=left }](https://academy.redfoxsec.com/course/redfox-ctf-85076)  
@@ -1126,6 +1097,24 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
                 **添加日历** : https://ctftime.org/event/3203.ics  
+                
+            ??? Quote "[BSidesSF CTF 2026](https://ctf.bsidessf.net/)"  
+                [![](https://ctftime.org/media/events/bsides_logo_short.png){ width="200" align=left }](https://ctf.bsidessf.net/)  
+                **比赛名称** : [BSidesSF CTF 2026](https://ctf.bsidessf.net/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-21 07:00:00 - 2026-03-23 07:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
+                **添加日历** : https://ctftime.org/event/3108.ics  
+                
+            ??? Quote "[TAMUctf 2026](https://tamuctf.com/)"  
+                [![](https://ctftime.org/media/events/TAMUctf-logo.png){ width="200" align=left }](https://tamuctf.com/)  
+                **比赛名称** : [TAMUctf 2026](https://tamuctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-21 06:00:00 - 2026-03-23 06:00:00 UTC+8  
+                **比赛权重** : 76.22  
+                **赛事主办** : TAMUctf (https://ctftime.org/team/37721)  
+                **添加日历** : https://ctftime.org/event/3095.ics  
                 
             ??? Quote "[Insomni'hack 2026](https://insomnihack.ch/contest/)"  
                 [![](){ width="200" align=left }](https://insomnihack.ch/contest/)  
@@ -1972,24 +1961,6 @@ hide:
                 **比赛权重** : 24.00  
                 **赛事主办** : Pwn-la-Chapelle (https://ctftime.org/team/279433)  
                 **添加日历** : https://ctftime.org/event/2951.ics  
-                
-            ??? Quote "[WP CTF 2025](https://wpctf.it/)"  
-                [![](https://ctftime.org/media/events/WP_CTF_2025_-_Logo.png){ width="200" align=left }](https://wpctf.it/)  
-                **比赛名称** : [WP CTF 2025](https://wpctf.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-29 16:00:00 - 2025-11-30 00:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
-                **添加日历** : https://ctftime.org/event/2764.ics  
-                
-            ??? Quote "[HeroCTF v7](https://ctf.heroctf.fr/)"  
-                [![](){ width="200" align=left }](https://ctf.heroctf.fr/)  
-                **比赛名称** : [HeroCTF v7](https://ctf.heroctf.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-11-29 04:00:00 - 2025-12-01 06:00:00 UTC+8  
-                **比赛权重** : 65.00  
-                **赛事主办** : HeroCTF (https://ctftime.org/team/145166)  
-                **添加日历** : https://ctftime.org/event/2869.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
