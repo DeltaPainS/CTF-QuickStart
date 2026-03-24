@@ -16,7 +16,7 @@
         "比赛时间": "2026-03-27 20:00:00 - 2026-03-29 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3130.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "",
+        "比赛链接": "https://texsaw.org/",
         "比赛标志": "",
         "比赛权重": "41.59",
         "赛事主办": "CSG (https://ctftime.org/team/333)",
@@ -456,6 +456,18 @@
         "比赛状态": "oncoming"
     },
     {
+        "比赛名称": "CyberNSK-Finals",
+        "比赛时间": "2026-04-19 20:00:00 - 2026-04-26 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3213.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://cybernsk.ru/",
+        "比赛标志": "https://ctftime.org/media/events/photo_2024-09-18_12-55-46_1.jpg",
+        "比赛权重": "0",
+        "赛事主办": "siberiansecurityleague (https://ctftime.org/team/425775)",
+        "比赛ID": "1525",
+        "比赛状态": "oncoming"
+    },
+    {
         "比赛名称": "TRX CTF 2026",
         "比赛时间": "2026-04-25 03:00:00 - 2026-04-27 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3141.ics",
@@ -501,6 +513,18 @@
         "比赛权重": "24.53",
         "赛事主办": "UPT-CTF (https://ctftime.org/team/276942)",
         "比赛ID": "1337",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "THEM?!CTF 2026",
+        "比赛时间": "2026-05-02 02:00:00 - 2026-05-04 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3209.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://themctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/THEMCTF_2026_logo_black.png",
+        "比赛权重": "0.00",
+        "赛事主办": "THEM?! (https://ctftime.org/team/387399)",
+        "比赛ID": "1536",
         "比赛状态": "oncoming"
     },
     {
@@ -1005,7 +1029,7 @@
         "比赛权重": "0",
         "赛事主办": "FR13NDS TEAM (https://ctftime.org/team/155678)",
         "比赛ID": "1547",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Redfox CTF 2026",
@@ -2193,18 +2217,6 @@
         "比赛权重": "0",
         "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
         "比赛ID": "372",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Haix-la-Chapelle 2025",
-        "比赛时间": "2025-11-29 17:00:00 - 2025-11-30 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2951.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://haix-la-chapelle.eu/",
-        "比赛标志": "https://ctftime.org/media/events/white-haix-la-chapelle.png",
-        "比赛权重": "24.00",
-        "赛事主办": "Pwn-la-Chapelle (https://ctftime.org/team/279433)",
-        "比赛ID": "1381",
         "比赛状态": "past"
     }
 ]
