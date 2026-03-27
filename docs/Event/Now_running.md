@@ -36,12 +36,12 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2907.ics  
     
-??? Quote "[Stranger's CTF - Techtrix '26](https://upsidectf.online/)"  
-    [![](){ width="200" align=left }](https://upsidectf.online/)  
-    **比赛名称** : [Stranger's CTF - Techtrix '26](https://upsidectf.online/)  
+??? Quote "[TexSAW 2026](https://texsaw.org/)"  
+    [![](){ width="200" align=left }](https://texsaw.org/)  
+    **比赛名称** : [TexSAW 2026](https://texsaw.org/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-26 15:30:00 - 2026-03-27 15:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : UpsideCTF (https://ctftime.org/team/426714)  
-    **添加日历** : https://ctftime.org/event/3188.ics  
+    **比赛时间** : 2026-03-27 20:00:00 - 2026-03-29 20:00:00 UTC+8  
+    **比赛权重** : 41.59  
+    **赛事主办** : CSG (https://ctftime.org/team/333)  
+    **添加日历** : https://ctftime.org/event/3130.ics  
     
