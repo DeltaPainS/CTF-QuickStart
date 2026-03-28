@@ -287,11 +287,6 @@ hide:
     
     === "*即将开始*"
         === "国内赛事"
-            ??? Quote "[PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)"  
-                **比赛名称** : [PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)  
-                **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
-                **比赛详细** : 星盟安全团队举办的第一届招新赛，由 CTF+ 平台承办。QQ群：1083975295  
-                
             ??? Quote "[【Solar】3月应急响应公益月赛](https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA)"  
                 **比赛名称** : [【Solar】3月应急响应公益月赛](https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA)  
                 **比赛时间** : 2026年03月28日 10:00 - 2026年03月28日 18:00  
@@ -303,15 +298,6 @@ hide:
                 **比赛详细** : 筹备中  
                 
         === "国外赛事"
-            ??? Quote "[Codegate CTF 2026 Preliminary](http://ctf.codegate.org/)"  
-                [![](){ width="200" align=left }](http://ctf.codegate.org/)  
-                **比赛名称** : [Codegate CTF 2026 Preliminary](http://ctf.codegate.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-28 08:00:00 - 2026-03-28 23:00:00 UTC+8  
-                **比赛权重** : 62.00  
-                **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
-                **添加日历** : https://ctftime.org/event/3131.ics  
-                
             ??? Quote "[NovruzCTF 2026](https://canyouhack.org/)"  
                 [![](https://ctftime.org/media/events/IMG_4954.jpeg){ width="200" align=left }](https://canyouhack.org/)  
                 **比赛名称** : [NovruzCTF 2026](https://canyouhack.org/)  
@@ -437,6 +423,15 @@ hide:
                 **比赛权重** : 23.86  
                 **赛事主办** : IITBreachers (https://ctftime.org/team/165802)  
                 **添加日历** : https://ctftime.org/event/3119.ics  
+                
+            ??? Quote "[THE UNI6CTF 1.0](https://uni6ctf.online/)"  
+                [![](https://ctftime.org/media/events/uni6ctf_1.0_.jpeg){ width="200" align=left }](https://uni6ctf.online/)  
+                **比赛名称** : [THE UNI6CTF 1.0](https://uni6ctf.online/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-04-04 11:30:00 - 2026-04-04 17:30:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : IN-0x0 (https://ctftime.org/team/423353)  
+                **添加日历** : https://ctftime.org/event/3226.ics  
                 
             ??? Quote "[CRACK-IN 2.0](https://www.crackin.tech/)"  
                 [![](https://ctftime.org/media/events/logoo_1.png){ width="200" align=left }](https://www.crackin.tech/)  
@@ -762,6 +757,15 @@ hide:
                 **赛事主办** : Hardware CTF (https://ctftime.org/team/274600)  
                 **添加日历** : https://ctftime.org/event/3174.ics  
                 
+            ??? Quote "[Pwn2Play Open CTF](https://pwn2play.biterra.co/)"  
+                [![](https://ctftime.org/media/events/2025.png){ width="200" align=left }](https://pwn2play.biterra.co/)  
+                **比赛名称** : [Pwn2Play Open CTF](https://pwn2play.biterra.co/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 02:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
+                **添加日历** : https://ctftime.org/event/3220.ics  
+                
             ??? Quote "[Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)"  
                 [![](https://ctftime.org/media/events/73c9081878a4571d117439fc4a8e934d.png){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
                 **比赛名称** : [Grey Cat The Flag 2026 Qualifiers](https://ctf.nusgreyhats.org/)  
@@ -1016,7 +1020,11 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-    
+            ??? Quote "[PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)"  
+                **比赛名称** : [PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)  
+                **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
+                **比赛详细** : 星盟安全团队举办的第一届招新赛，由 CTF+ 平台承办。QQ群：1083975295  
+                
         === "国外赛事"
             ??? Quote "[2026 Embedded Capture the Flag](https://ectf.mitre.org/)"  
                 [![](){ width="200" align=left }](https://ectf.mitre.org/)  
@@ -1071,6 +1079,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
                 **添加日历** : https://ctftime.org/event/3039.ics  
+                
+            ??? Quote "[Codegate CTF 2026 Preliminary](http://ctf.codegate.org/)"  
+                [![](){ width="200" align=left }](http://ctf.codegate.org/)  
+                **比赛名称** : [Codegate CTF 2026 Preliminary](http://ctf.codegate.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-03-28 08:00:00 - 2026-03-28 23:00:00 UTC+8  
+                **比赛权重** : 62.00  
+                **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
+                **添加日历** : https://ctftime.org/event/3131.ics  
                 
     === "*已经结束*"
         === "国内赛事"
