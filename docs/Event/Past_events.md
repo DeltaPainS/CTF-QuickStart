@@ -21,6 +21,15 @@ comments: true
     **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
     **添加日历** : https://ctftime.org/event/3084.ics  
     
+??? Quote "[KAALCHAKRA CTF](https://kaalchakractf.com/)"  
+    [![](https://ctftime.org/media/events/CTF_Logo1.png){ width="200" align=left }](https://kaalchakractf.com/)  
+    **比赛名称** : [KAALCHAKRA CTF](https://kaalchakractf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-28 17:00:00 - 2026-03-29 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : TH3_RANG3RS (https://ctftime.org/team/406018)  
+    **添加日历** : https://ctftime.org/event/3183.ics  
+    
 ??? Quote "[NovruzCTF 2026](https://canyouhack.org/)"  
     [![](https://ctftime.org/media/events/IMG_4954.jpeg){ width="200" align=left }](https://canyouhack.org/)  
     **比赛名称** : [NovruzCTF 2026](https://canyouhack.org/)  
@@ -47,6 +56,15 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : HackDayCTF (https://ctftime.org/team/277562)  
     **添加日历** : https://ctftime.org/event/3039.ics  
+    
+??? Quote "[TexSAW 2026](https://texsaw.org/)"  
+    [![](){ width="200" align=left }](https://texsaw.org/)  
+    **比赛名称** : [TexSAW 2026](https://texsaw.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-03-27 20:00:00 - 2026-03-29 20:00:00 UTC+8  
+    **比赛权重** : 41.59  
+    **赛事主办** : CSG (https://ctftime.org/team/333)  
+    **添加日历** : https://ctftime.org/event/3130.ics  
     
 ??? Quote "[Stranger's CTF - Techtrix '26](https://upsidectf.online/)"  
     [![](){ width="200" align=left }](https://upsidectf.online/)  
@@ -893,22 +911,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : CyKOR (https://ctftime.org/team/369)  
     **添加日历** : https://ctftime.org/event/3028.ics  
-    
-??? Quote "[WannaGame Championship 2025](https://ctf.cnsc.com.vn/)"  
-    [![](https://ctftime.org/media/events/Artboard_13x.png){ width="200" align=left }](https://ctf.cnsc.com.vn/)  
-    **比赛名称** : [WannaGame Championship 2025](https://ctf.cnsc.com.vn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-12-06 09:00:00 - 2025-12-08 09:00:00 UTC+8  
-    **比赛权重** : 29.00  
-    **赛事主办** : UIT-Wanna.W1n (https://ctftime.org/team/138431)  
-    **添加日历** : https://ctftime.org/event/2898.ics  
-    
-??? Quote "[VuwCTF 2025](https://2025.vuwctf.com/)"  
-    [![](https://ctftime.org/media/events/VUWCTF_logo.png){ width="200" align=left }](https://2025.vuwctf.com/)  
-    **比赛名称** : [VuwCTF 2025](https://2025.vuwctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-12-06 05:00:00 - 2025-12-07 12:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
-    **添加日历** : https://ctftime.org/event/3012.ics  
     
