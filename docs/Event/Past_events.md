@@ -5,6 +5,11 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "PolarisCTF 2026"  
+    **比赛名称** : [PolarisCTF 2026](https://www.ctfplus.cn/competition/hall)  
+    **比赛时间** : 2026年03月28日 09:00 - 2026年03月30日 09:00  
+    **比赛详细** : 星盟安全团队举办的第一届招新赛，由 CTF+ 平台承办。QQ群：1083975295  
+    
 ??? Quote "【Solar】3月应急响应公益月赛"  
     **比赛名称** : [【Solar】3月应急响应公益月赛](https://mp.weixin.qq.com/s/S5SIYuTNafxzdRMdrNvfAA)  
     **比赛时间** : 2026年03月28日 10:00 - 2026年03月28日 18:00  
@@ -12,6 +17,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)"  
+    [![](){ width="200" align=left }](https://www.wicked6.com/tournament)  
+    **比赛名称** : [GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6](https://www.wicked6.com/tournament)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2026-03-29 20:00:00 - 2026-03-30 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
+    **添加日历** : https://ctftime.org/event/3057.ics  
+    
 ??? Quote "[CU school CTF 2026](https://cu.ru/olympiad/events/cu-school-ctf)"  
     [![](https://ctftime.org/media/events/cu_school_ctf.png){ width="200" align=left }](https://cu.ru/olympiad/events/cu-school-ctf)  
     **比赛名称** : [CU school CTF 2026](https://cu.ru/olympiad/events/cu-school-ctf)  
@@ -902,13 +916,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : HackerLab (https://ctftime.org/team/299486)  
     **添加日历** : https://ctftime.org/event/3019.ics  
-    
-??? Quote "[SECCON CTF 14 Quals](https://ctf.seccon.jp/)"  
-    [![](https://ctftime.org/media/events/seccon_s_10.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-    **比赛名称** : [SECCON CTF 14 Quals](https://ctf.seccon.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-12-13 13:00:00 - 2025-12-14 13:00:00 UTC+8  
-    **比赛权重** : 100.00  
-    **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-    **添加日历** : https://ctftime.org/event/2862.ics  
     
