@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "Hack for a Change 2026 March: UN SDG 3",
-        "比赛时间": "2026-03-31 08:00:00 - 2026-04-02 07:59:59 UTC+8",
-        "添加日历": "https://ctftime.org/event/3184.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://www.hackforachange.org/",
-        "比赛标志": "https://ctftime.org/media/events/favicon_8_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Hack for a Change (https://ctftime.org/team/419248)",
-        "比赛ID": "1492",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "VishwaCTF'2026",
         "比赛时间": "2026-04-03 17:30:00 - 2026-04-05 17:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3197.ics",
@@ -912,6 +900,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "Hack for a Change 2026 March: UN SDG 3",
+        "比赛时间": "2026-03-31 08:00:00 - 2026-04-02 07:59:59 UTC+8",
+        "添加日历": "https://ctftime.org/event/3184.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.hackforachange.org/",
+        "比赛标志": "https://ctftime.org/media/events/favicon_8_1.png",
+        "比赛权重": "0",
+        "赛事主办": "Hack for a Change (https://ctftime.org/team/419248)",
+        "比赛ID": "1492",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "GLOBAL CYBER GAMES: Women's Attack and Defense Edition @Wicked6",
         "比赛时间": "2026-03-29 20:00:00 - 2026-03-30 05:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3057.ics",
@@ -1062,7 +1062,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.fr13nds.team/",
         "比赛标志": "https://ctftime.org/media/events/icon-black.png",
-        "比赛权重": "0",
+        "比赛权重": "24.59",
         "赛事主办": "FR13NDS TEAM (https://ctftime.org/team/155678)",
         "比赛ID": "1547",
         "比赛状态": "past"
