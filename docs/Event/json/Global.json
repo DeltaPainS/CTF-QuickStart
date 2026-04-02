@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "gryphCTF",
-        "比赛时间": "2026-04-03 02:30:00 - 2026-04-03 08:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3227.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://guelphcss.com/links",
-        "比赛标志": "https://ctftime.org/media/events/gryphctf_gryphlife.png",
-        "比赛权重": "0",
-        "赛事主办": "GuelphCSS (https://ctftime.org/team/429720)",
-        "比赛ID": "1561",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "VishwaCTF'2026",
         "比赛时间": "2026-04-03 17:30:00 - 2026-04-05 17:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3197.ics",
@@ -237,18 +225,6 @@
         "比赛权重": "23.93",
         "赛事主办": "HACK@CIT (https://ctftime.org/team/287896)",
         "比赛ID": "1109",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "BlueHens CTF 2025",
-        "比赛时间": "2026-04-18 01:00:00 - 2026-04-19 13:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2943.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://bluehens.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/bluehens_1.png",
-        "比赛权重": "44.77",
-        "赛事主办": "Blue Hens (https://ctftime.org/team/64660)",
-        "比赛ID": "603",
         "比赛状态": "oncoming"
     },
     {
@@ -897,6 +873,18 @@
         "比赛权重": "0",
         "赛事主办": "NFITS (https://ctftime.org/team/360674)",
         "比赛ID": "1200",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "gryphCTF",
+        "比赛时间": "2026-04-03 02:30:00 - 2026-04-03 08:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3227.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://guelphcss.com/links",
+        "比赛标志": "https://ctftime.org/media/events/gryphctf_gryphlife.png",
+        "比赛权重": "0",
+        "赛事主办": "GuelphCSS (https://ctftime.org/team/429720)",
+        "比赛ID": "1561",
         "比赛状态": "nowrunning"
     },
     {
