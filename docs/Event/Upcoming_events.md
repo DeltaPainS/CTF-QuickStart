@@ -5,6 +5,11 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "数字中国创新大赛"  
+    **比赛名称** : [数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)  
+    **比赛时间** : 2026年04月12日 09:00 - 2026年04月12日 12:00  
+    **比赛详细** :   
+    
 ??? Quote "NepCTF 2026"  
     **比赛名称** : [NepCTF 2026](/isPrepare)  
     **比赛时间** : 2026年07月10日 19:00 - 2026年07月12日 19:00  
@@ -138,15 +143,6 @@ comments: true
     **比赛权重** : 46.20  
     **赛事主办** : pingCTF (https://ctftime.org/team/147266)  
     **添加日历** : https://ctftime.org/event/3147.ics  
-    
-??? Quote "[K!nd4SUS CTF 2026](https://ctf.k1nd4sus.it/)"  
-    [![](https://ctftime.org/media/events/81649886.png){ width="200" align=left }](https://ctf.k1nd4sus.it/)  
-    **比赛名称** : [K!nd4SUS CTF 2026](https://ctf.k1nd4sus.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-18 20:00:00 - 2026-04-19 20:00:00 UTC+8  
-    **比赛权重** : 18.70  
-    **赛事主办** : K!nd4SUS (https://ctftime.org/team/150337)  
-    **添加日历** : https://ctftime.org/event/3143.ics  
     
 ??? Quote "[JerseyCTF VI](https://ctf.jerseyctf.com/)"  
     [![](https://ctftime.org/media/events/jctfvi-discord.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
