@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "Alfa CTF 2026",
-        "比赛时间": "2026-04-25 14:00:00 - 2026-04-26 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3250.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://alfactf.ru/",
-        "比赛标志": "https://ctftime.org/media/events/IMG_0149.jpeg",
-        "比赛权重": "21.67",
-        "赛事主办": "SPbCTF (https://ctftime.org/team/30003)",
-        "比赛ID": "1418",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "CTF@AC26 - Quals",
-        "比赛时间": "2026-04-25 15:00:00 - 2026-04-26 15:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3192.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.ac.upt.ro/",
-        "比赛标志": "https://ctftime.org/media/events/CTFAC26.png",
-        "比赛权重": "24.53",
-        "赛事主办": "UPT-CTF (https://ctftime.org/team/276942)",
-        "比赛ID": "1337",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "MCTF 5.0",
         "比赛时间": "2026-05-01 03:00:00 - 2026-05-02 15:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3168.ics",
@@ -756,6 +732,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "Alfa CTF 2026",
+        "比赛时间": "2026-04-25 14:00:00 - 2026-04-26 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3250.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://alfactf.ru/",
+        "比赛标志": "https://ctftime.org/media/events/IMG_0149.jpeg",
+        "比赛权重": "21.67",
+        "赛事主办": "SPbCTF (https://ctftime.org/team/30003)",
+        "比赛ID": "1418",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "CTF@AC26 - Quals",
+        "比赛时间": "2026-04-25 15:00:00 - 2026-04-26 15:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3192.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.ac.upt.ro/",
+        "比赛标志": "https://ctftime.org/media/events/CTFAC26.png",
+        "比赛权重": "24.53",
+        "赛事主办": "UPT-CTF (https://ctftime.org/team/276942)",
+        "比赛ID": "1337",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "JerseyCTF VI",
         "比赛时间": "2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3117.ics",
@@ -894,7 +894,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "http://wreckctf.com/",
         "比赛标志": "https://ctftime.org/media/events/Greyhat-CTF-Logo-Square_1.png",
-        "比赛权重": "0",
+        "比赛权重": "0.00",
         "赛事主办": "greyhatgt (https://ctftime.org/team/38564)",
         "比赛ID": "850",
         "比赛状态": "past"
