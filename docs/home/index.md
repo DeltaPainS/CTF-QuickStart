@@ -58,15 +58,6 @@ hide:
             **比赛详细** : 筹备中  
                 
     === "国外比赛"
-        ??? Quote "[KubSTU CTF](https://kubstu-ctf.online/)"  
-            [![](https://ctftime.org/media/events/1233.png){ width="200" align=left }](https://kubstu-ctf.online/)  
-            **比赛名称** : [KubSTU CTF](https://kubstu-ctf.online/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
-            **添加日历** : https://ctftime.org/event/3177.ics  
-            
         ??? Quote "[THEM?!CTF 2026](https://ctf.themctf.com/)"  
             [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://ctf.themctf.com/)  
             **比赛名称** : [THEM?!CTF 2026](https://ctf.themctf.com/)  
@@ -85,14 +76,23 @@ hide:
             **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
             **添加日历** : https://ctftime.org/event/3244.ics  
             
-        ??? Quote "[Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)"  
-            [![](https://ctftime.org/media/events/midnightsun_2024_log_TRIMMEDo.png){ width="200" align=left }](https://play.midnightsunctf.com/)  
-            **比赛名称** : [Midnight Sun CTF 2026 Quals](https://play.midnightsunctf.com/)  
+        ??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
+            [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
+            **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-05-02 18:00:00 - 2026-05-03 18:00:00 UTC+8  
-            **比赛权重** : 48.17  
-            **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-            **添加日历** : https://ctftime.org/event/2773.ics  
+            **比赛时间** : 2026-05-05 14:30:00 - 2026-05-06 14:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Droidex (https://ctftime.org/team/430693)  
+            **添加日历** : https://ctftime.org/event/3241.ics  
+            
+        ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
+            [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
+            **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
+            **比赛权重** : 34.67  
+            **赛事主办** : pony7 (https://ctftime.org/team/20769)  
+            **添加日历** : https://ctftime.org/event/3186.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
