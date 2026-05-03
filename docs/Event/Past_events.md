@@ -22,8 +22,26 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[UniVsThreats 26 Finals CTF]()"  
+    [![](https://ctftime.org/media/events/8214e0b3661f119e06c811dd7538cc0d.jpg){ width="200" align=left }]()  
+    **比赛名称** : [UniVsThreats 26 Finals CTF]()  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
+    **添加日历** : https://ctftime.org/event/3244.ics  
+    
+??? Quote "[THEM?!CTF 2026](https://ctf.themctf.com/)"  
+    [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://ctf.themctf.com/)  
+    **比赛名称** : [THEM?!CTF 2026](https://ctf.themctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-02 02:00:00 - 2026-05-04 02:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
+    **添加日历** : https://ctftime.org/event/3209.ics  
+    
 ??? Quote "[KubSTU CTF](https://kubstu-ctf.online/)"  
-    [![](https://ctftime.org/media/events/1233.png){ width="200" align=left }](https://kubstu-ctf.online/)  
+    [![](https://ctftime.org/media/events/ctf_flag_tut.jpg){ width="200" align=left }](https://kubstu-ctf.online/)  
     **比赛名称** : [KubSTU CTF](https://kubstu-ctf.online/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
@@ -903,22 +921,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
     **添加日历** : https://ctftime.org/event/3088.ics  
-    
-??? Quote "[BITSCTF 2026](https://ctf.bitskrieg.in/)"  
-    [![](){ width="200" align=left }](https://ctf.bitskrieg.in/)  
-    **比赛名称** : [BITSCTF 2026](https://ctf.bitskrieg.in/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-02-20 13:30:00 - 2026-02-22 13:30:00 UTC+8  
-    **比赛权重** : 25.54  
-    **赛事主办** : BITSkrieg (https://ctftime.org/team/22310)  
-    **添加日历** : https://ctftime.org/event/3122.ics  
-    
-??? Quote "[RamadanCTF 2026](https://labs.vulnbydefault.com/)"  
-    [![](https://ctftime.org/media/events/WhatsApp_Image_2026-02-05_at_9.01.11_PM.jpeg){ width="200" align=left }](https://labs.vulnbydefault.com/)  
-    **比赛名称** : [RamadanCTF 2026](https://labs.vulnbydefault.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-02-18 08:00:00 - 2026-03-17 08:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : vulnbydefault (https://ctftime.org/team/423471)  
-    **添加日历** : https://ctftime.org/event/3135.ics  
     
