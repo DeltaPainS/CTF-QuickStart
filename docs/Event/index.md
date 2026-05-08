@@ -293,15 +293,6 @@ hide:
                 **比赛详细** : 筹备中  
                 
         === "国外赛事"
-            ??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
-                [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
-                **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
-                **添加日历** : https://ctftime.org/event/3018.ics  
-                
             ??? Quote "[plfanzen CFT 2026](https://plfanzen.lol/)"  
                 [![](https://ctftime.org/media/events/hloe.png){ width="200" align=left }](https://plfanzen.lol/)  
                 **比赛名称** : [plfanzen CFT 2026](https://plfanzen.lol/)  
@@ -383,6 +374,15 @@ hide:
                 **赛事主办** : Azure Assassin Alliance (https://ctftime.org/team/194222)  
                 **添加日历** : https://ctftime.org/event/3266.ics  
                 
+            ??? Quote "[RAMunchers CTF](https://ctf.ramunchers.com/)"  
+                [![](https://ctftime.org/media/events/ramlogo.png){ width="200" align=left }](https://ctf.ramunchers.com/)  
+                **比赛名称** : [RAMunchers CTF](https://ctf.ramunchers.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-10 16:00:00 - 2026-05-13 23:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : R0073R5 (https://ctftime.org/team/147263)  
+                **添加日历** : https://ctftime.org/event/3283.ics  
+                
             ??? Quote "[NorthSec 2026](https://nsec.io/competition/)"  
                 [![](https://ctftime.org/media/events/NSEC_Avatar_Socials.png){ width="200" align=left }](https://nsec.io/competition/)  
                 **比赛名称** : [NorthSec 2026](https://nsec.io/competition/)  
@@ -391,6 +391,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : NorthSec Organizers (https://ctftime.org/team/2492)  
                 **添加日历** : https://ctftime.org/event/3258.ics  
+                
+            ??? Quote "[NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)"  
+                [![](https://ctftime.org/media/events/image_banner_white_ctftime.png){ width="200" align=left }](https://ctf.ndias.jp/)  
+                **比赛名称** : [NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : cartagaitai (https://ctftime.org/team/434311)  
+                **添加日历** : https://ctftime.org/event/3276.ics  
                 
             ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
                 [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
@@ -526,6 +535,15 @@ hide:
                 **比赛权重** : 69.00  
                 **赛事主办** : KITCTF (https://ctftime.org/team/7221)  
                 **添加日历** : https://ctftime.org/event/3041.ics  
+                
+            ??? Quote "[RPCA CTF 2026](https://grandctf.rpca.ac.th/)"  
+                [![](){ width="200" align=left }](https://grandctf.rpca.ac.th/)  
+                **比赛名称** : [RPCA CTF 2026](https://grandctf.rpca.ac.th/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-06-06 01:00:00 - 2026-06-09 01:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
+                **添加日历** : https://ctftime.org/event/3278.ics  
                 
             ??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
@@ -855,14 +873,14 @@ hide:
                 **赛事主办** : SK-CERT (https://ctftime.org/team/378916)  
                 **添加日历** : https://ctftime.org/event/3142.ics  
                 
-            ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
-                [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
-                **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
+            ??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
+                [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
+                **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
-                **比赛权重** : 34.67  
-                **赛事主办** : pony7 (https://ctftime.org/team/20769)  
-                **添加日历** : https://ctftime.org/event/3186.ics  
+                **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
+                **添加日历** : https://ctftime.org/event/3018.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -882,6 +900,15 @@ hide:
                 **比赛详细** :   
                 
         === "国外赛事"
+            ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
+                [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
+                **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-07 19:00:00 - 2026-05-08 19:00:00 UTC+8  
+                **比赛权重** : 34.67  
+                **赛事主办** : pony7 (https://ctftime.org/team/20769)  
+                **添加日历** : https://ctftime.org/event/3186.ics  
+                
             ??? Quote "[RAZER CTF 2026](http://ctf.droidecks.sbs/)"  
                 [![](https://ctftime.org/media/events/logo_125.png){ width="200" align=left }](http://ctf.droidecks.sbs/)  
                 **比赛名称** : [RAZER CTF 2026](http://ctf.droidecks.sbs/)  
@@ -1772,15 +1799,6 @@ hide:
                 **比赛权重** : 24.24  
                 **赛事主办** : Batman's Kitchen (https://ctftime.org/team/3135)  
                 **添加日历** : https://ctftime.org/event/3098.ics  
-                
-            ??? Quote "[THJCC CTF 2026](https://ctf2026.thjcc.org/)"  
-                [![](https://ctftime.org/media/events/3291aa527005a0771b15f8ca11d76637.png){ width="200" align=left }](https://ctf2026.thjcc.org/)  
-                **比赛名称** : [THJCC CTF 2026](https://ctf2026.thjcc.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-02-21 08:00:01 - 2026-02-22 21:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
-                **添加日历** : https://ctftime.org/event/3088.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
