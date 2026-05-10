@@ -76,6 +76,15 @@ comments: true
     **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
     **添加日历** : https://ctftime.org/event/3137.ics  
     
+??? Quote "[PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)"  
+    [![](https://ctftime.org/media/events/0b084a17fe379613dd5be4f540c64249.png){ width="200" align=left }](http://pwnctf.ro/)  
+    **比赛名称** : [PHONIX VIPER NOVA CTF#2](http://pwnctf.ro/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-08 18:00:00 - 2026-05-11 01:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : PH03N1X V1P3R N0V4 CTF (https://ctftime.org/team/395369)  
+    **添加日历** : https://ctftime.org/event/3018.ics  
+    
 ??? Quote "[THCon 2K26 CTF](https://thcon.party/)"  
     [![](https://ctftime.org/media/events/logo_123.png){ width="200" align=left }](https://thcon.party/)  
     **比赛名称** : [THCon 2K26 CTF](https://thcon.party/)  
@@ -99,7 +108,7 @@ comments: true
     **比赛名称** : [UniVsThreats 26 Finals CTF]()  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-05-02 16:00:00 - 2026-05-03 23:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 25.00  
     **赛事主办** : UVT-CTF (https://ctftime.org/team/214520)  
     **添加日历** : https://ctftime.org/event/3244.ics  
     
@@ -729,7 +738,7 @@ comments: true
     **比赛名称** : [PsychCTF 2026](https://psychctf.xyz/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-03-14 02:30:00 - 2026-03-16 02:30:00 UTC+8  
-    **比赛权重** : 24.50  
+    **比赛权重** : 24.51  
     **赛事主办** : SAIC_IITMandi (https://ctftime.org/team/251023)  
     **添加日历** : https://ctftime.org/event/3166.ics  
     
@@ -912,13 +921,4 @@ comments: true
     **比赛权重** : 6.00  
     **赛事主办** : CREST (https://ctftime.org/team/418000)  
     **添加日历** : https://ctftime.org/event/3123.ics  
-    
-??? Quote "[SECCON CTF 14 International Finals](https://ctf.seccon.jp/)"  
-    [![](https://ctftime.org/media/events/seccon_s_11.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-    **比赛名称** : [SECCON CTF 14 International Finals](https://ctf.seccon.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-02-28 09:00:00 - 2026-03-01 17:00:00 UTC+8  
-    **比赛权重** : 37.00  
-    **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-    **添加日历** : https://ctftime.org/event/3106.ics  
     
