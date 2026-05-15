@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "NDIAS Automotive/IoT CTF",
-        "比赛时间": "2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3276.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.ndias.jp/",
-        "比赛标志": "https://ctftime.org/media/events/image_banner_white_ctftime.png",
-        "比赛权重": "0.00",
-        "赛事主办": "cartagaitai (https://ctftime.org/team/434311)",
-        "比赛ID": "1588",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "TJCTF 2026",
         "比赛时间": "2026-05-16 00:00:00 - 2026-05-18 00:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3195.ics",
@@ -57,6 +45,18 @@
         "比赛权重": "0.00",
         "赛事主办": "OxV01D (https://ctftime.org/team/427687)",
         "比赛ID": "1587",
+        "比赛状态": "oncoming"
+    },
+    {
+        "比赛名称": "Hack for a Change 2026 May: UN SDG 1",
+        "比赛时间": "2026-05-19 08:00:00 - 2026-05-22 07:59:59 UTC+8",
+        "添加日历": "https://ctftime.org/event/3277.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://www.hackforachange.org/",
+        "比赛标志": "https://ctftime.org/media/events/logo_127.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Hack for a Change (https://ctftime.org/team/419248)",
+        "比赛ID": "1492",
         "比赛状态": "oncoming"
     },
     {
@@ -633,6 +633,18 @@
         "比赛权重": "0.00",
         "赛事主办": "NorthSec Organizers (https://ctftime.org/team/2492)",
         "比赛ID": "38",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "NDIAS Automotive/IoT CTF",
+        "比赛时间": "2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3276.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.ndias.jp/",
+        "比赛标志": "https://ctftime.org/media/events/image_banner_white_ctftime.png",
+        "比赛权重": "0",
+        "赛事主办": "cartagaitai (https://ctftime.org/team/434311)",
+        "比赛ID": "1588",
         "比赛状态": "nowrunning"
     },
     {

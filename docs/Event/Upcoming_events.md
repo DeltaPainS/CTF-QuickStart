@@ -13,15 +13,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)"  
-    [![](https://ctftime.org/media/events/image_banner_white_ctftime.png){ width="200" align=left }](https://ctf.ndias.jp/)  
-    **比赛名称** : [NDIAS Automotive/IoT CTF](https://ctf.ndias.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-15 17:00:00 - 2026-05-17 17:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : cartagaitai (https://ctftime.org/team/434311)  
-    **添加日历** : https://ctftime.org/event/3276.ics  
-    
 ??? Quote "[TJCTF 2026](https://tjctf.org/)"  
     [![](https://ctftime.org/media/events/logo_96_1_1.png){ width="200" align=left }](https://tjctf.org/)  
     **比赛名称** : [TJCTF 2026](https://tjctf.org/)  
@@ -57,6 +48,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
     **添加日历** : https://ctftime.org/event/3269.ics  
+    
+??? Quote "[Hack for a Change 2026 May: UN SDG 1](https://www.hackforachange.org/)"  
+    [![](https://ctftime.org/media/events/logo_127.png){ width="200" align=left }](https://www.hackforachange.org/)  
+    **比赛名称** : [Hack for a Change 2026 May: UN SDG 1](https://www.hackforachange.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-05-19 08:00:00 - 2026-05-22 07:59:59 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
+    **添加日历** : https://ctftime.org/event/3277.ics  
     
 ??? Quote "[DEF CON CTF Qualifier 2026](https://bbbirds.org/)"  
     [![](){ width="200" align=left }](https://bbbirds.org/)  
