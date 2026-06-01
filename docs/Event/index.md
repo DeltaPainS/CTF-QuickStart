@@ -365,15 +365,6 @@ hide:
                 **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
                 **添加日历** : https://ctftime.org/event/3125.ics  
                 
-            ??? Quote "[Crypto CTF 2026](https://cr.yp.toc.tf/)"  
-                [![](https://ctftime.org/media/events/cryptoctf_logo.jpg){ width="200" align=left }](https://cr.yp.toc.tf/)  
-                **比赛名称** : [Crypto CTF 2026](https://cr.yp.toc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
-                **比赛权重** : 91.00  
-                **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-                **添加日历** : https://ctftime.org/event/3034.ics  
-                
             ??? Quote "[Sieberrsec CTF 7.0](https://sieberr.live/)"  
                 [![](https://ctftime.org/media/events/icon_10.png){ width="200" align=left }](https://sieberr.live/)  
                 **比赛名称** : [Sieberrsec CTF 7.0](https://sieberr.live/)  
@@ -729,15 +720,7 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
-                [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
-                **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-30 02:00:00 - 2026-06-01 02:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
-                **添加日历** : https://ctftime.org/event/3209.ics  
-                
+    
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)"  
@@ -799,6 +782,15 @@ hide:
                 **比赛权重** : 53.29  
                 **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
                 **添加日历** : https://ctftime.org/event/3247.ics  
+                
+            ??? Quote "[THEM?!CTF 2026](https://themctf.com/)"  
+                [![](https://ctftime.org/media/events/THEMCTF_2026_logo_black.png){ width="200" align=left }](https://themctf.com/)  
+                **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-05-30 02:00:00 - 2026-06-01 02:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
+                **添加日历** : https://ctftime.org/event/3209.ics  
                 
             ??? Quote "[Hardwear.io USA 2026 Hardware CTF](https://hwc.tf/)"  
                 [![](https://ctftime.org/media/events/logohwcolor_17.png){ width="200" align=left }](https://hwc.tf/)  
@@ -1636,15 +1628,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Hacking Indian Ocean (https://ctftime.org/team/399138)  
                 **添加日历** : https://ctftime.org/event/3189.ics  
-                
-            ??? Quote "[Lag N Crash 6.0](https://lagncra.sh/)"  
-                [![](https://ctftime.org/media/events/d1f68ce184a147b1b87eabe3826986dd.png){ width="200" align=left }](https://lagncra.sh/)  
-                **比赛名称** : [Lag N Crash 6.0](https://lagncra.sh/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-16 12:00:00 - 2026-03-17 18:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Interpoly (https://ctftime.org/team/424494)  
-                **添加日历** : https://ctftime.org/event/3165.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
