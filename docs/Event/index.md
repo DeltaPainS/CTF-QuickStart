@@ -684,6 +684,14 @@ hide:
                 **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
                 **添加日历** : https://ctftime.org/event/3278.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+            ??? Quote "[数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)"  
+                **比赛名称** : [数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)  
+                **比赛时间** : 2026年04月12日 09:00 - 2026年04月12日 12:00  
+                **比赛详细** :   
+                
+        === "国外赛事"
             ??? Quote "[DalCTF 2026](https://dalctf2026.com/)"  
                 [![](https://ctftime.org/media/events/logo_square_1.png){ width="200" align=left }](https://dalctf2026.com/)  
                 **比赛名称** : [DalCTF 2026](https://dalctf2026.com/)  
@@ -693,14 +701,6 @@ hide:
                 **赛事主办** : Status 418 (https://ctftime.org/team/361970)  
                 **添加日历** : https://ctftime.org/event/3320.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-            ??? Quote "[数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)"  
-                **比赛名称** : [数字中国创新大赛](https://wap.dcic-china.com/competitions/10212)  
-                **比赛时间** : 2026年04月12日 09:00 - 2026年04月12日 12:00  
-                **比赛详细** :   
-                
-        === "国外赛事"
             ??? Quote "[SAS CTF 2026 Quals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS26_temp.png){ width="200" align=left }](https://ctf.thesascon.com/)  
                 **比赛名称** : [SAS CTF 2026 Quals](https://ctf.thesascon.com/)  
@@ -787,7 +787,7 @@ hide:
                 **比赛名称** : [THEM?!CTF 2026](https://themctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-30 02:00:00 - 2026-06-01 02:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : THEM?! (https://ctftime.org/team/387399)  
                 **添加日历** : https://ctftime.org/event/3209.ics  
                 
@@ -805,7 +805,7 @@ hide:
                 **比赛名称** : [HASBLCTF26](https://www.hasblctf.tech/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-30 01:00:00 - 2026-06-01 01:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : ExploitsFromHeaven1337 (https://ctftime.org/team/435592)  
                 **添加日历** : https://ctftime.org/event/3301.ics  
                 
@@ -1591,15 +1591,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
                 **添加日历** : https://ctftime.org/event/3108.ics  
-                
-            ??? Quote "[TAMUctf 2026](https://tamuctf.com/)"  
-                [![](https://ctftime.org/media/events/TAMUctf-logo.png){ width="200" align=left }](https://tamuctf.com/)  
-                **比赛名称** : [TAMUctf 2026](https://tamuctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-03-21 06:00:00 - 2026-03-23 06:00:00 UTC+8  
-                **比赛权重** : 76.22  
-                **赛事主办** : TAMUctf (https://ctftime.org/team/37721)  
-                **添加日历** : https://ctftime.org/event/3095.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
