@@ -8,12 +8,21 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[Operation Heist CTF 2026](https://registration.hackkap.com/)"  
+    [![](https://ctftime.org/media/events/preloader.png){ width="200" align=left }](https://registration.hackkap.com/)  
+    **比赛名称** : [Operation Heist CTF 2026](https://registration.hackkap.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-13 22:00:00 - 2026-06-14 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : HACK KAP (https://ctftime.org/team/436808)  
+    **添加日历** : https://ctftime.org/event/3327.ics  
+    
 ??? Quote "[DalCTF 2026](https://dalctf2026.com/)"  
     [![](https://ctftime.org/media/events/logo_square_1.png){ width="200" align=left }](https://dalctf2026.com/)  
     **比赛名称** : [DalCTF 2026](https://dalctf2026.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-06-06 21:00:00 - 2026-06-07 23:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.89  
     **赛事主办** : Status 418 (https://ctftime.org/team/361970)  
     **添加日历** : https://ctftime.org/event/3320.ics  
     
@@ -898,13 +907,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Ireland without the RE (https://ctftime.org/team/179144)  
     **添加日历** : https://ctftime.org/event/3063.ics  
-    
-??? Quote "[PolyPwnCTF 2026](https://polypwn.polycyber.io/)"  
-    [![](){ width="200" align=left }](https://polypwn.polycyber.io/)  
-    **比赛名称** : [PolyPwnCTF 2026](https://polypwn.polycyber.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-21 18:00:00 - 2026-03-22 05:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : PolyCyber (https://ctftime.org/team/212241)  
-    **添加日历** : https://ctftime.org/event/3203.ics  
     
