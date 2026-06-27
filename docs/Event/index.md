@@ -293,15 +293,6 @@ hide:
                 **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
                 
         === "国外赛事"
-            ??? Quote "[MntcrlCTF 2026](https://ctf.mntcrl.it/)"  
-                [![](https://ctftime.org/media/events/m0nt3c4rl0_logo.jpg){ width="200" align=left }](https://ctf.mntcrl.it/)  
-                **比赛名称** : [MntcrlCTF 2026](https://ctf.mntcrl.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-28 00:00:00 - 2026-06-29 00:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Mntcrl (https://ctftime.org/team/195096)  
-                **添加日历** : https://ctftime.org/event/3282.ics  
-                
             ??? Quote "[MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)"  
                 [![](https://ctftime.org/media/events/mindbreak_2.png){ width="200" align=left }](https://linktr.ee/m1ndbr34k)  
                 **比赛名称** : [MindBreak 2026 by ESGI](https://linktr.ee/m1ndbr34k)  
@@ -819,6 +810,15 @@ hide:
                 **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
                 **添加日历** : https://ctftime.org/event/3113.ics  
                 
+            ??? Quote "[MntcrlCTF 2026](https://ctf.mntcrl.it/)"  
+                [![](https://ctftime.org/media/events/m0nt3c4rl0_logo.jpg){ width="200" align=left }](https://ctf.mntcrl.it/)  
+                **比赛名称** : [MntcrlCTF 2026](https://ctf.mntcrl.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-06-28 00:00:00 - 2026-06-29 00:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Mntcrl (https://ctftime.org/team/195096)  
+                **添加日历** : https://ctftime.org/event/3282.ics  
+                
     === "*已经结束*"
         === "国内赛事"
     
@@ -1116,7 +1116,7 @@ hide:
                 **比赛名称** : [0xV01D CTF 2026](https://0xv01d-ctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-18 12:00:00 - 2026-05-20 12:00:00 UTC+8  
-                **比赛权重** : 19.48  
+                **比赛权重** : 19.66  
                 **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
                 **添加日历** : https://ctftime.org/event/3269.ics  
                 
@@ -1305,7 +1305,7 @@ hide:
                 **比赛名称** : [KubSTU CTF](https://kubstu-ctf.ru/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-05-01 15:00:00 - 2026-05-03 03:00:00 UTC+8  
-                **比赛权重** : 24.82  
+                **比赛权重** : 24.83  
                 **赛事主办** : Capybaras (https://ctftime.org/team/223931)  
                 **添加日历** : https://ctftime.org/event/3177.ics  
                 
