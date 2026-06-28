@@ -8,6 +8,15 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[MntcrlCTF 2026](https://ctf.mntcrl.it/)"  
+    [![](https://ctftime.org/media/events/m0nt3c4rl0_logo.jpg){ width="200" align=left }](https://ctf.mntcrl.it/)  
+    **比赛名称** : [MntcrlCTF 2026](https://ctf.mntcrl.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-28 00:00:00 - 2026-06-29 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Mntcrl (https://ctftime.org/team/195096)  
+    **添加日历** : https://ctftime.org/event/3282.ics  
+    
 ??? Quote "[Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)"  
     [![](){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
     **比赛名称** : [Grey Cat The Flag 2026 Finals](https://ctf.nusgreyhats.org/)  
@@ -16,6 +25,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : NUS GreyHats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/3173.ics  
+    
+??? Quote "[V1T CTF 2026](https://ctf.v1t.site/)"  
+    [![](https://ctftime.org/media/events/Ban_sao_cua_V1T_1.png){ width="200" align=left }](https://ctf.v1t.site/)  
+    **比赛名称** : [V1T CTF 2026](https://ctf.v1t.site/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-06-27 10:00:00 - 2026-06-28 22:00:00 UTC+8  
+    **比赛权重** : 22.14  
+    **赛事主办** : V1t (https://ctftime.org/team/280950)  
+    **添加日历** : https://ctftime.org/event/3249.ics  
     
 ??? Quote "[TraceBash CTF 2026](https://ctf.tracebash.xyz/)"  
     [![](https://ctftime.org/media/events/main_logo_1.png){ width="200" align=left }](https://ctf.tracebash.xyz/)  
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 38.67  
     **赛事主办** : VolgaCTF.org (https://ctftime.org/team/27094)  
     **添加日历** : https://ctftime.org/event/3045.ics  
-    
-??? Quote "[Flag Wars](https://laokoon-security.com/ctf2026)"  
-    [![](https://ctftime.org/media/events/image_5.png){ width="200" align=left }](https://laokoon-security.com/ctf2026)  
-    **比赛名称** : [Flag Wars](https://laokoon-security.com/ctf2026)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-28 17:00:00 - 2026-03-29 03:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
-    **添加日历** : https://ctftime.org/event/3084.ics  
-    
-??? Quote "[KAALCHAKRA CTF Qualifiers](https://kaalchakractf.com/)"  
-    [![](https://ctftime.org/media/events/CTF_Logo1.png){ width="200" align=left }](https://kaalchakractf.com/)  
-    **比赛名称** : [KAALCHAKRA CTF Qualifiers](https://kaalchakractf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-03-28 17:00:00 - 2026-03-29 17:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : TH3_RANG3RS (https://ctftime.org/team/406018)  
-    **添加日历** : https://ctftime.org/event/3183.ics  
     
