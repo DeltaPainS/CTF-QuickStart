@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Codegate CTF 2026 Finals](https://codegate.org/)"  
-    [![](){ width="200" align=left }](https://codegate.org/)  
-    **比赛名称** : [Codegate CTF 2026 Finals](https://codegate.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-07-23 09:00:00 - 2026-07-24 09:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
-    **添加日历** : https://ctftime.org/event/3292.ics  
-    
 ??? Quote "[jailCTF 2026](https://ctf.pyjail.club/)"  
     [![](https://ctftime.org/media/events/jailctf_1.png){ width="200" align=left }](https://ctf.pyjail.club/)  
     **比赛名称** : [jailCTF 2026](https://ctf.pyjail.club/)  
@@ -197,15 +188,6 @@ comments: true
     **比赛权重** : 24.66  
     **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
     **添加日历** : https://ctftime.org/event/3065.ics  
-    
-??? Quote "[HITCON CTF 2026 Quals](http://ctf.hitcon.org/)"  
-    [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](http://ctf.hitcon.org/)  
-    **比赛名称** : [HITCON CTF 2026 Quals](http://ctf.hitcon.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-28 22:00:00 - 2026-08-30 22:00:00 UTC+8  
-    **比赛权重** : 91.16  
-    **赛事主办** : HITCON (https://ctftime.org/team/8299)  
-    **添加日历** : https://ctftime.org/event/3340.ics  
     
 ??? Quote "[COMPFEST CTF 2026](https://compfest.id/)"  
     [![](){ width="200" align=left }](https://compfest.id/)  
@@ -413,15 +395,6 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
     **添加日历** : https://ctftime.org/event/3242.ics  
-    
-??? Quote "[HITCON CTF 2026 Final](http://ctf.hitcon.org/)"  
-    [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7_1.jpg){ width="200" align=left }](http://ctf.hitcon.org/)  
-    **比赛名称** : [HITCON CTF 2026 Final](http://ctf.hitcon.org/)  
-    **比赛形式** : Attack-Defense  
-    **比赛时间** : 2026-11-07 08:00:00 - 2026-11-08 18:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : HITCON (https://ctftime.org/team/8299)  
-    **添加日历** : https://ctftime.org/event/3341.ics  
     
 ??? Quote "[WolvCTF 2026](https://wolvctf.io/)"  
     [![](https://ctftime.org/media/events/wolverine-logo-square1_1.jpg){ width="200" align=left }](https://wolvctf.io/)  
