@@ -54,24 +54,6 @@ hide:
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[BushBash CTF](http://bushbash.cssa.club/)"  
-            [![](https://ctftime.org/media/events/logo_133.png){ width="200" align=left }](http://bushbash.cssa.club/)  
-            **比赛名称** : [BushBash CTF](http://bushbash.cssa.club/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-07-31 15:00:00 - 2026-08-02 15:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : CSSA (https://ctftime.org/team/133080)  
-            **添加日历** : https://ctftime.org/event/3372.ics  
-            
-        ??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
-            [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
-            **比赛名称** : [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8  
-            **比赛权重** : 39.00  
-            **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
-            **添加日历** : https://ctftime.org/event/3303.ics  
-            
         ??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
             [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
             **比赛名称** : [L3akCTF 2026](https://ctf.l3ak.team/)  
@@ -89,6 +71,24 @@ hide:
             **比赛权重** : 25.00  
             **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
             **添加日历** : https://ctftime.org/event/3311.ics  
+            
+        ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
+            [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
+            **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
+            **添加日历** : https://ctftime.org/event/3237.ics  
+            
+        ??? Quote "[Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)"  
+            [![](https://ctftime.org/media/events/LIT-Logo.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
+            **比赛名称** : [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-08-01 23:00:00 - 2026-08-03 23:00:00 UTC+8  
+            **比赛权重** : 84.79  
+            **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
+            **添加日历** : https://ctftime.org/event/3373.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
