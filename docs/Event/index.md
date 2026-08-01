@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
-                [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
-                **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
-                **添加日历** : https://ctftime.org/event/3237.ics  
-                
             ??? Quote "[Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)"  
                 [![](https://ctftime.org/media/events/LIT-Logo.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
                 **比赛名称** : [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)  
@@ -743,15 +734,6 @@ hide:
                 **赛事主办** : CSSA (https://ctftime.org/team/133080)  
                 **添加日历** : https://ctftime.org/event/3372.ics  
                 
-            ??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
-                [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
-                **比赛名称** : [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8  
-                **比赛权重** : 39.00  
-                **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
-                **添加日历** : https://ctftime.org/event/3303.ics  
-                
             ??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
                 [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
                 **比赛名称** : [L3akCTF 2026](https://ctf.l3ak.team/)  
@@ -770,6 +752,15 @@ hide:
                 **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
                 **添加日历** : https://ctftime.org/event/3311.ics  
                 
+            ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
+                [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
+                **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-01 15:00:00 - 2026-08-02 23:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : U-CTF (https://ctftime.org/team/430827)  
+                **添加日历** : https://ctftime.org/event/3237.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
@@ -778,6 +769,15 @@ hide:
                 **比赛详细** : 赛制/类型: 线上Jeopardy解题赛  
                 
         === "国外赛事"
+            ??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
+                [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
+                **比赛名称** : [DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-07-31 20:00:00 - 2026-08-01 20:00:00 UTC+8  
+                **比赛权重** : 39.00  
+                **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
+                **添加日历** : https://ctftime.org/event/3303.ics  
+                
             ??? Quote "[D^3CTF 2026](https://d3c.tf/)"  
                 [![](){ width="200" align=left }](https://d3c.tf/)  
                 **比赛名称** : [D^3CTF 2026](https://d3c.tf/)  
@@ -1668,15 +1668,6 @@ hide:
                 **比赛权重** : 16.56  
                 **赛事主办** : Byt3Scr4pp3rs (https://ctftime.org/team/57772)  
                 **添加日历** : https://ctftime.org/event/3225.ics  
-                
-            ??? Quote "[PUTCyberDays CTF 2026](https://putcyberdays.pl/en/)"  
-                [![](https://ctftime.org/media/events/logo_wydarzenia.png){ width="200" align=left }](https://putcyberdays.pl/en/)  
-                **比赛名称** : [PUTCyberDays CTF 2026](https://putcyberdays.pl/en/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-04-11 18:00:00 - 2026-04-12 18:00:00 UTC+8  
-                **比赛权重** : 24.94  
-                **赛事主办** : PUTrequest_ (https://ctftime.org/team/196643)  
-                **添加日历** : https://ctftime.org/event/3202.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
