@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)"  
-    [![](https://ctftime.org/media/events/LIT-Logo.png){ width="200" align=left }](https://lit.lhsmathcs.org/)  
-    **比赛名称** : [Lexington Informatics Tournament CTF 2026](https://lit.lhsmathcs.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-08-01 23:00:00 - 2026-08-03 23:00:00 UTC+8  
-    **比赛权重** : 84.79  
-    **赛事主办** : LIT CTF (https://ctftime.org/team/157660)  
-    **添加日历** : https://ctftime.org/event/3373.ics  
-    
 ??? Quote "[SCAN 2026 Online Qualifier](https://scan.sx/)"  
     [![](https://ctftime.org/media/events/32x32_icon.png){ width="200" align=left }](https://scan.sx/)  
     **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
@@ -289,7 +280,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/3020.ics  
     
 ??? Quote "[Securinets CTF Quals 2026](https://quals.securinets.tn/)"  
-    [![](){ width="200" align=left }](https://quals.securinets.tn/)  
+    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://quals.securinets.tn/)  
     **比赛名称** : [Securinets CTF Quals 2026](https://quals.securinets.tn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
