@@ -12,6 +12,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[SCAN 2026 Online Qualifier](https://scan.sx/)"  
+    [![](https://ctftime.org/media/events/32x32_icon.png){ width="200" align=left }](https://scan.sx/)  
+    **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-02 08:00:00 - 2026-08-03 08:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
+    **添加日历** : https://ctftime.org/event/3383.ics  
+    
 ??? Quote "[Universal CTF](https://ctf.uctf.io/)"  
     [![](https://ctftime.org/media/events/4d7c5705-750e-4d80-a247-a8c135096de0-Photoroom.png){ width="200" align=left }](https://ctf.uctf.io/)  
     **比赛名称** : [Universal CTF](https://ctf.uctf.io/)  
@@ -29,6 +38,15 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : VuwCTF (https://ctftime.org/team/378359)  
     **添加日历** : https://ctftime.org/event/3311.ics  
+    
+??? Quote "[L3akCTF 2026](https://ctf.l3ak.team/)"  
+    [![](https://ctftime.org/media/events/6a9256e0b32707195ff9fe31b358a0e6.png){ width="200" align=left }](https://ctf.l3ak.team/)  
+    **比赛名称** : [L3akCTF 2026](https://ctf.l3ak.team/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-08-01 02:00:00 - 2026-08-03 02:00:00 UTC+8  
+    **比赛权重** : 34.47  
+    **赛事主办** : L3ak (https://ctftime.org/team/220336)  
+    **添加日历** : https://ctftime.org/event/3061.ics  
     
 ??? Quote "[DeadSec CTF 2026 - POSTPONED](https://www.deadsec.xyz/)"  
     [![](https://ctftime.org/media/events/Picture1_4.png){ width="200" align=left }](https://www.deadsec.xyz/)  
@@ -893,22 +911,4 @@ comments: true
     **比赛权重** : 23.93  
     **赛事主办** : HACK@CIT (https://ctftime.org/team/287896)  
     **添加日历** : https://ctftime.org/event/3156.ics  
-    
-??? Quote "[CPCTF 2026](https://cpctf.space/)"  
-    [![](https://ctftime.org/media/events/cpctf_logo_1_1.png){ width="200" align=left }](https://cpctf.space/)  
-    **比赛名称** : [CPCTF 2026](https://cpctf.space/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 19:00:00 - 2026-04-19 19:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : traP (https://ctftime.org/team/62510)  
-    **添加日历** : https://ctftime.org/event/3077.ics  
-    
-??? Quote "[47CON CTF 2026](https://sugusuva.es/ctfd/)"  
-    [![](https://ctftime.org/media/events/logo47CON.png){ width="200" align=left }](https://sugusuva.es/ctfd/)  
-    **比赛名称** : [47CON CTF 2026](https://sugusuva.es/ctfd/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-04-17 16:00:00 - 2026-04-18 16:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : SUGUS (https://ctftime.org/team/274509)  
-    **添加日历** : https://ctftime.org/event/3253.ics  
     
