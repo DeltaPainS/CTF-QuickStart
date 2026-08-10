@@ -540,16 +540,16 @@
         "比赛状态": "oncoming"
     },
     {
-        "比赛名称": "DEF CON CTF 2026",
-        "比赛时间": "2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3322.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://bbbirds.org/",
-        "比赛标志": "",
+        "比赛名称": "The heart of Sysola",
+        "比赛时间": "2026-08-08 21:00:00 - 2026-08-09 09:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3382.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://caplag.ru/competitions/the-heart-of-sysola",
+        "比赛标志": "https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg",
         "比赛权重": "0",
-        "赛事主办": "Benevolent Bureau of Birds (https://ctftime.org/team/425757)",
-        "比赛ID": "2",
-        "比赛状态": "nowrunning"
+        "赛事主办": "Caplag (https://ctftime.org/team/423152)",
+        "比赛ID": "1652",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "scriptCTF 2026",
@@ -561,7 +561,7 @@
         "比赛权重": "24.70",
         "赛事主办": "ScriptSorcerers (https://ctftime.org/team/284260)",
         "比赛ID": "1318",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "UIUCTF 2026",
@@ -573,18 +573,18 @@
         "比赛权重": "69.35",
         "赛事主办": "SIGPwny (https://ctftime.org/team/27763)",
         "比赛ID": "95",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
-        "比赛名称": "The heart of Sysola",
-        "比赛时间": "2026-08-08 21:00:00 - 2026-08-09 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3382.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://caplag.ru/competitions/the-heart-of-sysola",
-        "比赛标志": "https://ctftime.org/media/events/photo_2026-07-23_13-34-47.jpg",
+        "比赛名称": "DEF CON CTF 2026",
+        "比赛时间": "2026-08-08 00:00:00 - 2026-08-10 03:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3322.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "https://bbbirds.org/",
+        "比赛标志": "",
         "比赛权重": "0",
-        "赛事主办": "Caplag (https://ctftime.org/team/423152)",
-        "比赛ID": "1652",
+        "赛事主办": "Benevolent Bureau of Birds (https://ctftime.org/team/425757)",
+        "比赛ID": "2",
         "比赛状态": "past"
     },
     {
@@ -1737,42 +1737,6 @@
         "比赛权重": "0",
         "赛事主办": "siberiansecurityleague (https://ctftime.org/team/425775)",
         "比赛ID": "1525",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "JerseyCTF VI",
-        "比赛时间": "2026-04-19 03:00:00 - 2026-04-20 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3117.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.jerseyctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/jctfvi-discord.png",
-        "比赛权重": "37.00",
-        "赛事主办": "Highlander Hackers (https://ctftime.org/team/173925)",
-        "比赛ID": "724",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "HiveCTF",
-        "比赛时间": "2026-04-18 23:00:00 - 2026-04-19 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3233.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://mctf.io/hivectf",
-        "比赛标志": "https://ctftime.org/media/events/hivectf-color-square.png",
-        "比赛权重": "25.00",
-        "赛事主办": "DSU CTF Club (https://ctftime.org/team/427677)",
-        "比赛ID": "1549",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "K!nd4SUS CTF 2026",
-        "比赛时间": "2026-04-18 20:00:00 - 2026-04-19 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3143.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.k1nd4sus.it/",
-        "比赛标志": "https://ctftime.org/media/events/81649886.png",
-        "比赛权重": "18.70",
-        "赛事主办": "K!nd4SUS (https://ctftime.org/team/150337)",
-        "比赛ID": "1264",
         "比赛状态": "past"
     }
 ]
