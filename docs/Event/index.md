@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
-                [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
-                **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-                **添加日历** : https://ctftime.org/event/3379.ics  
-                
             ??? Quote "[$N1PH€RS 3.0 CTF](https://ctf.ex0rcists.in/)"  
                 [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://ctf.ex0rcists.in/)  
                 **比赛名称** : [$N1PH€RS 3.0 CTF](https://ctf.ex0rcists.in/)  
@@ -779,6 +770,15 @@ hide:
                 **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
                 **添加日历** : https://ctftime.org/event/3370.ics  
                 
+            ??? Quote "[Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)"  
+                [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_2.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
+                **比赛名称** : [Haruulzangi CTF 2026 Qualifier](https://2026.haruulzangi.mn/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-22 09:00:00 - 2026-08-23 09:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+                **添加日历** : https://ctftime.org/event/3379.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NepCTF 2026](https://www.nepctf.com/)"  
@@ -846,7 +846,7 @@ hide:
                 **比赛名称** : [Thryve CTF 2026](https://ctf.thryvectf.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-08-14 19:00:00 - 2026-08-15 04:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.48  
                 **赛事主办** : Thryve (https://ctftime.org/team/419961)  
                 **添加日历** : https://ctftime.org/event/3330.ics  
                 
