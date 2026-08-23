@@ -334,6 +334,15 @@ hide:
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/3413.ics  
                 
+            ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
+                [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
+                **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+                **添加日历** : https://ctftime.org/event/3416.ics  
+                
             ??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
                 [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
                 **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
@@ -495,6 +504,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
+                
+            ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
+                [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
+                **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
+                **添加日历** : https://ctftime.org/event/3417.ics  
                 
             ??? Quote "[Hacker's Gambit 2026 (Round 1 – Online Qualifier)](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)"  
                 [![](https://ctftime.org/media/events/tanmay.png){ width="200" align=left }](https://unstop.com/p/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293)  
@@ -707,24 +725,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
-                [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
-                **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-21 20:00:00 - 2026-08-23 20:00:00 UTC+8  
-                **比赛权重** : 24.66  
-                **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
-                **添加日历** : https://ctftime.org/event/3065.ics  
-                
-            ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
-                [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
-                **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-08-22 15:00:00 - 2026-08-23 15:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Group 0x1A (https://ctftime.org/team/418959)  
-                **添加日历** : https://ctftime.org/event/3400.ics  
-                
             ??? Quote "[TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)"  
                 [![](https://ctftime.org/media/events/logo_135.png){ width="200" align=left }](https://ctf.talldwarfhosting.com/)  
                 **比赛名称** : [TallDwarf Hosting: Hosting Takeover](https://ctf.talldwarfhosting.com/)  
@@ -750,6 +750,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : PECAN+ (https://ctftime.org/team/250009)  
                 **添加日历** : https://ctftime.org/event/3411.ics  
+                
+            ??? Quote "[E0F CTF](https://ctf.e0f.team/)"  
+                [![](https://ctftime.org/media/events/eofctff.png){ width="200" align=left }](https://ctf.e0f.team/)  
+                **比赛名称** : [E0F CTF](https://ctf.e0f.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-22 15:00:00 - 2026-08-23 15:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Group 0x1A (https://ctftime.org/team/418959)  
+                **添加日历** : https://ctftime.org/event/3400.ics  
                 
             ??? Quote "[$N1PH€RS 3.0 CTF](https://stjctf2026.tamilctf.com/)"  
                 [![](https://ctftime.org/media/events/Ex0rcists_logo.jpg){ width="200" align=left }](https://stjctf2026.tamilctf.com/)  
@@ -787,6 +796,15 @@ hide:
                 **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
                 **添加日历** : https://ctftime.org/event/3159.ics  
                 
+            ??? Quote "[BrunnerCTF 2026](https://ctf.brunnerne.dk/)"  
+                [![](https://ctftime.org/media/events/Logo_-_2-7.png){ width="200" align=left }](https://ctf.brunnerne.dk/)  
+                **比赛名称** : [BrunnerCTF 2026](https://ctf.brunnerne.dk/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-08-21 20:00:00 - 2026-08-23 20:00:00 UTC+8  
+                **比赛权重** : 24.66  
+                **赛事主办** : Brunnerne (https://ctftime.org/team/155032)  
+                **添加日历** : https://ctftime.org/event/3065.ics  
+                
             ??? Quote "[CTFZone 2026](https://board.ctfz.zone/)"  
                 [![](https://ctftime.org/media/events/logo_ctf.png){ width="200" align=left }](https://board.ctfz.zone/)  
                 **比赛名称** : [CTFZone 2026](https://board.ctfz.zone/)  
@@ -801,7 +819,7 @@ hide:
                 **比赛名称** : [0xV01D CTF 2026 V2](https://0xv01d-ctf.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-08-15 15:30:00 - 2026-08-16 15:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
                 **添加日历** : https://ctftime.org/event/3387.ics  
                 
@@ -927,7 +945,7 @@ hide:
                 **比赛名称** : [SCAN 2026 Online Qualifier](https://scan.sx/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-08-02 08:00:00 - 2026-08-03 08:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
                 **添加日历** : https://ctftime.org/event/3383.ics  
                 
@@ -1623,24 +1641,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : BKISC (https://ctftime.org/team/199510)  
                 **添加日历** : https://ctftime.org/event/2927.ics  
-                
-            ??? Quote "[plfanzen CFT 2026](https://plfanzen.lol/)"  
-                [![](https://ctftime.org/media/events/hloe.png){ width="200" align=left }](https://plfanzen.lol/)  
-                **比赛名称** : [plfanzen CFT 2026](https://plfanzen.lol/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-09 00:00:00 - 2026-05-10 20:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : plfanzen (https://ctftime.org/team/418962)  
-                **添加日历** : https://ctftime.org/event/3090.ics  
-                
-            ??? Quote "[Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)"  
-                [![](https://ctftime.org/media/events/Logo_15.png){ width="200" align=left }](https://bts2026.wh.edu.pl/)  
-                **比赛名称** : [Break The Syntax CTF 2026](https://bts2026.wh.edu.pl/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-09 00:00:00 - 2026-05-10 18:00:00 UTC+8  
-                **比赛权重** : 56.25  
-                **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
-                **添加日历** : https://ctftime.org/event/3137.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
