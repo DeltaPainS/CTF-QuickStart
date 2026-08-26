@@ -243,9 +243,9 @@ comments: true
     **赛事主办** : JCOE Cyber Sentinels (https://ctftime.org/team/405374)  
     **添加日历** : https://ctftime.org/event/3380.ics  
     
-??? Quote "[Securinets CTF Quals 2026](https://quals.securinets.tn/)"  
-    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://quals.securinets.tn/)  
-    **比赛名称** : [Securinets CTF Quals 2026](https://quals.securinets.tn/)  
+??? Quote "[Securinets CTF Quals 2026](https://ctf.securinets.tn/)"  
+    [![](https://ctftime.org/media/events/logo_red_copy_1_2.jpg){ width="200" align=left }](https://ctf.securinets.tn/)  
+    **比赛名称** : [Securinets CTF Quals 2026](https://ctf.securinets.tn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-10-03 17:00:00 - 2026-10-05 05:00:00 UTC+8  
     **比赛权重** : 85.12  
@@ -395,6 +395,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
     **添加日历** : https://ctftime.org/event/3049.ics  
+    
+??? Quote "[EyesOpenCTF 7th edition](https://eyesopensecurity.com/ctf-briefing.html)"  
+    [![](https://ctftime.org/media/events/Template_Speaker_-_2026_4.png){ width="200" align=left }](https://eyesopensecurity.com/ctf-briefing.html)  
+    **比赛名称** : [EyesOpenCTF 7th edition](https://eyesopensecurity.com/ctf-briefing.html)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-11-20 18:00:00 - 2026-11-22 18:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : EyesOpen_Security (https://ctftime.org/team/200580)  
+    **添加日历** : https://ctftime.org/event/3419.ics  
     
 ??? Quote "[GlacierCTF 2026](https://glacierctf.com/)"  
     [![](https://ctftime.org/media/events/glacierlogo_1.png){ width="200" align=left }](https://glacierctf.com/)  
