@@ -54,41 +54,41 @@ hide:
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)"  
-            [![](https://ctftime.org/media/events/9f419586e0dedbff0130e6f487ddc54c.png){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
-            **比赛名称** : [BlackHat MEA CTF Qualification 2026](https://blackhatmea.com/capture-the-flag)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-29 15:00:00 - 2026-08-30 15:00:00 UTC+8  
-            **比赛权重** : 8.10  
-            **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-            **添加日历** : https://ctftime.org/event/3385.ics  
+        ??? Quote "[DiceCTF 2026 Finals](https://ctf.dicega.ng/)"  
+            [![](https://ctftime.org/media/events/dice.jpg){ width="200" align=left }](https://ctf.dicega.ng/)  
+            **比赛名称** : [DiceCTF 2026 Finals](https://ctf.dicega.ng/)  
+            **比赛形式** : Hack quest  
+            **比赛时间** : 2026-08-30 00:00:00 - 2026-08-31 06:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
+            **添加日历** : https://ctftime.org/event/3416.ics  
             
-        ??? Quote "[UND CyberHawks National CTF Competition 2026 Qualifiers](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)"  
-            [![](https://ctftime.org/media/events/banner_1.jpg){ width="200" align=left }](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)  
-            **比赛名称** : [UND CyberHawks National CTF Competition 2026 Qualifiers](https://ctf.hackthebox.com/event/details/und-cyberhawks-national-ctf-competition-2026-qualifiers-3444)  
+        ??? Quote "[NNS CTF 2026](https://nnsc.tf/)"  
+            [![](https://ctftime.org/media/events/Logo_D_1.png){ width="200" align=left }](https://nnsc.tf/)  
+            **比赛名称** : [NNS CTF 2026](https://nnsc.tf/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 13:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : UND CyberHawks (https://ctftime.org/team/439400)  
-            **添加日历** : https://ctftime.org/event/3347.ics  
-            
-        ??? Quote "[ASIS CTF Quals 2026](https://asisctf.com/)"  
-            [![](https://ctftime.org/media/events/asis_logo_1.png){ width="200" align=left }](https://asisctf.com/)  
-            **比赛名称** : [ASIS CTF Quals 2026](https://asisctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
-            **比赛权重** : 90.53  
-            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-            **添加日历** : https://ctftime.org/event/3033.ics  
-            
-        ??? Quote "[Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)"  
-            [![](https://ctftime.org/media/events/irantech.jpg){ width="200" align=left }](https://ctf.olympics.tech/)  
-            **比赛名称** : [Iran Tech Olympics CTF 2026](https://ctf.olympics.tech/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2026-08-29 22:00:00 - 2026-08-30 22:00:00 UTC+8  
+            **比赛时间** : 2026-09-05 00:00:00 - 2026-09-07 00:00:00 UTC+8  
             **比赛权重** : 25.00  
-            **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-            **添加日历** : https://ctftime.org/event/3413.ics  
+            **赛事主办** : Norske Nøkkelsnikere (https://ctftime.org/team/222749)  
+            **添加日历** : https://ctftime.org/event/3097.ics  
+            
+        ??? Quote "[TFC CTF 2026](https://ctf.thefewchosen.com/)"  
+            [![](https://ctftime.org/media/events/discord_logo_big.png){ width="200" align=left }](https://ctf.thefewchosen.com/)  
+            **比赛名称** : [TFC CTF 2026](https://ctf.thefewchosen.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-05 18:00:00 - 2026-09-06 18:00:00 UTC+8  
+            **比赛权重** : 77.08  
+            **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
+            **添加日历** : https://ctftime.org/event/3344.ics  
+            
+        ??? Quote "[SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)"  
+            [![](https://ctftime.org/media/events/sunctfposter.jpg){ width="200" align=left }](https://www.sunwaycybersecurityclub.org/sunctf)  
+            **比赛名称** : [SUNCTF 2026](https://www.sunwaycybersecurityclub.org/sunctf)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2026-09-06 08:00:00 - 2026-09-06 17:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : Sunway Cybersecurity Club (https://ctftime.org/team/441392)  
+            **添加日历** : https://ctftime.org/event/3389.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
