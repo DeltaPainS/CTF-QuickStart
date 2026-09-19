@@ -8,6 +8,24 @@ comments: true
 
 
 ## 国际赛事
+??? Quote "[z0d1ak CTF Finals](https://ctf.z0d1ak.org/)"  
+    [![](https://ctftime.org/media/events/Zodiak_CTF_Logo_1.png){ width="200" align=left }](https://ctf.z0d1ak.org/)  
+    **比赛名称** : [z0d1ak CTF Finals](https://ctf.z0d1ak.org/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 11:30:00 - 2026-09-19 20:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : z0d1ak (https://ctftime.org/team/373452)  
+    **添加日历** : https://ctftime.org/event/3428.ics  
+    
+??? Quote "[Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)"  
+    [![](https://ctftime.org/media/events/haruul_zangi_logo_updated_3.png){ width="200" align=left }](https://2026.haruulzangi.mn/)  
+    **比赛名称** : [Haruulzangi CTF 2026 Semi-Final](https://2026.haruulzangi.mn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2026-09-19 10:00:00 - 2026-09-19 16:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
+    **添加日历** : https://ctftime.org/event/3431.ics  
+    
 ??? Quote "[NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)"  
     [![](https://ctftime.org/media/events/722217335_18086037686297664_317017320748858629_n.jpg){ width="200" align=left }](https://nullorigin.cyberhx.com/)  
     **比赛名称** : [NullOrigin CTF Qualifiers](https://nullorigin.cyberhx.com/)  
@@ -40,7 +58,7 @@ comments: true
     **比赛名称** : [CAT CTF 26](https://ctf.catreloaded.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2026-09-11 20:00:00 - 2026-09-12 20:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : 0xL4ugh (https://ctftime.org/team/132776)  
     **添加日历** : https://ctftime.org/event/3360.ics  
     
@@ -889,22 +907,4 @@ comments: true
     **比赛权重** : 63.22  
     **赛事主办** : Benevolent Bureau of Birds (https://ctftime.org/team/425757)  
     **添加日历** : https://ctftime.org/event/3205.ics  
-    
-??? Quote "[Hack for a Change 2026 May: UN SDG 1](https://www.hackforachange.org/)"  
-    [![](https://ctftime.org/media/events/logo_127.png){ width="200" align=left }](https://www.hackforachange.org/)  
-    **比赛名称** : [Hack for a Change 2026 May: UN SDG 1](https://www.hackforachange.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-19 08:00:00 - 2026-05-22 07:59:59 UTC+8  
-    **比赛权重** : 24.53  
-    **赛事主办** : Hack for a Change (https://ctftime.org/team/419248)  
-    **添加日历** : https://ctftime.org/event/3277.ics  
-    
-??? Quote "[0xV01D CTF 2026](https://0xv01d-ctf.xyz/)"  
-    [![](){ width="200" align=left }](https://0xv01d-ctf.xyz/)  
-    **比赛名称** : [0xV01D CTF 2026](https://0xv01d-ctf.xyz/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2026-05-18 12:00:00 - 2026-05-20 12:00:00 UTC+8  
-    **比赛权重** : 19.48  
-    **赛事主办** : OxV01D (https://ctftime.org/team/427687)  
-    **添加日历** : https://ctftime.org/event/3269.ics  
     
