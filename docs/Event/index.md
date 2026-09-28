@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
-                [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
-                **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
-                **添加日历** : https://ctftime.org/event/3417.ics  
-                
             ??? Quote "[CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)"  
                 [![](https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png){ width="200" align=left }](https://ctf.cybersecurity.sydney/)  
                 **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
@@ -635,15 +626,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[FlightPath2026](http://setyourvector.org/)"  
-                [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
-                **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ĀYŌDÈ (https://ctftime.org/team/418961)  
-                **添加日历** : https://ctftime.org/event/3422.ics  
-                
             ??? Quote "[SunshineCTF 2026](https://sunshinectf.org/)"  
                 [![](https://ctftime.org/media/events/sunshinectf25_logo.png){ width="200" align=left }](https://sunshinectf.org/)  
                 **比赛名称** : [SunshineCTF 2026](https://sunshinectf.org/)  
@@ -661,6 +643,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/3020.ics  
+                
+            ??? Quote "[SCAN 2026 Final](https://scan.sx/)"  
+                [![](https://ctftime.org/media/events/32x32_icon_1.png){ width="200" align=left }](https://scan.sx/)  
+                **比赛名称** : [SCAN 2026 Final](https://scan.sx/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-28 09:00:00 - 2026-09-28 16:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
+                **添加日历** : https://ctftime.org/event/3417.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -692,6 +683,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : bdhxgrp (https://ctftime.org/team/193805)  
                 **添加日历** : https://ctftime.org/event/3374.ics  
+                
+            ??? Quote "[FlightPath2026](http://setyourvector.org/)"  
+                [![](https://ctftime.org/media/events/logo_136.png){ width="200" align=left }](http://setyourvector.org/)  
+                **比赛名称** : [FlightPath2026](http://setyourvector.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-09-25 21:30:00 - 2026-09-28 05:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ĀYŌDÈ (https://ctftime.org/team/418961)  
+                **添加日历** : https://ctftime.org/event/3422.ics  
                 
             ??? Quote "[NileCTF](https://nilectf.com/register)"  
                 [![](https://ctftime.org/media/events/logo_1000x1000.jpg){ width="200" align=left }](https://nilectf.com/register)  
@@ -1556,15 +1556,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : DMUHackers26 (https://ctftime.org/team/392860)  
                 **添加日历** : https://ctftime.org/event/3220.ics  
-                
-            ??? Quote "[WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)"  
-                [![](){ width="200" align=left }](https://eshatrojan.nl/trojanctf)  
-                **比赛名称** : [WhiteHats TrojanCTF 2026](https://eshatrojan.nl/trojanctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-05-30 17:00:00 - 2026-05-31 03:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : E.S.H.A. Trojan (https://ctftime.org/team/248605)  
-                **添加日历** : https://ctftime.org/event/3243.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
