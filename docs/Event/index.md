@@ -298,6 +298,15 @@ hide:
                 **赛事主办** : SharLike (https://ctftime.org/team/16172)  
                 **添加日历** : https://ctftime.org/event/3432.ics  
                 
+            ??? Quote "[Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)"  
+                [![](https://ctftime.org/media/events/Blue_Cartoon_April_Fools_Day_Instagram_Post.png){ width="200" align=left }](https://ctf.bugpwn.com/)  
+                **比赛名称** : [Africa battleCTF 2026 Qualifier](https://ctf.bugpwn.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-05 07:00:00 - 2026-11-05 07:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : BUG PWN (https://ctftime.org/team/182428)  
+                **添加日历** : https://ctftime.org/event/3462.ics  
+                
             ??? Quote "[ByteMe CTF 26](https://bytemectf.owasppccoe.in/)"  
                 [![](https://ctftime.org/media/events/owasp_logo_1.png){ width="200" align=left }](https://bytemectf.owasppccoe.in/)  
                 **比赛名称** : [ByteMe CTF 26](https://bytemectf.owasppccoe.in/)  
@@ -388,6 +397,15 @@ hide:
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/3409.ics  
                 
+            ??? Quote "[cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
+                [![](https://ctftime.org/media/events/cruX_logo_1.png){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
+                **比赛名称** : [cruXipher 2026 - ATMoS '26, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-23 08:30:00 - 2026-10-25 08:30:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
+                **添加日历** : https://ctftime.org/event/3369.ics  
+                
             ??? Quote "[HITCON CTF 2026](https://ctf2026.hitcon.org/)"  
                 [![](https://ctftime.org/media/events/63dc69a784f6f69a935d3cd01afa2fa7.jpg){ width="200" align=left }](https://ctf2026.hitcon.org/)  
                 **比赛名称** : [HITCON CTF 2026](https://ctf2026.hitcon.org/)  
@@ -442,6 +460,15 @@ hide:
                 **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
                 **添加日历** : https://ctftime.org/event/3094.ics  
                 
+            ??? Quote "[VOID CTF Qualifiers](https://ctf.void-society.in/)"  
+                [![](https://ctftime.org/media/events/void-ctf-logo.png){ width="200" align=left }](https://ctf.void-society.in/)  
+                **比赛名称** : [VOID CTF Qualifiers](https://ctf.void-society.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-25 02:30:00 - 2026-10-26 02:30:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : void-society (https://ctftime.org/team/407696)  
+                **添加日历** : https://ctftime.org/event/3468.ics  
+                
             ??? Quote "[Sudocrypt v16.0](https://sudocrypt.com/)"  
                 [![](https://ctftime.org/media/events/WhatsApp_Image_2026-09-14_at_12.17.30.jpeg){ width="200" align=left }](https://sudocrypt.com/)  
                 **比赛名称** : [Sudocrypt v16.0](https://sudocrypt.com/)  
@@ -477,6 +504,24 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Hidden Investigations (https://ctftime.org/team/188318)  
                 **添加日历** : https://ctftime.org/event/3460.ics  
+                
+            ??? Quote "[2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)"  
+                [![](https://ctftime.org/media/events/logo_139.png){ width="200" align=left }](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+                **比赛名称** : [2026 Qiangwang Challenge on Cyber Mimic Defense Qualification](https://nest.pmlabs.com.cn/en/events/qiangwang-9/registration)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-31 10:00:00 - 2026-11-01 10:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : LoveFromMimic (https://ctftime.org/team/364644)  
+                **添加日历** : https://ctftime.org/event/3459.ics  
+                
+            ??? Quote "[Russian CTF Cup X Qualifier](https://ctfcup.ru/)"  
+                [![](){ width="200" align=left }](https://ctfcup.ru/)  
+                **比赛名称** : [Russian CTF Cup X Qualifier](https://ctfcup.ru/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-10-31 17:00:00 - 2026-11-01 17:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
+                **添加日历** : https://ctftime.org/event/3469.ics  
                 
             ??? Quote "[HKCERT CTF 2026 (Qualifying Round)](https://ctf.hkcert.org/)"  
                 [![](https://ctftime.org/media/events/CTF_2026_1.png){ width="200" align=left }](https://ctf.hkcert.org/)  
@@ -523,6 +568,15 @@ hide:
                 **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
                 **添加日历** : https://ctftime.org/event/3242.ics  
                 
+            ??? Quote "[Mimic](https://ctf.rarebytehub.com/events/mimic)"  
+                [![](https://ctftime.org/media/events/rare-byte-hub.png){ width="200" align=left }](https://ctf.rarebytehub.com/events/mimic)  
+                **比赛名称** : [Mimic](https://ctf.rarebytehub.com/events/mimic)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-07 20:00:00 - 2026-11-08 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Rare Byte Hub (https://ctftime.org/team/445438)  
+                **添加日历** : https://ctftime.org/event/3455.ics  
+                
             ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
                 [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
                 **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
@@ -550,14 +604,14 @@ hide:
                 **赛事主办** : wolvsec (https://ctftime.org/team/83621)  
                 **添加日历** : https://ctftime.org/event/3049.ics  
                 
-            ??? Quote "[International Battle of Hackers 2026](https://battleofhackers.com/)"  
-                [![](https://ctftime.org/media/events/BOH_LOGO_ONLY_1.png){ width="200" align=left }](https://battleofhackers.com/)  
-                **比赛名称** : [International Battle of Hackers 2026](https://battleofhackers.com/)  
+            ??? Quote "[InIt CTF](https://hackersinindia.com/init-ctf)"  
+                [![](https://ctftime.org/media/events/InIt_CTF.png){ width="200" align=left }](https://hackersinindia.com/init-ctf)  
+                **比赛名称** : [InIt CTF](https://hackersinindia.com/init-ctf)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-11-14 08:30:00 - 2026-11-14 18:00:00 UTC+8  
+                **比赛时间** : 2026-11-14 23:30:00 - 2026-11-15 07:30:00 UTC+8  
                 **比赛权重** : 0  
-                **赛事主办** : FSEC-SS (https://ctftime.org/team/436859)  
-                **添加日历** : https://ctftime.org/event/3390.ics  
+                **赛事主办** : Hackers_In_India (https://ctftime.org/team/448862)  
+                **添加日历** : https://ctftime.org/event/3467.ics  
                 
             ??? Quote "[EyesOpenCTF 7th edition](https://eyesopensecurity.com/ctf-briefing.html)"  
                 [![](https://ctftime.org/media/events/Template_Speaker_-_2026_4.png){ width="200" align=left }](https://eyesopensecurity.com/ctf-briefing.html)  
@@ -640,6 +694,15 @@ hide:
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/3062.ics  
                 
+            ??? Quote "[JerseyCTF VII](https://ctf.jerseyctf.com/)"  
+                [![](https://ctftime.org/media/events/mono-side-jerseyctf.png){ width="200" align=left }](https://ctf.jerseyctf.com/)  
+                **比赛名称** : [JerseyCTF VII](https://ctf.jerseyctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2027-03-14 01:00:00 - 2027-03-15 00:00:00 UTC+8  
+                **比赛权重** : 47.14  
+                **赛事主办** : Highlander Hackers (https://ctftime.org/team/173925)  
+                **添加日历** : https://ctftime.org/event/3458.ics  
+                
     === "*正在进行*"
         === "国内赛事"
     
@@ -671,15 +734,6 @@ hide:
                 **赛事主办** : b33tro0t (https://ctftime.org/team/380826)  
                 **添加日历** : https://ctftime.org/event/3465.ics  
                 
-            ??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
-                [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
-                **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
-                **比赛形式** : Attack-Defense  
-                **比赛时间** : 2026-10-03 22:00:00 - 2026-10-04 06:00:00 UTC+8  
-                **比赛权重** : 24.71  
-                **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
-                **添加日历** : https://ctftime.org/event/3352.ics  
-                
             ??? Quote "[CDCTF 2026](https://crimsondefense.org/cdctf/)"  
                 [![](https://ctftime.org/media/events/cdctf_logo_square_1.png){ width="200" align=left }](https://crimsondefense.org/cdctf/)  
                 **比赛名称** : [CDCTF 2026](https://crimsondefense.org/cdctf/)  
@@ -693,6 +747,15 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
+            ??? Quote "[CubeCTF 2026](https://cubectf.com/)"  
+                [![](https://ctftime.org/media/events/5097d73fb21778d02f541a3fdef957f3_1.jpg){ width="200" align=left }](https://cubectf.com/)  
+                **比赛名称** : [CubeCTF 2026](https://cubectf.com/)  
+                **比赛形式** : Attack-Defense  
+                **比赛时间** : 2026-10-03 22:00:00 - 2026-10-04 06:00:00 UTC+8  
+                **比赛权重** : 24.71  
+                **赛事主办** : CubeMastery (https://ctftime.org/team/168744)  
+                **添加日历** : https://ctftime.org/event/3352.ics  
+                
             ??? Quote "[CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)"  
                 [![](https://ctftime.org/media/events/dbdeeab4624f46479b54527337e9e860.png){ width="200" align=left }](https://ctf.cybersecurity.sydney/)  
                 **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
@@ -1583,15 +1646,6 @@ hide:
                 **比赛权重** : 24.00  
                 **赛事主办** : CyberXoX (https://ctftime.org/team/374041)  
                 **添加日历** : https://ctftime.org/event/3308.ics  
-                
-            ??? Quote "[RPCA CTF 2026](https://grandctf.rpca.ac.th/)"  
-                [![](){ width="200" align=left }](https://grandctf.rpca.ac.th/)  
-                **比赛名称** : [RPCA CTF 2026](https://grandctf.rpca.ac.th/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-06-06 01:00:00 - 2026-06-09 01:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
-                **添加日历** : https://ctftime.org/event/3278.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
