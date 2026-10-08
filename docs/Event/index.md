@@ -406,15 +406,6 @@ hide:
                 **赛事主办** : HITCON (https://ctftime.org/team/8299)  
                 **添加日历** : https://ctftime.org/event/3340.ics  
                 
-            ??? Quote "[h4ckc0n 2026](http://h4ckc0n.in/)"  
-                [![](https://ctftime.org/media/events/images_1.jpeg){ width="200" align=left }](http://h4ckc0n.in/)  
-                **比赛名称** : [h4ckc0n 2026](http://h4ckc0n.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-10-23 23:30:00 - 2026-10-24 23:30:00 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : d4rkc0de (https://ctftime.org/team/15154)  
-                **添加日历** : https://ctftime.org/event/3464.ics  
-                
             ??? Quote "[RSTCON 2026 CTF](https://ctf.rstcon.org/)"  
                 [![](https://ctftime.org/media/events/RSTCON-BLK_1.png){ width="200" align=left }](https://ctf.rstcon.org/)  
                 **比赛名称** : [RSTCON 2026 CTF](https://ctf.rstcon.org/)  
@@ -761,7 +752,7 @@ hide:
                 **比赛名称** : [CSS CTF 2026: Return of Nexus](https://ctf.cybersecurity.sydney/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2026-09-30 14:00:00 - 2026-10-02 06:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.61  
                 **赛事主办** : suɐǝpodᴉʇuɐ (https://ctftime.org/team/382153)  
                 **添加日历** : https://ctftime.org/event/3434.ics  
                 
