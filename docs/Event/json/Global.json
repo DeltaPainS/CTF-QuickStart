@@ -1,29 +1,5 @@
 [
     {
-        "比赛名称": "FortID CTF 2026",
-        "比赛时间": "2026-10-10 02:00:00 - 2026-10-12 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3440.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.fortid.com/",
-        "比赛标志": "https://ctftime.org/media/events/fortid_ctf_logo.jpg",
-        "比赛权重": "45.00",
-        "赛事主办": "TBTL (https://ctftime.org/team/170112)",
-        "比赛ID": "951",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "kBxAc CTF 2026",
-        "比赛时间": "2026-10-10 02:30:00 - 2026-10-11 02:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3456.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.kbxac.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/kbxac_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "kBxAc (https://ctftime.org/team/358282)",
-        "比赛ID": "1699",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Cryovault 2026 Quals",
         "比赛时间": "2026-10-10 12:30:00 - 2026-10-11 12:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3441.ics",
@@ -528,6 +504,30 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "FortID CTF 2026",
+        "比赛时间": "2026-10-10 02:00:00 - 2026-10-12 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3440.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.fortid.com/",
+        "比赛标志": "https://ctftime.org/media/events/fortid_ctf_logo.jpg",
+        "比赛权重": "45.00",
+        "赛事主办": "TBTL (https://ctftime.org/team/170112)",
+        "比赛ID": "951",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "kBxAc CTF 2026",
+        "比赛时间": "2026-10-10 02:30:00 - 2026-10-11 02:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/3456.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.kbxac.xyz/",
+        "比赛标志": "https://ctftime.org/media/events/kbxac_1.png",
+        "比赛权重": "0",
+        "赛事主办": "kBxAc (https://ctftime.org/team/358282)",
+        "比赛ID": "1699",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "ByteMe CTF 26",
         "比赛时间": "2026-10-09 12:30:00 - 2026-10-09 20:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/3438.ics",
@@ -537,7 +537,7 @@
         "比赛权重": "0",
         "赛事主办": "OWASP_PCCOE-CORE (https://ctftime.org/team/206360)",
         "比赛ID": "1678",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "AltayCTF 2026",
@@ -1725,18 +1725,6 @@
         "比赛权重": "24.69",
         "赛事主办": "hackme (https://ctftime.org/team/77185)",
         "比赛ID": "1572",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "boroCTF 2026",
-        "比赛时间": "2026-06-13 04:00:00 - 2026-06-16 11:59:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/3309.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://boroctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/c781f3b1226255163f3e6cc52fc2201e.jpg",
-        "比赛权重": "25.00",
-        "赛事主办": "KyteBytes (https://ctftime.org/team/424457)",
-        "比赛ID": "1596",
         "比赛状态": "past"
     }
 ]
