@@ -298,6 +298,15 @@ hide:
                 **赛事主办** : Rare Byte Hub (https://ctftime.org/team/445438)  
                 **添加日历** : https://ctftime.org/event/3455.ics  
                 
+            ??? Quote "[CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)"  
+                [![](https://ctftime.org/media/events/cyberzerk-logo-complet-blanc.png){ width="200" align=left }](https://ctf.cyberzerk.fr/)  
+                **比赛名称** : [CyberZerk CTF 2026](https://ctf.cyberzerk.fr/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2026-11-09 21:00:00 - 2026-11-23 01:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CyberZerk (https://ctftime.org/team/453537)  
+                **添加日历** : https://ctftime.org/event/3499.ics  
+                
             ??? Quote "[CSAW CTF Final Round 2026](https://ctf.csaw.io/)"  
                 [![](https://ctftime.org/media/events/csawlogo_2.png){ width="200" align=left }](https://ctf.csaw.io/)  
                 **比赛名称** : [CSAW CTF Final Round 2026](https://ctf.csaw.io/)  
@@ -478,6 +487,15 @@ hide:
                 **赛事主办** : Cryptonite (https://ctftime.org/team/62713)  
                 **添加日历** : https://ctftime.org/event/3367.ics  
                 
+            ??? Quote "[Leo's 20th Birthday Bash](https://dmoj.ca/contest/leo20)"  
+                [![](https://ctftime.org/media/events/this-is-not-a-clue.png){ width="200" align=left }](https://dmoj.ca/contest/leo20)  
+                **比赛名称** : [Leo's 20th Birthday Bash](https://dmoj.ca/contest/leo20)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2026-12-12 09:00:00 - 2026-12-13 09:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SanguineChameleon (https://ctftime.org/team/453781)  
+                **添加日历** : https://ctftime.org/event/3498.ics  
+                
             ??? Quote "[BSides Algiers 2026](https://shellmates.club/)"  
                 [![](https://ctftime.org/media/events/image_1.jpg){ width="200" align=left }](https://shellmates.club/)  
                 **比赛名称** : [BSides Algiers 2026](https://shellmates.club/)  
@@ -581,6 +599,10 @@ hide:
                 **赛事主办** : Cyber Security Network (https://ctftime.org/team/214936)  
                 **添加日历** : https://ctftime.org/event/3339.ics  
                 
+    === "*已经结束*"
+        === "国内赛事"
+    
+        === "国外赛事"
             ??? Quote "[BlackAlps CTF 2026](https://blackalps.ch/ba-26/contest)"  
                 [![](https://ctftime.org/media/events/black-alps-v5-logo-black_HIGH-RES.png){ width="200" align=left }](https://blackalps.ch/ba-26/contest)  
                 **比赛名称** : [BlackAlps CTF 2026](https://blackalps.ch/ba-26/contest)  
@@ -590,10 +612,6 @@ hide:
                 **赛事主办** : BlackAlps (https://ctftime.org/team/89021)  
                 **添加日历** : https://ctftime.org/event/3242.ics  
                 
-    === "*已经结束*"
-        === "国内赛事"
-    
-        === "国外赛事"
             ??? Quote "[StealthCup 2026](https://stealth.ait.ac.at/)"  
                 [![](){ width="200" align=left }](https://stealth.ait.ac.at/)  
                 **比赛名称** : [StealthCup 2026](https://stealth.ait.ac.at/)  
@@ -1484,15 +1502,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : jailctf (https://ctftime.org/team/311088)  
                 **添加日历** : https://ctftime.org/event/3286.ics  
-                
-            ??? Quote "[Codegate CTF 2026 Finals](https://codegate.org/)"  
-                [![](){ width="200" align=left }](https://codegate.org/)  
-                **比赛名称** : [Codegate CTF 2026 Finals](https://codegate.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2026-07-23 09:00:00 - 2026-07-24 09:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CODEGATE (https://ctftime.org/team/39352)  
-                **添加日历** : https://ctftime.org/event/3292.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
